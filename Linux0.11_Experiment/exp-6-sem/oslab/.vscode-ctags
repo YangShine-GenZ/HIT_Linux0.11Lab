@@ -1,0 +1,1877 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+.c.o	linux-0.11/Makefile	/^.c.o:$/;"	t
+.c.o	linux-0.11/fs/Makefile	/^.c.o:$/;"	t
+.c.o	linux-0.11/kernel/Makefile	/^.c.o:$/;"	t
+.c.o	linux-0.11/kernel/blk_drv/Makefile	/^.c.o:$/;"	t
+.c.o	linux-0.11/kernel/chr_drv/Makefile	/^.c.o:$/;"	t
+.c.o	linux-0.11/kernel/math/Makefile	/^.c.o:$/;"	t
+.c.o	linux-0.11/lib/Makefile	/^.c.o:$/;"	t
+.c.o	linux-0.11/mm/Makefile	/^.c.o:$/;"	t
+.c.s	linux-0.11/Makefile	/^.c.s:$/;"	t
+.c.s	linux-0.11/fs/Makefile	/^.c.s:$/;"	t
+.c.s	linux-0.11/kernel/Makefile	/^.c.s:$/;"	t
+.c.s	linux-0.11/kernel/blk_drv/Makefile	/^.c.s:$/;"	t
+.c.s	linux-0.11/kernel/chr_drv/Makefile	/^.c.s:$/;"	t
+.c.s	linux-0.11/kernel/math/Makefile	/^.c.s:$/;"	t
+.c.s	linux-0.11/lib/Makefile	/^.c.s:$/;"	t
+.c.s	linux-0.11/mm/Makefile	/^.c.s:$/;"	t
+.s.o	linux-0.11/Makefile	/^.s.o:$/;"	t
+.s.o	linux-0.11/fs/Makefile	/^.s.o:$/;"	t
+.s.o	linux-0.11/kernel/Makefile	/^.s.o:$/;"	t
+.s.o	linux-0.11/kernel/blk_drv/Makefile	/^.s.o:$/;"	t
+.s.o	linux-0.11/kernel/chr_drv/Makefile	/^.s.o:$/;"	t
+.s.o	linux-0.11/kernel/math/Makefile	/^.s.o:$/;"	t
+.s.o	linux-0.11/lib/Makefile	/^.s.o:$/;"	t
+.s.o	linux-0.11/mm/Makefile	/^.s.o:$/;"	t
+ABRT_ERR	linux-0.11/include/linux/hdreg.h	/^#define ABRT_ERR	/;"	d
+ACC_MODE	linux-0.11/fs/namei.c	/^#define ACC_MODE(/;"	d	file:
+ALRMMASK	linux-0.11/kernel/chr_drv/tty_io.c	/^#define ALRMMASK /;"	d	file:
+AR	linux-0.11/fs/Makefile	/^AR	=ar$/;"	m
+AR	linux-0.11/kernel/Makefile	/^AR	=ar$/;"	m
+AR	linux-0.11/kernel/blk_drv/Makefile	/^AR	=ar$/;"	m
+AR	linux-0.11/kernel/chr_drv/Makefile	/^AR	=ar$/;"	m
+AR	linux-0.11/kernel/math/Makefile	/^AR	=ar$/;"	m
+AR	linux-0.11/lib/Makefile	/^AR	=ar$/;"	m
+AR	linux-0.11/mm/Makefile	/^AR	=ar$/;"	m
+ARCHIVES	linux-0.11/Makefile	/^ARCHIVES=kernel\/kernel.o mm\/mm.o fs\/fs.o$/;"	m
+AS	linux-0.11/Makefile	/^AS	=as$/;"	m
+AS	linux-0.11/fs/Makefile	/^AS	=as$/;"	m
+AS	linux-0.11/kernel/Makefile	/^AS	=as --32$/;"	m
+AS	linux-0.11/kernel/blk_drv/Makefile	/^AS	=as$/;"	m
+AS	linux-0.11/kernel/chr_drv/Makefile	/^AS	=as --32$/;"	m
+AS	linux-0.11/kernel/math/Makefile	/^AS	=as$/;"	m
+AS	linux-0.11/lib/Makefile	/^AS	=as$/;"	m
+AS	linux-0.11/mm/Makefile	/^AS	=as --32$/;"	m
+AS86	linux-0.11/Makefile	/^AS86	=as86 -0 -a$/;"	m
+B0	linux-0.11/include/termios.h	/^#define  B0	/;"	d
+B110	linux-0.11/include/termios.h	/^#define  B110	/;"	d
+B1200	linux-0.11/include/termios.h	/^#define  B1200	/;"	d
+B134	linux-0.11/include/termios.h	/^#define  B134	/;"	d
+B150	linux-0.11/include/termios.h	/^#define  B150	/;"	d
+B1800	linux-0.11/include/termios.h	/^#define  B1800	/;"	d
+B19200	linux-0.11/include/termios.h	/^#define  B19200	/;"	d
+B200	linux-0.11/include/termios.h	/^#define  B200	/;"	d
+B2400	linux-0.11/include/termios.h	/^#define  B2400	/;"	d
+B300	linux-0.11/include/termios.h	/^#define  B300	/;"	d
+B38400	linux-0.11/include/termios.h	/^#define  B38400	/;"	d
+B4800	linux-0.11/include/termios.h	/^#define  B4800	/;"	d
+B50	linux-0.11/include/termios.h	/^#define  B50	/;"	d
+B600	linux-0.11/include/termios.h	/^#define  B600	/;"	d
+B75	linux-0.11/include/termios.h	/^#define  B75	/;"	d
+B9600	linux-0.11/include/termios.h	/^#define  B9600	/;"	d
+BADNESS	linux-0.11/fs/buffer.c	/^#define BADNESS(/;"	d	file:
+BBD_ERR	linux-0.11/include/linux/hdreg.h	/^#define	BBD_ERR	/;"	d
+BCD_TO_BIN	linux-0.11/init/main.c	/^#define BCD_TO_BIN(/;"	d	file:
+BLOCK_SIZE	linux-0.11/include/linux/fs.h	/^#define BLOCK_SIZE /;"	d
+BLOCK_SIZE_BITS	linux-0.11/include/linux/fs.h	/^#define BLOCK_SIZE_BITS /;"	d
+BRKINT	linux-0.11/include/termios.h	/^#define BRKINT	/;"	d
+BS0	linux-0.11/include/termios.h	/^#define   BS0	/;"	d
+BS1	linux-0.11/include/termios.h	/^#define   BS1	/;"	d
+BSDLY	linux-0.11/include/termios.h	/^#define BSDLY	/;"	d
+BUFFER_END	linux-0.11/include/const.h	/^#define BUFFER_END /;"	d
+BUSY_STAT	linux-0.11/include/linux/hdreg.h	/^#define BUSY_STAT	/;"	d
+BootImage	linux-0.11/Makefile	/^BootImage: boot\/bootsect boot\/setup tools\/build$/;"	t
+CBAUD	linux-0.11/include/termios.h	/^#define CBAUD	/;"	d
+CC	linux-0.11/Makefile	/^CC	=gcc-3.4 -march=i386 $(RAMDISK)$/;"	m
+CC	linux-0.11/fs/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	linux-0.11/kernel/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	linux-0.11/kernel/blk_drv/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	linux-0.11/kernel/chr_drv/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	linux-0.11/kernel/math/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	linux-0.11/lib/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	linux-0.11/mm/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CFLAGS	linux-0.11/Makefile	/^CFLAGS	=-m32 -g -Wall -O2 -fomit-frame-pointer $/;"	m
+CFLAGS	linux-0.11/fs/Makefile	/^CFLAGS	=-m32 -g -Wall -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	linux-0.11/kernel/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	linux-0.11/kernel/blk_drv/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer  \\$/;"	m
+CFLAGS	linux-0.11/kernel/chr_drv/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	linux-0.11/kernel/math/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	linux-0.11/lib/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	linux-0.11/mm/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CHARS	linux-0.11/include/linux/tty.h	/^#define CHARS(/;"	d
+CIBAUD	linux-0.11/include/termios.h	/^#define CIBAUD	/;"	d
+CLOCAL	linux-0.11/include/termios.h	/^#define CLOCAL	/;"	d
+CLOCKS_PER_SEC	linux-0.11/include/time.h	/^#define CLOCKS_PER_SEC /;"	d
+CMOS_READ	linux-0.11/init/main.c	/^#define CMOS_READ(/;"	d	file:
+CMOS_READ	linux-0.11/kernel/blk_drv/hd.c	/^#define CMOS_READ(/;"	d	file:
+CODE_SPACE	linux-0.11/mm/memory.c	/^#define CODE_SPACE(/;"	d	file:
+COPYBLK	linux-0.11/fs/buffer.c	/^#define COPYBLK(/;"	d	file:
+CPARENB	linux-0.11/include/termios.h	/^#define CPARENB	/;"	d
+CPARODD	linux-0.11/include/termios.h	/^#define CPARODD	/;"	d
+CPP	linux-0.11/Makefile	/^CPP	=cpp -nostdinc -Iinclude$/;"	m
+CPP	linux-0.11/fs/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CPP	linux-0.11/kernel/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CPP	linux-0.11/kernel/blk_drv/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/..\/include$/;"	m
+CPP	linux-0.11/kernel/chr_drv/Makefile	/^CPP	=gcc-3.4 -m32 -g -E -nostdinc -I..\/..\/include$/;"	m
+CPP	linux-0.11/kernel/math/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/..\/include$/;"	m
+CPP	linux-0.11/lib/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CPP	linux-0.11/mm/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CR0	linux-0.11/include/termios.h	/^#define   CR0	/;"	d
+CR1	linux-0.11/include/termios.h	/^#define   CR1	/;"	d
+CR2	linux-0.11/include/termios.h	/^#define   CR2	/;"	d
+CR3	linux-0.11/include/termios.h	/^#define   CR3	/;"	d
+CRDLY	linux-0.11/include/termios.h	/^#define CRDLY	/;"	d
+CREAD	linux-0.11/include/termios.h	/^#define CREAD	/;"	d
+CRTSCTS	linux-0.11/include/termios.h	/^#define CRTSCTS	/;"	d
+CS5	linux-0.11/include/termios.h	/^#define   CS5	/;"	d
+CS6	linux-0.11/include/termios.h	/^#define   CS6	/;"	d
+CS7	linux-0.11/include/termios.h	/^#define   CS7	/;"	d
+CS8	linux-0.11/include/termios.h	/^#define   CS8	/;"	d
+CSIZE	linux-0.11/include/termios.h	/^#define CSIZE	/;"	d
+CSTOPB	linux-0.11/include/termios.h	/^#define CSTOPB	/;"	d
+CURRENT	linux-0.11/kernel/blk_drv/blk.h	/^#define CURRENT /;"	d
+CURRENT_DEV	linux-0.11/kernel/blk_drv/blk.h	/^#define CURRENT_DEV /;"	d
+CURRENT_TIME	linux-0.11/include/linux/sched.h	/^#define CURRENT_TIME /;"	d
+DAY	linux-0.11/kernel/mktime.c	/^#define DAY /;"	d	file:
+DEC	linux-0.11/include/linux/tty.h	/^#define DEC(/;"	d
+DEFAULT_MAJOR_ROOT	linux-0.11/tools/build.c	/^#define DEFAULT_MAJOR_ROOT /;"	d	file:
+DEFAULT_MINOR_ROOT	linux-0.11/tools/build.c	/^#define DEFAULT_MINOR_ROOT /;"	d	file:
+DEVICE_INTR	linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_INTR /;"	d
+DEVICE_INTR	linux-0.11/kernel/blk_drv/blk.h	/^void (*DEVICE_INTR)(void) = NULL;$/;"	v	typeref:typename:void (*)(void)
+DEVICE_NAME	linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_NAME /;"	d
+DEVICE_NR	linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_NR(/;"	d
+DEVICE_OFF	linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_OFF(/;"	d
+DEVICE_ON	linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_ON(/;"	d
+DEVICE_REQUEST	linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_REQUEST /;"	d
+DEVICE_REQUEST	linux-0.11/kernel/blk_drv/blk.h	/^static void (DEVICE_REQUEST)(void);$/;"	v	typeref:typename:void ()(void)
+DIR_ENTRIES_PER_BLOCK	linux-0.11/include/linux/fs.h	/^#define DIR_ENTRIES_PER_BLOCK /;"	d
+DMA_READ	linux-0.11/include/linux/fdreg.h	/^#define DMA_READ	/;"	d
+DMA_WRITE	linux-0.11/include/linux/fdreg.h	/^#define DMA_WRITE	/;"	d
+DRIVE	linux-0.11/kernel/blk_drv/floppy.c	/^#define DRIVE(/;"	d	file:
+DRIVERS	linux-0.11/Makefile	/^DRIVERS =kernel\/blk_drv\/blk_drv.a kernel\/chr_drv\/chr_drv.a$/;"	m
+DRIVE_INFO	linux-0.11/init/main.c	/^#define DRIVE_INFO /;"	d	file:
+DRQ_STAT	linux-0.11/include/linux/hdreg.h	/^#define DRQ_STAT	/;"	d
+E2BIG	linux-0.11/include/errno.h	/^#define E2BIG	/;"	d
+EACCES	linux-0.11/include/errno.h	/^#define EACCES	/;"	d
+EAGAIN	linux-0.11/include/errno.h	/^#define EAGAIN	/;"	d
+EBADF	linux-0.11/include/errno.h	/^#define EBADF	/;"	d
+EBUSY	linux-0.11/include/errno.h	/^#define EBUSY	/;"	d
+ECC_ERR	linux-0.11/include/linux/hdreg.h	/^#define ECC_ERR	/;"	d
+ECC_STAT	linux-0.11/include/linux/hdreg.h	/^#define ECC_STAT	/;"	d
+ECHILD	linux-0.11/include/errno.h	/^#define ECHILD	/;"	d
+ECHO	linux-0.11/include/termios.h	/^#define ECHO	/;"	d
+ECHOCTL	linux-0.11/include/termios.h	/^#define ECHOCTL	/;"	d
+ECHOE	linux-0.11/include/termios.h	/^#define ECHOE	/;"	d
+ECHOK	linux-0.11/include/termios.h	/^#define ECHOK	/;"	d
+ECHOKE	linux-0.11/include/termios.h	/^#define ECHOKE	/;"	d
+ECHONL	linux-0.11/include/termios.h	/^#define ECHONL	/;"	d
+ECHOPRT	linux-0.11/include/termios.h	/^#define ECHOPRT	/;"	d
+EDEADLK	linux-0.11/include/errno.h	/^#define EDEADLK	/;"	d
+EDOM	linux-0.11/include/errno.h	/^#define EDOM	/;"	d
+EEXIST	linux-0.11/include/errno.h	/^#define EEXIST	/;"	d
+EFAULT	linux-0.11/include/errno.h	/^#define EFAULT	/;"	d
+EFBIG	linux-0.11/include/errno.h	/^#define EFBIG	/;"	d
+EINTR	linux-0.11/include/errno.h	/^#define EINTR	/;"	d
+EINVAL	linux-0.11/include/errno.h	/^#define EINVAL	/;"	d
+EIO	linux-0.11/include/errno.h	/^#define EIO	/;"	d
+EISDIR	linux-0.11/include/errno.h	/^#define EISDIR	/;"	d
+EMFILE	linux-0.11/include/errno.h	/^#define EMFILE	/;"	d
+EMLINK	linux-0.11/include/errno.h	/^#define EMLINK	/;"	d
+EMPTY	linux-0.11/include/linux/tty.h	/^#define EMPTY(/;"	d
+ENAMETOOLONG	linux-0.11/include/errno.h	/^#define ENAMETOOLONG	/;"	d
+ENFILE	linux-0.11/include/errno.h	/^#define ENFILE	/;"	d
+ENODEV	linux-0.11/include/errno.h	/^#define ENODEV	/;"	d
+ENOENT	linux-0.11/include/errno.h	/^#define ENOENT	/;"	d
+ENOEXEC	linux-0.11/include/errno.h	/^#define ENOEXEC	/;"	d
+ENOLCK	linux-0.11/include/errno.h	/^#define ENOLCK	/;"	d
+ENOMEM	linux-0.11/include/errno.h	/^#define ENOMEM	/;"	d
+ENOSPC	linux-0.11/include/errno.h	/^#define ENOSPC	/;"	d
+ENOSYS	linux-0.11/include/errno.h	/^#define ENOSYS	/;"	d
+ENOTBLK	linux-0.11/include/errno.h	/^#define ENOTBLK	/;"	d
+ENOTDIR	linux-0.11/include/errno.h	/^#define ENOTDIR	/;"	d
+ENOTEMPTY	linux-0.11/include/errno.h	/^#define ENOTEMPTY	/;"	d
+ENOTTY	linux-0.11/include/errno.h	/^#define ENOTTY	/;"	d
+ENXIO	linux-0.11/include/errno.h	/^#define ENXIO	/;"	d
+EOF_CHAR	linux-0.11/include/linux/tty.h	/^#define EOF_CHAR(/;"	d
+EPERM	linux-0.11/include/errno.h	/^#define EPERM	/;"	d
+EPIPE	linux-0.11/include/errno.h	/^#define EPIPE	/;"	d
+ERANGE	linux-0.11/include/errno.h	/^#define ERANGE	/;"	d
+ERASE_CHAR	linux-0.11/include/linux/tty.h	/^#define ERASE_CHAR(/;"	d
+EROFS	linux-0.11/include/errno.h	/^#define EROFS	/;"	d
+ERROR	linux-0.11/include/errno.h	/^#define ERROR	/;"	d
+ERR_STAT	linux-0.11/include/linux/hdreg.h	/^#define ERR_STAT	/;"	d
+ESPIPE	linux-0.11/include/errno.h	/^#define ESPIPE	/;"	d
+ESRCH	linux-0.11/include/errno.h	/^#define ESRCH	/;"	d
+ETXTBSY	linux-0.11/include/errno.h	/^#define ETXTBSY	/;"	d
+EXDEV	linux-0.11/include/errno.h	/^#define EXDEV	/;"	d
+EXTA	linux-0.11/include/termios.h	/^#define EXTA /;"	d
+EXTB	linux-0.11/include/termios.h	/^#define EXTB /;"	d
+EXT_MEM_K	linux-0.11/init/main.c	/^#define EXT_MEM_K /;"	d	file:
+FD_CLOEXEC	linux-0.11/include/fcntl.h	/^#define FD_CLOEXEC	/;"	d
+FD_DATA	linux-0.11/include/linux/fdreg.h	/^#define FD_DATA	/;"	d
+FD_DCR	linux-0.11/include/linux/fdreg.h	/^#define FD_DCR	/;"	d
+FD_DIR	linux-0.11/include/linux/fdreg.h	/^#define FD_DIR	/;"	d
+FD_DOR	linux-0.11/include/linux/fdreg.h	/^#define FD_DOR	/;"	d
+FD_READ	linux-0.11/include/linux/fdreg.h	/^#define FD_READ	/;"	d
+FD_RECALIBRATE	linux-0.11/include/linux/fdreg.h	/^#define FD_RECALIBRATE	/;"	d
+FD_SEEK	linux-0.11/include/linux/fdreg.h	/^#define FD_SEEK	/;"	d
+FD_SENSEI	linux-0.11/include/linux/fdreg.h	/^#define FD_SENSEI	/;"	d
+FD_SPECIFY	linux-0.11/include/linux/fdreg.h	/^#define FD_SPECIFY	/;"	d
+FD_STATUS	linux-0.11/include/linux/fdreg.h	/^#define FD_STATUS	/;"	d
+FD_WRITE	linux-0.11/include/linux/fdreg.h	/^#define FD_WRITE	/;"	d
+FF0	linux-0.11/include/termios.h	/^#define   FF0	/;"	d
+FF1	linux-0.11/include/termios.h	/^#define   FF1	/;"	d
+FFDLY	linux-0.11/include/termios.h	/^#define FFDLY	/;"	d
+FIRST_LDT_ENTRY	linux-0.11/include/linux/sched.h	/^#define FIRST_LDT_ENTRY /;"	d
+FIRST_TASK	linux-0.11/include/linux/sched.h	/^#define FIRST_TASK /;"	d
+FIRST_TSS_ENTRY	linux-0.11/include/linux/sched.h	/^#define FIRST_TSS_ENTRY /;"	d
+FLUSHO	linux-0.11/include/termios.h	/^#define FLUSHO	/;"	d
+FORCE	linux-0.11/Makefile	/^FORCE:$/;"	t
+FULL	linux-0.11/include/linux/tty.h	/^#define FULL(/;"	d
+F_DUPFD	linux-0.11/include/fcntl.h	/^#define F_DUPFD	/;"	d
+F_GETFD	linux-0.11/include/fcntl.h	/^#define F_GETFD	/;"	d
+F_GETFL	linux-0.11/include/fcntl.h	/^#define F_GETFL	/;"	d
+F_GETLK	linux-0.11/include/fcntl.h	/^#define F_GETLK	/;"	d
+F_OK	linux-0.11/include/unistd.h	/^#define F_OK	/;"	d
+F_RDLCK	linux-0.11/include/fcntl.h	/^#define F_RDLCK	/;"	d
+F_SETFD	linux-0.11/include/fcntl.h	/^#define F_SETFD	/;"	d
+F_SETFL	linux-0.11/include/fcntl.h	/^#define F_SETFL	/;"	d
+F_SETLK	linux-0.11/include/fcntl.h	/^#define F_SETLK	/;"	d
+F_SETLKW	linux-0.11/include/fcntl.h	/^#define F_SETLKW	/;"	d
+F_UNLCK	linux-0.11/include/fcntl.h	/^#define F_UNLCK	/;"	d
+F_WRLCK	linux-0.11/include/fcntl.h	/^#define F_WRLCK	/;"	d
+GCC_HEADER	linux-0.11/tools/build.c	/^#define GCC_HEADER /;"	d	file:
+GDT_CODE	linux-0.11/include/linux/head.h	/^#define GDT_CODE /;"	d
+GDT_DATA	linux-0.11/include/linux/head.h	/^#define GDT_DATA /;"	d
+GDT_NUL	linux-0.11/include/linux/head.h	/^#define GDT_NUL /;"	d
+GDT_TMP	linux-0.11/include/linux/head.h	/^#define GDT_TMP /;"	d
+GETCH	linux-0.11/include/linux/tty.h	/^#define GETCH(/;"	d
+HD_CMD	linux-0.11/include/linux/hdreg.h	/^#define HD_CMD	/;"	d
+HD_COMMAND	linux-0.11/include/linux/hdreg.h	/^#define HD_COMMAND /;"	d
+HD_CURRENT	linux-0.11/include/linux/hdreg.h	/^#define HD_CURRENT	/;"	d
+HD_DATA	linux-0.11/include/linux/hdreg.h	/^#define HD_DATA	/;"	d
+HD_ERROR	linux-0.11/include/linux/hdreg.h	/^#define HD_ERROR	/;"	d
+HD_HCYL	linux-0.11/include/linux/hdreg.h	/^#define HD_HCYL	/;"	d
+HD_LCYL	linux-0.11/include/linux/hdreg.h	/^#define HD_LCYL	/;"	d
+HD_NSECTOR	linux-0.11/include/linux/hdreg.h	/^#define HD_NSECTOR	/;"	d
+HD_PRECOMP	linux-0.11/include/linux/hdreg.h	/^#define HD_PRECOMP /;"	d
+HD_SECTOR	linux-0.11/include/linux/hdreg.h	/^#define HD_SECTOR	/;"	d
+HD_STATUS	linux-0.11/include/linux/hdreg.h	/^#define HD_STATUS	/;"	d
+HIGH_MEMORY	linux-0.11/mm/memory.c	/^static long HIGH_MEMORY = 0;$/;"	v	typeref:typename:long	file:
+HOUR	linux-0.11/kernel/mktime.c	/^#define HOUR /;"	d	file:
+HUPCL	linux-0.11/include/termios.h	/^#define HUPCL	/;"	d
+HZ	linux-0.11/include/linux/sched.h	/^#define HZ /;"	d
+ICANON	linux-0.11/include/termios.h	/^#define ICANON	/;"	d
+ICRNL	linux-0.11/include/termios.h	/^#define ICRNL	/;"	d
+ID_ERR	linux-0.11/include/linux/hdreg.h	/^#define ID_ERR	/;"	d
+IEXTEN	linux-0.11/include/termios.h	/^#define IEXTEN	/;"	d
+IGNBRK	linux-0.11/include/termios.h	/^#define IGNBRK	/;"	d
+IGNCR	linux-0.11/include/termios.h	/^#define IGNCR	/;"	d
+IGNPAR	linux-0.11/include/termios.h	/^#define IGNPAR	/;"	d
+IMAXBEL	linux-0.11/include/termios.h	/^#define IMAXBEL	/;"	d
+INC	linux-0.11/include/linux/tty.h	/^#define INC(/;"	d
+INC_PIPE	linux-0.11/include/linux/fs.h	/^#define INC_PIPE(/;"	d
+INDEX_STAT	linux-0.11/include/linux/hdreg.h	/^#define INDEX_STAT	/;"	d
+INIT_C_CC	linux-0.11/include/linux/tty.h	/^#define INIT_C_CC /;"	d
+INIT_REQUEST	linux-0.11/kernel/blk_drv/blk.h	/^#define INIT_REQUEST /;"	d
+INIT_TASK	linux-0.11/include/linux/sched.h	/^#define INIT_TASK /;"	d
+INLCR	linux-0.11/include/termios.h	/^#define INLCR	/;"	d
+INODES_PER_BLOCK	linux-0.11/include/linux/fs.h	/^#define INODES_PER_BLOCK /;"	d
+INPCK	linux-0.11/include/termios.h	/^#define INPCK	/;"	d
+INTMASK	linux-0.11/kernel/chr_drv/tty_io.c	/^#define INTMASK /;"	d	file:
+INTR_CHAR	linux-0.11/include/linux/tty.h	/^#define INTR_CHAR(/;"	d
+IN_ORDER	linux-0.11/kernel/blk_drv/blk.h	/^#define IN_ORDER(/;"	d
+ISIG	linux-0.11/include/termios.h	/^#define ISIG	/;"	d
+ISTRIP	linux-0.11/include/termios.h	/^#define ISTRIP	/;"	d
+IS_SEEKABLE	linux-0.11/include/linux/fs.h	/^#define IS_SEEKABLE(/;"	d
+IUCLC	linux-0.11/include/termios.h	/^#define IUCLC	/;"	d
+IXANY	linux-0.11/include/termios.h	/^#define IXANY	/;"	d
+IXOFF	linux-0.11/include/termios.h	/^#define IXOFF	/;"	d
+IXON	linux-0.11/include/termios.h	/^#define IXON	/;"	d
+I_BLOCK_SPECIAL	linux-0.11/include/const.h	/^#define I_BLOCK_SPECIAL /;"	d
+I_CHAR_SPECIAL	linux-0.11/include/const.h	/^#define I_CHAR_SPECIAL /;"	d
+I_CRNL	linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_CRNL(/;"	d	file:
+I_DIRECTORY	linux-0.11/include/const.h	/^#define I_DIRECTORY	/;"	d
+I_MAP_SLOTS	linux-0.11/include/linux/fs.h	/^#define I_MAP_SLOTS /;"	d
+I_NAMED_PIPE	linux-0.11/include/const.h	/^#define I_NAMED_PIPE	/;"	d
+I_NLCR	linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_NLCR(/;"	d	file:
+I_NOCR	linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_NOCR(/;"	d	file:
+I_REGULAR	linux-0.11/include/const.h	/^#define I_REGULAR /;"	d
+I_SET_GID_BIT	linux-0.11/include/const.h	/^#define I_SET_GID_BIT /;"	d
+I_SET_UID_BIT	linux-0.11/include/const.h	/^#define I_SET_UID_BIT /;"	d
+I_TYPE	linux-0.11/include/const.h	/^#define I_TYPE /;"	d
+I_UCLC	linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_UCLC(/;"	d	file:
+Image	linux-0.11/Makefile	/^Image: boot\/bootsect boot\/setup tools\/system tools\/build$/;"	t
+KBD_US	linux-0.11/include/linux/config.h	/^#define KBD_US$/;"	d
+KILLMASK	linux-0.11/kernel/chr_drv/tty_io.c	/^#define KILLMASK /;"	d	file:
+KILL_CHAR	linux-0.11/include/linux/tty.h	/^#define KILL_CHAR(/;"	d
+LAST	linux-0.11/include/linux/tty.h	/^#define LAST(/;"	d
+LAST_TASK	linux-0.11/include/linux/sched.h	/^#define LAST_TASK /;"	d
+LATCH	linux-0.11/kernel/sched.c	/^#define LATCH /;"	d	file:
+LD	linux-0.11/Makefile	/^LD	=ld$/;"	m
+LD	linux-0.11/fs/Makefile	/^LD	=ld$/;"	m
+LD	linux-0.11/kernel/Makefile	/^LD	=ld$/;"	m
+LD	linux-0.11/kernel/blk_drv/Makefile	/^LD	=ld$/;"	m
+LD	linux-0.11/kernel/chr_drv/Makefile	/^LD	=ld$/;"	m
+LD	linux-0.11/kernel/math/Makefile	/^LD	=ld$/;"	m
+LD	linux-0.11/lib/Makefile	/^LD	=ld$/;"	m
+LD	linux-0.11/mm/Makefile	/^LD	=ld$/;"	m
+LD86	linux-0.11/Makefile	/^LD86	=ld86 -0$/;"	m
+LDFLAGS	linux-0.11/Makefile	/^LDFLAGS	=-m elf_i386 -Ttext 0 -e startup_32$/;"	m
+LDFLAGS	linux-0.11/kernel/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	linux-0.11/kernel/blk_drv/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	linux-0.11/kernel/chr_drv/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	linux-0.11/kernel/math/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	linux-0.11/lib/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	linux-0.11/mm/Makefile	/^LDFLAGS =-m elf_i386$/;"	m
+LDT_CODE	linux-0.11/include/linux/head.h	/^#define LDT_CODE /;"	d
+LDT_DATA	linux-0.11/include/linux/head.h	/^#define LDT_DATA /;"	d
+LDT_NUL	linux-0.11/include/linux/head.h	/^#define LDT_NUL /;"	d
+LEFT	linux-0.11/include/linux/tty.h	/^#define LEFT(/;"	d
+LEFT	linux-0.11/kernel/vsprintf.c	/^#define LEFT	/;"	d	file:
+LIBS	linux-0.11/Makefile	/^LIBS	=lib\/lib.a$/;"	m
+LOW_MEM	linux-0.11/mm/memory.c	/^#define LOW_MEM /;"	d	file:
+L_CANON	linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_CANON(/;"	d	file:
+L_ECHO	linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHO(/;"	d	file:
+L_ECHOCTL	linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOCTL(/;"	d	file:
+L_ECHOE	linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOE(/;"	d	file:
+L_ECHOK	linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOK(/;"	d	file:
+L_ECHOKE	linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOKE(/;"	d	file:
+L_ISIG	linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ISIG(/;"	d	file:
+MAJOR	linux-0.11/include/linux/fs.h	/^#define MAJOR(/;"	d
+MAJOR	linux-0.11/tools/build.c	/^	#define MAJOR(/;"	d	file:
+MAJOR_NR	linux-0.11/kernel/blk_drv/floppy.c	/^#define MAJOR_NR /;"	d	file:
+MAJOR_NR	linux-0.11/kernel/blk_drv/hd.c	/^#define MAJOR_NR /;"	d	file:
+MAJOR_NR	linux-0.11/kernel/blk_drv/ramdisk.c	/^#define MAJOR_NR /;"	d	file:
+MAP_NR	linux-0.11/mm/memory.c	/^#define MAP_NR(/;"	d	file:
+MARK_ERR	linux-0.11/include/linux/hdreg.h	/^#define MARK_ERR	/;"	d
+MATH	linux-0.11/Makefile	/^MATH	=kernel\/math\/math.a$/;"	m
+MAX	linux-0.11/fs/file_dev.c	/^#define MAX(/;"	d	file:
+MAX_ARG_PAGES	linux-0.11/fs/exec.c	/^#define MAX_ARG_PAGES /;"	d	file:
+MAX_ERRORS	linux-0.11/kernel/blk_drv/floppy.c	/^#define MAX_ERRORS /;"	d	file:
+MAX_ERRORS	linux-0.11/kernel/blk_drv/hd.c	/^#define MAX_ERRORS	/;"	d	file:
+MAX_HD	linux-0.11/kernel/blk_drv/hd.c	/^#define MAX_HD	/;"	d	file:
+MAX_REPLIES	linux-0.11/kernel/blk_drv/floppy.c	/^#define MAX_REPLIES /;"	d	file:
+MAY_EXEC	linux-0.11/fs/namei.c	/^#define MAY_EXEC /;"	d	file:
+MAY_READ	linux-0.11/fs/namei.c	/^#define MAY_READ /;"	d	file:
+MAY_WRITE	linux-0.11/fs/namei.c	/^#define MAY_WRITE /;"	d	file:
+MIN	linux-0.11/fs/file_dev.c	/^#define MIN(/;"	d	file:
+MINIX_HEADER	linux-0.11/tools/build.c	/^#define MINIX_HEADER /;"	d	file:
+MINOR	linux-0.11/include/linux/fs.h	/^#define MINOR(/;"	d
+MINOR	linux-0.11/tools/build.c	/^	#define MINOR(/;"	d	file:
+MINUTE	linux-0.11/kernel/mktime.c	/^#define MINUTE /;"	d	file:
+NAME_LEN	linux-0.11/include/linux/fs.h	/^#define NAME_LEN /;"	d
+NCC	linux-0.11/include/termios.h	/^#define NCC /;"	d
+NCCS	linux-0.11/include/termios.h	/^#define NCCS /;"	d
+NL0	linux-0.11/include/termios.h	/^#define   NL0	/;"	d
+NL1	linux-0.11/include/termios.h	/^#define   NL1	/;"	d
+NLDLY	linux-0.11/include/termios.h	/^#define NLDLY	/;"	d
+NMAGIC	linux-0.11/include/a.out.h	/^#define NMAGIC /;"	d
+NOFLSH	linux-0.11/include/termios.h	/^#define NOFLSH	/;"	d
+NPAR	linux-0.11/kernel/chr_drv/console.c	/^#define NPAR /;"	d	file:
+NRDEVS	linux-0.11/fs/char_dev.c	/^#define NRDEVS /;"	d	file:
+NRDEVS	linux-0.11/fs/ioctl.c	/^#define NRDEVS /;"	d	file:
+NR_BLK_DEV	linux-0.11/kernel/blk_drv/blk.h	/^#define NR_BLK_DEV	/;"	d
+NR_BUFFERS	linux-0.11/fs/buffer.c	/^int NR_BUFFERS = 0;$/;"	v	typeref:typename:int
+NR_BUFFERS	linux-0.11/include/linux/fs.h	/^#define NR_BUFFERS /;"	d
+NR_FILE	linux-0.11/include/linux/fs.h	/^#define NR_FILE /;"	d
+NR_HASH	linux-0.11/include/linux/fs.h	/^#define NR_HASH /;"	d
+NR_HD	linux-0.11/kernel/blk_drv/hd.c	/^#define NR_HD /;"	d	file:
+NR_HD	linux-0.11/kernel/blk_drv/hd.c	/^static int NR_HD = 0;$/;"	v	typeref:typename:int	file:
+NR_INODE	linux-0.11/include/linux/fs.h	/^#define NR_INODE /;"	d
+NR_OPEN	linux-0.11/include/linux/fs.h	/^#define NR_OPEN /;"	d
+NR_REQUEST	linux-0.11/kernel/blk_drv/blk.h	/^#define NR_REQUEST	/;"	d
+NR_SUPER	linux-0.11/include/linux/fs.h	/^#define NR_SUPER /;"	d
+NR_TASKS	linux-0.11/include/linux/sched.h	/^#define NR_TASKS /;"	d
+NSIG	linux-0.11/include/signal.h	/^#define NSIG	/;"	d
+NULL	linux-0.11/include/linux/fs.h	/^#define NULL /;"	d
+NULL	linux-0.11/include/linux/sched.h	/^#define NULL /;"	d
+NULL	linux-0.11/include/stddef.h	/^#define NULL /;"	d
+NULL	linux-0.11/include/string.h	/^#define NULL /;"	d
+NULL	linux-0.11/include/sys/types.h	/^#define NULL /;"	d
+NULL	linux-0.11/include/unistd.h	/^#define NULL /;"	d
+N_ABS	linux-0.11/include/a.out.h	/^#define N_ABS /;"	d
+N_BADMAG	linux-0.11/include/a.out.h	/^#define N_BADMAG(/;"	d
+N_BSS	linux-0.11/include/a.out.h	/^#define N_BSS /;"	d
+N_BSSADDR	linux-0.11/include/a.out.h	/^#define N_BSSADDR(/;"	d
+N_COMM	linux-0.11/include/a.out.h	/^#define N_COMM /;"	d
+N_DATA	linux-0.11/include/a.out.h	/^#define N_DATA /;"	d
+N_DATADDR	linux-0.11/include/a.out.h	/^#define N_DATADDR(/;"	d
+N_DATOFF	linux-0.11/include/a.out.h	/^#define N_DATOFF(/;"	d
+N_DRELOFF	linux-0.11/include/a.out.h	/^#define N_DRELOFF(/;"	d
+N_EXT	linux-0.11/include/a.out.h	/^#define N_EXT /;"	d
+N_FN	linux-0.11/include/a.out.h	/^#define N_FN /;"	d
+N_INDR	linux-0.11/include/a.out.h	/^#define N_INDR /;"	d
+N_MAGIC	linux-0.11/include/a.out.h	/^#define N_MAGIC(/;"	d
+N_SETA	linux-0.11/include/a.out.h	/^#define	N_SETA	/;"	d
+N_SETB	linux-0.11/include/a.out.h	/^#define	N_SETB	/;"	d
+N_SETD	linux-0.11/include/a.out.h	/^#define	N_SETD	/;"	d
+N_SETT	linux-0.11/include/a.out.h	/^#define	N_SETT	/;"	d
+N_SETV	linux-0.11/include/a.out.h	/^#define N_SETV	/;"	d
+N_STAB	linux-0.11/include/a.out.h	/^#define N_STAB /;"	d
+N_STROFF	linux-0.11/include/a.out.h	/^#define N_STROFF(/;"	d
+N_SYMOFF	linux-0.11/include/a.out.h	/^#define N_SYMOFF(/;"	d
+N_TEXT	linux-0.11/include/a.out.h	/^#define N_TEXT /;"	d
+N_TRELOFF	linux-0.11/include/a.out.h	/^#define N_TRELOFF(/;"	d
+N_TXTADDR	linux-0.11/include/a.out.h	/^#define N_TXTADDR(/;"	d
+N_TXTOFF	linux-0.11/include/a.out.h	/^#define N_TXTOFF(/;"	d
+N_TYPE	linux-0.11/include/a.out.h	/^#define N_TYPE /;"	d
+N_UNDF	linux-0.11/include/a.out.h	/^#define N_UNDF /;"	d
+OBJS	linux-0.11/fs/Makefile	/^OBJS=	open.o read_write.o inode.o file_table.o buffer.o super.o \\$/;"	m
+OBJS	linux-0.11/kernel/Makefile	/^OBJS  = sched.o system_call.o traps.o asm.o fork.o \\$/;"	m
+OBJS	linux-0.11/kernel/blk_drv/Makefile	/^OBJS  = ll_rw_blk.o floppy.o hd.o ramdisk.o$/;"	m
+OBJS	linux-0.11/kernel/chr_drv/Makefile	/^OBJS  = tty_io.o console.o keyboard.o serial.o rs_io.o \\$/;"	m
+OBJS	linux-0.11/kernel/math/Makefile	/^OBJS  = math_emulate.o$/;"	m
+OBJS	linux-0.11/lib/Makefile	/^OBJS  = ctype.o _exit.o open.o close.o errno.o write.o dup.o setsid.o \\$/;"	m
+OBJS	linux-0.11/mm/Makefile	/^OBJS	= memory.o page.o$/;"	m
+OCRNL	linux-0.11/include/termios.h	/^#define OCRNL	/;"	d
+OFDEL	linux-0.11/include/termios.h	/^#define OFDEL	/;"	d
+OFILL	linux-0.11/include/termios.h	/^#define OFILL	/;"	d
+OLCUC	linux-0.11/include/termios.h	/^#define OLCUC	/;"	d
+OMAGIC	linux-0.11/include/a.out.h	/^#define OMAGIC /;"	d
+ONLCR	linux-0.11/include/termios.h	/^#define ONLCR	/;"	d
+ONLRET	linux-0.11/include/termios.h	/^#define ONLRET	/;"	d
+ONOCR	linux-0.11/include/termios.h	/^#define ONOCR	/;"	d
+OPOST	linux-0.11/include/termios.h	/^#define OPOST	/;"	d
+ORIG_ROOT_DEV	linux-0.11/init/main.c	/^#define ORIG_ROOT_DEV /;"	d	file:
+ORIG_VIDEO_COLS	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_COLS /;"	d	file:
+ORIG_VIDEO_EGA_AX	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_EGA_AX	/;"	d	file:
+ORIG_VIDEO_EGA_BX	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_EGA_BX	/;"	d	file:
+ORIG_VIDEO_EGA_CX	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_EGA_CX	/;"	d	file:
+ORIG_VIDEO_LINES	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_LINES	/;"	d	file:
+ORIG_VIDEO_MODE	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_MODE	/;"	d	file:
+ORIG_VIDEO_PAGE	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_PAGE	/;"	d	file:
+ORIG_X	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_X	/;"	d	file:
+ORIG_Y	linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_Y	/;"	d	file:
+O_ACCMODE	linux-0.11/include/fcntl.h	/^#define O_ACCMODE	/;"	d
+O_APPEND	linux-0.11/include/fcntl.h	/^#define O_APPEND	/;"	d
+O_CREAT	linux-0.11/include/fcntl.h	/^#define O_CREAT	/;"	d
+O_CRNL	linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_CRNL(/;"	d	file:
+O_EXCL	linux-0.11/include/fcntl.h	/^#define O_EXCL	/;"	d
+O_LCUC	linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_LCUC(/;"	d	file:
+O_NDELAY	linux-0.11/include/fcntl.h	/^#define O_NDELAY	/;"	d
+O_NLCR	linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_NLCR(/;"	d	file:
+O_NLRET	linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_NLRET(/;"	d	file:
+O_NOCTTY	linux-0.11/include/fcntl.h	/^#define O_NOCTTY	/;"	d
+O_NONBLOCK	linux-0.11/include/fcntl.h	/^#define O_NONBLOCK	/;"	d
+O_POST	linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_POST(/;"	d	file:
+O_RDONLY	linux-0.11/include/fcntl.h	/^#define O_RDONLY	/;"	d
+O_RDWR	linux-0.11/include/fcntl.h	/^#define O_RDWR	/;"	d
+O_TRUNC	linux-0.11/include/fcntl.h	/^#define O_TRUNC	/;"	d
+O_WRONLY	linux-0.11/include/fcntl.h	/^#define O_WRONLY	/;"	d
+PAGE_ALIGN	linux-0.11/include/linux/sched.h	/^#define PAGE_ALIGN(/;"	d
+PAGE_SIZE	linux-0.11/include/a.out.h	/^#define	PAGE_SIZE	/;"	d
+PAGE_SIZE	linux-0.11/include/a.out.h	/^#define PAGE_SIZE /;"	d
+PAGE_SIZE	linux-0.11/include/linux/mm.h	/^#define PAGE_SIZE /;"	d
+PAGING_MEMORY	linux-0.11/mm/memory.c	/^#define PAGING_MEMORY /;"	d	file:
+PAGING_PAGES	linux-0.11/mm/memory.c	/^#define PAGING_PAGES /;"	d	file:
+PANIC	linux-0.11/kernel/panic.c	/^#define PANIC$/;"	d	file:
+PARENB	linux-0.11/include/termios.h	/^#define PARENB /;"	d
+PARMRK	linux-0.11/include/termios.h	/^#define PARMRK	/;"	d
+PARODD	linux-0.11/include/termios.h	/^#define PARODD /;"	d
+PENDIN	linux-0.11/include/termios.h	/^#define PENDIN	/;"	d
+PIPE_EMPTY	linux-0.11/include/linux/fs.h	/^#define PIPE_EMPTY(/;"	d
+PIPE_FULL	linux-0.11/include/linux/fs.h	/^#define PIPE_FULL(/;"	d
+PIPE_HEAD	linux-0.11/include/linux/fs.h	/^#define PIPE_HEAD(/;"	d
+PIPE_SIZE	linux-0.11/include/linux/fs.h	/^#define PIPE_SIZE(/;"	d
+PIPE_TAIL	linux-0.11/include/linux/fs.h	/^#define PIPE_TAIL(/;"	d
+PLUS	linux-0.11/kernel/vsprintf.c	/^#define PLUS	/;"	d	file:
+PUTCH	linux-0.11/include/linux/tty.h	/^#define PUTCH(/;"	d
+QUITMASK	linux-0.11/kernel/chr_drv/tty_io.c	/^#define QUITMASK /;"	d	file:
+QUIT_CHAR	linux-0.11/include/linux/tty.h	/^#define QUIT_CHAR(/;"	d
+RAMDISK	linux-0.11/Makefile	/^RAMDISK =  #-DRAMDISK=512$/;"	m
+READ	linux-0.11/include/linux/fs.h	/^#define READ /;"	d
+READA	linux-0.11/include/linux/fs.h	/^#define READA /;"	d
+READY_STAT	linux-0.11/include/linux/hdreg.h	/^#define READY_STAT	/;"	d
+RESPONSE	linux-0.11/kernel/chr_drv/console.c	/^#define RESPONSE /;"	d	file:
+ROOT_DEV	linux-0.11/Makefile	/^ROOT_DEV= #FLOPPY $/;"	m
+ROOT_DEV	linux-0.11/fs/super.c	/^int ROOT_DEV = 0;$/;"	v	typeref:typename:int
+ROOT_INO	linux-0.11/include/linux/fs.h	/^#define ROOT_INO /;"	d
+R_OK	linux-0.11/include/unistd.h	/^#define R_OK	/;"	d
+SA_NOCLDSTOP	linux-0.11/include/signal.h	/^#define SA_NOCLDSTOP	/;"	d
+SA_NOMASK	linux-0.11/include/signal.h	/^#define SA_NOMASK	/;"	d
+SA_ONESHOT	linux-0.11/include/signal.h	/^#define SA_ONESHOT	/;"	d
+SEEK_CUR	linux-0.11/include/unistd.h	/^#define SEEK_CUR	/;"	d
+SEEK_END	linux-0.11/include/unistd.h	/^#define SEEK_END	/;"	d
+SEEK_SET	linux-0.11/include/unistd.h	/^#define SEEK_SET	/;"	d
+SEEK_STAT	linux-0.11/include/linux/hdreg.h	/^#define SEEK_STAT	/;"	d
+SEGMENT_SIZE	linux-0.11/include/a.out.h	/^#define	SEGMENT_SIZE	/;"	d
+SEGMENT_SIZE	linux-0.11/include/a.out.h	/^#define SEGMENT_SIZE /;"	d
+SETUP_SECTS	linux-0.11/tools/build.c	/^#define SETUP_SECTS /;"	d	file:
+SIGABRT	linux-0.11/include/signal.h	/^#define SIGABRT	/;"	d
+SIGALRM	linux-0.11/include/signal.h	/^#define SIGALRM	/;"	d
+SIGCHLD	linux-0.11/include/signal.h	/^#define SIGCHLD	/;"	d
+SIGCONT	linux-0.11/include/signal.h	/^#define SIGCONT	/;"	d
+SIGFPE	linux-0.11/include/signal.h	/^#define SIGFPE	/;"	d
+SIGHUP	linux-0.11/include/signal.h	/^#define SIGHUP	/;"	d
+SIGILL	linux-0.11/include/signal.h	/^#define SIGILL	/;"	d
+SIGINT	linux-0.11/include/signal.h	/^#define SIGINT	/;"	d
+SIGIOT	linux-0.11/include/signal.h	/^#define SIGIOT	/;"	d
+SIGKILL	linux-0.11/include/signal.h	/^#define SIGKILL	/;"	d
+SIGN	linux-0.11/kernel/vsprintf.c	/^#define SIGN	/;"	d	file:
+SIGPIPE	linux-0.11/include/signal.h	/^#define SIGPIPE	/;"	d
+SIGQUIT	linux-0.11/include/signal.h	/^#define SIGQUIT	/;"	d
+SIGSEGV	linux-0.11/include/signal.h	/^#define SIGSEGV	/;"	d
+SIGSTKFLT	linux-0.11/include/signal.h	/^#define SIGSTKFLT	/;"	d
+SIGSTOP	linux-0.11/include/signal.h	/^#define SIGSTOP	/;"	d
+SIGTERM	linux-0.11/include/signal.h	/^#define SIGTERM	/;"	d
+SIGTRAP	linux-0.11/include/signal.h	/^#define SIGTRAP	/;"	d
+SIGTSTP	linux-0.11/include/signal.h	/^#define SIGTSTP	/;"	d
+SIGTTIN	linux-0.11/include/signal.h	/^#define SIGTTIN	/;"	d
+SIGTTOU	linux-0.11/include/signal.h	/^#define SIGTTOU	/;"	d
+SIGUNUSED	linux-0.11/include/signal.h	/^#define SIGUNUSED	/;"	d
+SIGUSR1	linux-0.11/include/signal.h	/^#define SIGUSR1	/;"	d
+SIGUSR2	linux-0.11/include/signal.h	/^#define SIGUSR2	/;"	d
+SIG_BLOCK	linux-0.11/include/signal.h	/^#define SIG_BLOCK /;"	d
+SIG_DFL	linux-0.11/include/signal.h	/^#define SIG_DFL	/;"	d
+SIG_IGN	linux-0.11/include/signal.h	/^#define SIG_IGN	/;"	d
+SIG_SETMASK	linux-0.11/include/signal.h	/^#define SIG_SETMASK /;"	d
+SIG_UNBLOCK	linux-0.11/include/signal.h	/^#define SIG_UNBLOCK /;"	d
+SMALL	linux-0.11/kernel/vsprintf.c	/^#define SMALL	/;"	d	file:
+SPACE	linux-0.11/kernel/vsprintf.c	/^#define SPACE	/;"	d	file:
+SPECIAL	linux-0.11/kernel/vsprintf.c	/^#define SPECIAL	/;"	d	file:
+ST0	linux-0.11/kernel/blk_drv/floppy.c	/^#define ST0 /;"	d	file:
+ST0_DS	linux-0.11/include/linux/fdreg.h	/^#define ST0_DS	/;"	d
+ST0_ECE	linux-0.11/include/linux/fdreg.h	/^#define ST0_ECE	/;"	d
+ST0_HA	linux-0.11/include/linux/fdreg.h	/^#define ST0_HA	/;"	d
+ST0_INTR	linux-0.11/include/linux/fdreg.h	/^#define ST0_INTR	/;"	d
+ST0_NR	linux-0.11/include/linux/fdreg.h	/^#define ST0_NR	/;"	d
+ST0_SE	linux-0.11/include/linux/fdreg.h	/^#define ST0_SE	/;"	d
+ST1	linux-0.11/kernel/blk_drv/floppy.c	/^#define ST1 /;"	d	file:
+ST1_CRC	linux-0.11/include/linux/fdreg.h	/^#define ST1_CRC	/;"	d
+ST1_EOC	linux-0.11/include/linux/fdreg.h	/^#define ST1_EOC	/;"	d
+ST1_MAM	linux-0.11/include/linux/fdreg.h	/^#define ST1_MAM	/;"	d
+ST1_ND	linux-0.11/include/linux/fdreg.h	/^#define ST1_ND	/;"	d
+ST1_OR	linux-0.11/include/linux/fdreg.h	/^#define ST1_OR	/;"	d
+ST1_WP	linux-0.11/include/linux/fdreg.h	/^#define ST1_WP	/;"	d
+ST2	linux-0.11/kernel/blk_drv/floppy.c	/^#define ST2 /;"	d	file:
+ST2_BC	linux-0.11/include/linux/fdreg.h	/^#define ST2_BC	/;"	d
+ST2_CM	linux-0.11/include/linux/fdreg.h	/^#define ST2_CM	/;"	d
+ST2_CRC	linux-0.11/include/linux/fdreg.h	/^#define ST2_CRC	/;"	d
+ST2_MAM	linux-0.11/include/linux/fdreg.h	/^#define ST2_MAM	/;"	d
+ST2_SEH	linux-0.11/include/linux/fdreg.h	/^#define ST2_SEH	/;"	d
+ST2_SNS	linux-0.11/include/linux/fdreg.h	/^#define ST2_SNS	/;"	d
+ST2_WC	linux-0.11/include/linux/fdreg.h	/^#define ST2_WC	/;"	d
+ST3	linux-0.11/kernel/blk_drv/floppy.c	/^#define ST3 /;"	d	file:
+ST3_HA	linux-0.11/include/linux/fdreg.h	/^#define ST3_HA	/;"	d
+ST3_TZ	linux-0.11/include/linux/fdreg.h	/^#define ST3_TZ	/;"	d
+ST3_WP	linux-0.11/include/linux/fdreg.h	/^#define ST3_WP	/;"	d
+START_CHAR	linux-0.11/include/linux/tty.h	/^#define START_CHAR(/;"	d
+STATUS_BUSY	linux-0.11/include/linux/fdreg.h	/^#define STATUS_BUSY	/;"	d
+STATUS_BUSYMASK	linux-0.11/include/linux/fdreg.h	/^#define STATUS_BUSYMASK	/;"	d
+STATUS_DIR	linux-0.11/include/linux/fdreg.h	/^#define STATUS_DIR	/;"	d
+STATUS_DMA	linux-0.11/include/linux/fdreg.h	/^#define STATUS_DMA	/;"	d
+STATUS_READY	linux-0.11/include/linux/fdreg.h	/^#define STATUS_READY	/;"	d
+STDERR_FILENO	linux-0.11/include/unistd.h	/^#define STDERR_FILENO	/;"	d
+STDIN_FILENO	linux-0.11/include/unistd.h	/^#define STDIN_FILENO	/;"	d
+STDOUT_FILENO	linux-0.11/include/unistd.h	/^#define STDOUT_FILENO	/;"	d
+STOP_CHAR	linux-0.11/include/linux/tty.h	/^#define STOP_CHAR(/;"	d
+STRINGIFY	linux-0.11/tools/build.c	/^#define STRINGIFY(/;"	d	file:
+SUPER_MAGIC	linux-0.11/include/linux/fs.h	/^#define SUPER_MAGIC /;"	d
+SUSPEND_CHAR	linux-0.11/include/linux/tty.h	/^#define SUSPEND_CHAR(/;"	d
+SYS_SIZE	linux-0.11/tools/build.c	/^#define SYS_SIZE /;"	d	file:
+S_IFBLK	linux-0.11/include/sys/stat.h	/^#define S_IFBLK /;"	d
+S_IFCHR	linux-0.11/include/sys/stat.h	/^#define S_IFCHR /;"	d
+S_IFDIR	linux-0.11/include/sys/stat.h	/^#define S_IFDIR /;"	d
+S_IFIFO	linux-0.11/include/sys/stat.h	/^#define S_IFIFO /;"	d
+S_IFMT	linux-0.11/include/sys/stat.h	/^#define S_IFMT /;"	d
+S_IFREG	linux-0.11/include/sys/stat.h	/^#define S_IFREG /;"	d
+S_IRGRP	linux-0.11/include/sys/stat.h	/^#define S_IRGRP /;"	d
+S_IROTH	linux-0.11/include/sys/stat.h	/^#define S_IROTH /;"	d
+S_IRUSR	linux-0.11/include/sys/stat.h	/^#define S_IRUSR /;"	d
+S_IRWXG	linux-0.11/include/sys/stat.h	/^#define S_IRWXG /;"	d
+S_IRWXO	linux-0.11/include/sys/stat.h	/^#define S_IRWXO /;"	d
+S_IRWXU	linux-0.11/include/sys/stat.h	/^#define S_IRWXU /;"	d
+S_ISBLK	linux-0.11/include/sys/stat.h	/^#define S_ISBLK(/;"	d
+S_ISCHR	linux-0.11/include/sys/stat.h	/^#define S_ISCHR(/;"	d
+S_ISDIR	linux-0.11/include/sys/stat.h	/^#define S_ISDIR(/;"	d
+S_ISFIFO	linux-0.11/include/sys/stat.h	/^#define S_ISFIFO(/;"	d
+S_ISGID	linux-0.11/include/sys/stat.h	/^#define S_ISGID /;"	d
+S_ISREG	linux-0.11/include/sys/stat.h	/^#define S_ISREG(/;"	d
+S_ISUID	linux-0.11/include/sys/stat.h	/^#define S_ISUID /;"	d
+S_ISVTX	linux-0.11/include/sys/stat.h	/^#define S_ISVTX /;"	d
+S_IWGRP	linux-0.11/include/sys/stat.h	/^#define S_IWGRP /;"	d
+S_IWOTH	linux-0.11/include/sys/stat.h	/^#define S_IWOTH /;"	d
+S_IWUSR	linux-0.11/include/sys/stat.h	/^#define S_IWUSR /;"	d
+S_IXGRP	linux-0.11/include/sys/stat.h	/^#define S_IXGRP /;"	d
+S_IXOTH	linux-0.11/include/sys/stat.h	/^#define S_IXOTH /;"	d
+S_IXUSR	linux-0.11/include/sys/stat.h	/^#define S_IXUSR /;"	d
+TAB0	linux-0.11/include/termios.h	/^#define   TAB0	/;"	d
+TAB1	linux-0.11/include/termios.h	/^#define   TAB1	/;"	d
+TAB2	linux-0.11/include/termios.h	/^#define   TAB2	/;"	d
+TAB3	linux-0.11/include/termios.h	/^#define   TAB3	/;"	d
+TABDLY	linux-0.11/include/termios.h	/^#define TABDLY	/;"	d
+TASK_INTERRUPTIBLE	linux-0.11/include/linux/sched.h	/^#define TASK_INTERRUPTIBLE	/;"	d
+TASK_RUNNING	linux-0.11/include/linux/sched.h	/^#define TASK_RUNNING	/;"	d
+TASK_STOPPED	linux-0.11/include/linux/sched.h	/^#define TASK_STOPPED	/;"	d
+TASK_UNINTERRUPTIBLE	linux-0.11/include/linux/sched.h	/^#define TASK_UNINTERRUPTIBLE	/;"	d
+TASK_ZOMBIE	linux-0.11/include/linux/sched.h	/^#define TASK_ZOMBIE	/;"	d
+TCFLSH	linux-0.11/include/termios.h	/^#define TCFLSH	/;"	d
+TCGETA	linux-0.11/include/termios.h	/^#define TCGETA	/;"	d
+TCGETS	linux-0.11/include/termios.h	/^#define TCGETS	/;"	d
+TCIFLUSH	linux-0.11/include/termios.h	/^#define	TCIFLUSH	/;"	d
+TCIOFF	linux-0.11/include/termios.h	/^#define	TCIOFF	/;"	d
+TCIOFLUSH	linux-0.11/include/termios.h	/^#define	TCIOFLUSH	/;"	d
+TCION	linux-0.11/include/termios.h	/^#define	TCION	/;"	d
+TCOFLUSH	linux-0.11/include/termios.h	/^#define	TCOFLUSH	/;"	d
+TCOOFF	linux-0.11/include/termios.h	/^#define	TCOOFF	/;"	d
+TCOON	linux-0.11/include/termios.h	/^#define	TCOON	/;"	d
+TCSADRAIN	linux-0.11/include/termios.h	/^#define	TCSADRAIN	/;"	d
+TCSAFLUSH	linux-0.11/include/termios.h	/^#define	TCSAFLUSH	/;"	d
+TCSANOW	linux-0.11/include/termios.h	/^#define	TCSANOW	/;"	d
+TCSBRK	linux-0.11/include/termios.h	/^#define TCSBRK	/;"	d
+TCSETA	linux-0.11/include/termios.h	/^#define TCSETA	/;"	d
+TCSETAF	linux-0.11/include/termios.h	/^#define TCSETAF	/;"	d
+TCSETAW	linux-0.11/include/termios.h	/^#define TCSETAW	/;"	d
+TCSETS	linux-0.11/include/termios.h	/^#define TCSETS	/;"	d
+TCSETSF	linux-0.11/include/termios.h	/^#define TCSETSF	/;"	d
+TCSETSW	linux-0.11/include/termios.h	/^#define TCSETSW	/;"	d
+TCXONC	linux-0.11/include/termios.h	/^#define TCXONC	/;"	d
+TIME_REQUESTS	linux-0.11/kernel/sched.c	/^#define TIME_REQUESTS /;"	d	file:
+TIOCEXCL	linux-0.11/include/termios.h	/^#define TIOCEXCL	/;"	d
+TIOCGPGRP	linux-0.11/include/termios.h	/^#define TIOCGPGRP	/;"	d
+TIOCGSOFTCAR	linux-0.11/include/termios.h	/^#define TIOCGSOFTCAR	/;"	d
+TIOCGWINSZ	linux-0.11/include/termios.h	/^#define TIOCGWINSZ	/;"	d
+TIOCINQ	linux-0.11/include/termios.h	/^#define TIOCINQ	/;"	d
+TIOCMBIC	linux-0.11/include/termios.h	/^#define TIOCMBIC	/;"	d
+TIOCMBIS	linux-0.11/include/termios.h	/^#define TIOCMBIS	/;"	d
+TIOCMGET	linux-0.11/include/termios.h	/^#define TIOCMGET	/;"	d
+TIOCMSET	linux-0.11/include/termios.h	/^#define TIOCMSET	/;"	d
+TIOCM_CAR	linux-0.11/include/termios.h	/^#define TIOCM_CAR	/;"	d
+TIOCM_CD	linux-0.11/include/termios.h	/^#define TIOCM_CD	/;"	d
+TIOCM_CTS	linux-0.11/include/termios.h	/^#define TIOCM_CTS	/;"	d
+TIOCM_DSR	linux-0.11/include/termios.h	/^#define TIOCM_DSR	/;"	d
+TIOCM_DTR	linux-0.11/include/termios.h	/^#define TIOCM_DTR	/;"	d
+TIOCM_LE	linux-0.11/include/termios.h	/^#define TIOCM_LE	/;"	d
+TIOCM_RI	linux-0.11/include/termios.h	/^#define TIOCM_RI	/;"	d
+TIOCM_RNG	linux-0.11/include/termios.h	/^#define TIOCM_RNG	/;"	d
+TIOCM_RTS	linux-0.11/include/termios.h	/^#define TIOCM_RTS	/;"	d
+TIOCM_SR	linux-0.11/include/termios.h	/^#define TIOCM_SR	/;"	d
+TIOCM_ST	linux-0.11/include/termios.h	/^#define TIOCM_ST	/;"	d
+TIOCNXCL	linux-0.11/include/termios.h	/^#define TIOCNXCL	/;"	d
+TIOCOUTQ	linux-0.11/include/termios.h	/^#define TIOCOUTQ	/;"	d
+TIOCSCTTY	linux-0.11/include/termios.h	/^#define TIOCSCTTY	/;"	d
+TIOCSPGRP	linux-0.11/include/termios.h	/^#define TIOCSPGRP	/;"	d
+TIOCSSOFTCAR	linux-0.11/include/termios.h	/^#define TIOCSSOFTCAR	/;"	d
+TIOCSTI	linux-0.11/include/termios.h	/^#define TIOCSTI	/;"	d
+TIOCSWINSZ	linux-0.11/include/termios.h	/^#define TIOCSWINSZ	/;"	d
+TOSTOP	linux-0.11/include/termios.h	/^#define TOSTOP	/;"	d
+TRK0_ERR	linux-0.11/include/linux/hdreg.h	/^#define TRK0_ERR	/;"	d
+TSTPMASK	linux-0.11/kernel/chr_drv/tty_io.c	/^#define TSTPMASK /;"	d	file:
+TTY_BUF_SIZE	linux-0.11/include/linux/tty.h	/^#define TTY_BUF_SIZE /;"	d
+TTY_BUF_SIZE	linux-0.11/include/termios.h	/^#define TTY_BUF_SIZE /;"	d
+TYPE	linux-0.11/kernel/blk_drv/floppy.c	/^#define TYPE(/;"	d	file:
+USED	linux-0.11/mm/memory.c	/^#define USED /;"	d	file:
+VDISCARD	linux-0.11/include/termios.h	/^#define VDISCARD /;"	d
+VEOF	linux-0.11/include/termios.h	/^#define VEOF /;"	d
+VEOL	linux-0.11/include/termios.h	/^#define VEOL /;"	d
+VEOL2	linux-0.11/include/termios.h	/^#define VEOL2 /;"	d
+VERASE	linux-0.11/include/termios.h	/^#define VERASE /;"	d
+VIDEO_TYPE_CGA	linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_CGA	/;"	d	file:
+VIDEO_TYPE_EGAC	linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_EGAC	/;"	d	file:
+VIDEO_TYPE_EGAM	linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_EGAM	/;"	d	file:
+VIDEO_TYPE_MDA	linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_MDA	/;"	d	file:
+VINTR	linux-0.11/include/termios.h	/^#define VINTR /;"	d
+VKILL	linux-0.11/include/termios.h	/^#define VKILL /;"	d
+VLNEXT	linux-0.11/include/termios.h	/^#define VLNEXT /;"	d
+VMIN	linux-0.11/include/termios.h	/^#define VMIN /;"	d
+VQUIT	linux-0.11/include/termios.h	/^#define VQUIT /;"	d
+VREPRINT	linux-0.11/include/termios.h	/^#define VREPRINT /;"	d
+VSTART	linux-0.11/include/termios.h	/^#define VSTART /;"	d
+VSTOP	linux-0.11/include/termios.h	/^#define VSTOP /;"	d
+VSUSP	linux-0.11/include/termios.h	/^#define VSUSP /;"	d
+VSWTC	linux-0.11/include/termios.h	/^#define VSWTC /;"	d
+VT0	linux-0.11/include/termios.h	/^#define   VT0	/;"	d
+VT1	linux-0.11/include/termios.h	/^#define   VT1	/;"	d
+VTDLY	linux-0.11/include/termios.h	/^#define VTDLY	/;"	d
+VTIME	linux-0.11/include/termios.h	/^#define VTIME /;"	d
+VWERASE	linux-0.11/include/termios.h	/^#define VWERASE /;"	d
+WAKEUP_CHARS	linux-0.11/kernel/chr_drv/serial.c	/^#define WAKEUP_CHARS /;"	d	file:
+WEXITSTATUS	linux-0.11/include/sys/wait.h	/^#define WEXITSTATUS(/;"	d
+WIFEXITED	linux-0.11/include/sys/wait.h	/^#define WIFEXITED(/;"	d
+WIFSIGNALED	linux-0.11/include/sys/wait.h	/^#define WIFSIGNALED(/;"	d
+WIFSTOPPED	linux-0.11/include/sys/wait.h	/^#define WIFSTOPPED(/;"	d
+WIN_DIAGNOSE	linux-0.11/include/linux/hdreg.h	/^#define WIN_DIAGNOSE	/;"	d
+WIN_FORMAT	linux-0.11/include/linux/hdreg.h	/^#define WIN_FORMAT	/;"	d
+WIN_INIT	linux-0.11/include/linux/hdreg.h	/^#define WIN_INIT	/;"	d
+WIN_READ	linux-0.11/include/linux/hdreg.h	/^#define WIN_READ	/;"	d
+WIN_RESTORE	linux-0.11/include/linux/hdreg.h	/^#define WIN_RESTORE	/;"	d
+WIN_SEEK	linux-0.11/include/linux/hdreg.h	/^#define WIN_SEEK /;"	d
+WIN_SPECIFY	linux-0.11/include/linux/hdreg.h	/^#define WIN_SPECIFY	/;"	d
+WIN_VERIFY	linux-0.11/include/linux/hdreg.h	/^#define WIN_VERIFY	/;"	d
+WIN_WRITE	linux-0.11/include/linux/hdreg.h	/^#define WIN_WRITE	/;"	d
+WNOHANG	linux-0.11/include/sys/wait.h	/^#define WNOHANG	/;"	d
+WRERR_STAT	linux-0.11/include/linux/hdreg.h	/^#define WRERR_STAT	/;"	d
+WRITE	linux-0.11/include/linux/fs.h	/^#define WRITE /;"	d
+WRITEA	linux-0.11/include/linux/fs.h	/^#define WRITEA /;"	d
+WSTOPSIG	linux-0.11/include/sys/wait.h	/^#define WSTOPSIG(/;"	d
+WTERMSIG	linux-0.11/include/sys/wait.h	/^#define WTERMSIG(/;"	d
+WUNTRACED	linux-0.11/include/sys/wait.h	/^#define WUNTRACED	/;"	d
+W_OK	linux-0.11/include/unistd.h	/^#define W_OK	/;"	d
+XCASE	linux-0.11/include/termios.h	/^#define XCASE	/;"	d
+XTABS	linux-0.11/include/termios.h	/^#define   XTABS	/;"	d
+X_OK	linux-0.11/include/unistd.h	/^#define X_OK	/;"	d
+YEAR	linux-0.11/kernel/mktime.c	/^#define YEAR /;"	d	file:
+ZEROPAD	linux-0.11/kernel/vsprintf.c	/^#define ZEROPAD	/;"	d	file:
+ZMAGIC	linux-0.11/include/a.out.h	/^#define ZMAGIC /;"	d
+Z_MAP_SLOTS	linux-0.11/include/linux/fs.h	/^#define Z_MAP_SLOTS /;"	d
+_A_OUT_H	linux-0.11/include/a.out.h	/^#define _A_OUT_H$/;"	d
+_BLK_H	linux-0.11/kernel/blk_drv/blk.h	/^#define _BLK_H$/;"	d
+_BLOCKABLE	linux-0.11/kernel/sched.c	/^#define _BLOCKABLE /;"	d	file:
+_C	linux-0.11/include/ctype.h	/^#define _C	/;"	d
+_CONFIG_H	linux-0.11/include/linux/config.h	/^#define _CONFIG_H$/;"	d
+_CONST_H	linux-0.11/include/const.h	/^#define _CONST_H$/;"	d
+_CTYPE_H	linux-0.11/include/ctype.h	/^#define _CTYPE_H$/;"	d
+_D	linux-0.11/include/ctype.h	/^#define _D	/;"	d
+_ERRNO_H	linux-0.11/include/errno.h	/^#define _ERRNO_H$/;"	d
+_FCNTL_H	linux-0.11/include/fcntl.h	/^#define _FCNTL_H$/;"	d
+_FDREG_H	linux-0.11/include/linux/fdreg.h	/^#define _FDREG_H$/;"	d
+_FS_H	linux-0.11/include/linux/fs.h	/^#define _FS_H$/;"	d
+_HDREG_H	linux-0.11/include/linux/hdreg.h	/^#define _HDREG_H$/;"	d
+_HEAD_H	linux-0.11/include/linux/head.h	/^#define _HEAD_H$/;"	d
+_HIGH	linux-0.11/include/sys/wait.h	/^#define _HIGH(/;"	d
+_I_FLAG	linux-0.11/kernel/chr_drv/tty_io.c	/^#define _I_FLAG(/;"	d	file:
+_L	linux-0.11/include/ctype.h	/^#define _L	/;"	d
+_LDT	linux-0.11/include/linux/sched.h	/^#define _LDT(/;"	d
+_LOW	linux-0.11/include/sys/wait.h	/^#define _LOW(/;"	d
+_L_FLAG	linux-0.11/kernel/chr_drv/tty_io.c	/^#define _L_FLAG(/;"	d	file:
+_MM_H	linux-0.11/include/linux/mm.h	/^#define _MM_H$/;"	d
+_NSIG	linux-0.11/include/signal.h	/^#define _NSIG /;"	d
+_N_BADMAG	linux-0.11/include/a.out.h	/^#define _N_BADMAG(/;"	d
+_N_HDROFF	linux-0.11/include/a.out.h	/^#define _N_HDROFF(/;"	d
+_N_SEGMENT_ROUND	linux-0.11/include/a.out.h	/^#define _N_SEGMENT_ROUND(/;"	d
+_N_TXTENDADDR	linux-0.11/include/a.out.h	/^#define _N_TXTENDADDR(/;"	d
+_O_FLAG	linux-0.11/kernel/chr_drv/tty_io.c	/^#define _O_FLAG(/;"	d	file:
+_P	linux-0.11/include/ctype.h	/^#define _P	/;"	d
+_PC_CHOWN_RESTRICTED	linux-0.11/include/unistd.h	/^#define _PC_CHOWN_RESTRICTED	/;"	d
+_PC_LINK_MAX	linux-0.11/include/unistd.h	/^#define _PC_LINK_MAX	/;"	d
+_PC_MAX_CANON	linux-0.11/include/unistd.h	/^#define _PC_MAX_CANON	/;"	d
+_PC_MAX_INPUT	linux-0.11/include/unistd.h	/^#define _PC_MAX_INPUT	/;"	d
+_PC_NAME_MAX	linux-0.11/include/unistd.h	/^#define _PC_NAME_MAX	/;"	d
+_PC_NO_TRUNC	linux-0.11/include/unistd.h	/^#define _PC_NO_TRUNC	/;"	d
+_PC_PATH_MAX	linux-0.11/include/unistd.h	/^#define _PC_PATH_MAX	/;"	d
+_PC_PIPE_BUF	linux-0.11/include/unistd.h	/^#define _PC_PIPE_BUF	/;"	d
+_PC_VDISABLE	linux-0.11/include/unistd.h	/^#define _PC_VDISABLE	/;"	d
+_POSIX_CHOWN_RESTRICTED	linux-0.11/include/unistd.h	/^#define _POSIX_CHOWN_RESTRICTED	/;"	d
+_POSIX_NO_TRUNC	linux-0.11/include/unistd.h	/^#define _POSIX_NO_TRUNC	/;"	d
+_POSIX_VDISABLE	linux-0.11/include/unistd.h	/^#define _POSIX_VDISABLE /;"	d
+_POSIX_VERSION	linux-0.11/include/unistd.h	/^#define _POSIX_VERSION /;"	d
+_PTRDIFF_T	linux-0.11/include/stddef.h	/^#define _PTRDIFF_T$/;"	d
+_PTRDIFF_T	linux-0.11/include/sys/types.h	/^#define _PTRDIFF_T$/;"	d
+_S	linux-0.11/include/ctype.h	/^#define _S	/;"	d
+_S	linux-0.11/kernel/sched.c	/^#define _S(/;"	d	file:
+_SCHED_H	linux-0.11/include/linux/sched.h	/^#define _SCHED_H$/;"	d
+_SC_ARG_MAX	linux-0.11/include/unistd.h	/^#define _SC_ARG_MAX	/;"	d
+_SC_CHILD_MAX	linux-0.11/include/unistd.h	/^#define _SC_CHILD_MAX	/;"	d
+_SC_CLOCKS_PER_SEC	linux-0.11/include/unistd.h	/^#define _SC_CLOCKS_PER_SEC	/;"	d
+_SC_JOB_CONTROL	linux-0.11/include/unistd.h	/^#define _SC_JOB_CONTROL	/;"	d
+_SC_NGROUPS_MAX	linux-0.11/include/unistd.h	/^#define _SC_NGROUPS_MAX	/;"	d
+_SC_OPEN_MAX	linux-0.11/include/unistd.h	/^#define _SC_OPEN_MAX	/;"	d
+_SC_SAVED_IDS	linux-0.11/include/unistd.h	/^#define _SC_SAVED_IDS	/;"	d
+_SC_VERSION	linux-0.11/include/unistd.h	/^#define _SC_VERSION	/;"	d
+_SIGNAL_H	linux-0.11/include/signal.h	/^#define _SIGNAL_H$/;"	d
+_SIZE_T	linux-0.11/include/stddef.h	/^#define _SIZE_T$/;"	d
+_SIZE_T	linux-0.11/include/string.h	/^#define _SIZE_T$/;"	d
+_SIZE_T	linux-0.11/include/sys/types.h	/^#define _SIZE_T$/;"	d
+_SIZE_T	linux-0.11/include/time.h	/^#define _SIZE_T$/;"	d
+_SP	linux-0.11/include/ctype.h	/^#define _SP	/;"	d
+_STDARG_H	linux-0.11/include/stdarg.h	/^#define _STDARG_H$/;"	d
+_STDDEF_H	linux-0.11/include/stddef.h	/^#define _STDDEF_H$/;"	d
+_STRING_H_	linux-0.11/include/string.h	/^#define _STRING_H_$/;"	d
+_SYS_STAT_H	linux-0.11/include/sys/stat.h	/^#define _SYS_STAT_H$/;"	d
+_SYS_TYPES_H	linux-0.11/include/sys/types.h	/^#define _SYS_TYPES_H$/;"	d
+_SYS_UTSNAME_H	linux-0.11/include/sys/utsname.h	/^#define _SYS_UTSNAME_H$/;"	d
+_SYS_WAIT_H	linux-0.11/include/sys/wait.h	/^#define _SYS_WAIT_H$/;"	d
+_TERMIOS_H	linux-0.11/include/termios.h	/^#define _TERMIOS_H$/;"	d
+_TIMES_H	linux-0.11/include/sys/times.h	/^#define _TIMES_H$/;"	d
+_TIME_H	linux-0.11/include/time.h	/^#define _TIME_H$/;"	d
+_TIME_T	linux-0.11/include/sys/types.h	/^#define _TIME_T$/;"	d
+_TIME_T	linux-0.11/include/time.h	/^#define _TIME_T$/;"	d
+_TSS	linux-0.11/include/linux/sched.h	/^#define _TSS(/;"	d
+_TTY_H	linux-0.11/include/linux/tty.h	/^#define _TTY_H$/;"	d
+_U	linux-0.11/include/ctype.h	/^#define _U	/;"	d
+_UNISTD_H	linux-0.11/include/unistd.h	/^#define _UNISTD_H$/;"	d
+_UTIME_H	linux-0.11/include/utime.h	/^#define _UTIME_H$/;"	d
+_X	linux-0.11/include/ctype.h	/^#define _X	/;"	d
+__GNU_EXEC_MACROS__	linux-0.11/include/a.out.h	/^#define __GNU_EXEC_MACROS__$/;"	d
+__LIBRARY__	linux-0.11/init/main.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/_exit.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/close.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/dup.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/execve.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/open.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/setsid.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/string.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/wait.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	linux-0.11/lib/write.c	/^#define __LIBRARY__$/;"	d	file:
+__NR_access	linux-0.11/include/unistd.h	/^#define __NR_access	/;"	d
+__NR_acct	linux-0.11/include/unistd.h	/^#define __NR_acct	/;"	d
+__NR_alarm	linux-0.11/include/unistd.h	/^#define __NR_alarm	/;"	d
+__NR_break	linux-0.11/include/unistd.h	/^#define __NR_break	/;"	d
+__NR_brk	linux-0.11/include/unistd.h	/^#define __NR_brk	/;"	d
+__NR_chdir	linux-0.11/include/unistd.h	/^#define __NR_chdir	/;"	d
+__NR_chmod	linux-0.11/include/unistd.h	/^#define __NR_chmod	/;"	d
+__NR_chown	linux-0.11/include/unistd.h	/^#define __NR_chown	/;"	d
+__NR_chroot	linux-0.11/include/unistd.h	/^#define __NR_chroot	/;"	d
+__NR_close	linux-0.11/include/unistd.h	/^#define __NR_close	/;"	d
+__NR_creat	linux-0.11/include/unistd.h	/^#define __NR_creat	/;"	d
+__NR_dup	linux-0.11/include/unistd.h	/^#define __NR_dup	/;"	d
+__NR_dup2	linux-0.11/include/unistd.h	/^#define __NR_dup2	/;"	d
+__NR_execve	linux-0.11/include/unistd.h	/^#define __NR_execve	/;"	d
+__NR_exit	linux-0.11/include/unistd.h	/^#define __NR_exit	/;"	d
+__NR_fcntl	linux-0.11/include/unistd.h	/^#define __NR_fcntl	/;"	d
+__NR_fork	linux-0.11/include/unistd.h	/^#define __NR_fork	/;"	d
+__NR_fstat	linux-0.11/include/unistd.h	/^#define __NR_fstat	/;"	d
+__NR_ftime	linux-0.11/include/unistd.h	/^#define __NR_ftime	/;"	d
+__NR_getegid	linux-0.11/include/unistd.h	/^#define __NR_getegid	/;"	d
+__NR_geteuid	linux-0.11/include/unistd.h	/^#define __NR_geteuid	/;"	d
+__NR_getgid	linux-0.11/include/unistd.h	/^#define __NR_getgid	/;"	d
+__NR_getpgrp	linux-0.11/include/unistd.h	/^#define __NR_getpgrp	/;"	d
+__NR_getpid	linux-0.11/include/unistd.h	/^#define __NR_getpid	/;"	d
+__NR_getppid	linux-0.11/include/unistd.h	/^#define __NR_getppid	/;"	d
+__NR_getuid	linux-0.11/include/unistd.h	/^#define __NR_getuid	/;"	d
+__NR_gtty	linux-0.11/include/unistd.h	/^#define __NR_gtty	/;"	d
+__NR_ioctl	linux-0.11/include/unistd.h	/^#define __NR_ioctl	/;"	d
+__NR_kill	linux-0.11/include/unistd.h	/^#define __NR_kill	/;"	d
+__NR_link	linux-0.11/include/unistd.h	/^#define __NR_link	/;"	d
+__NR_lock	linux-0.11/include/unistd.h	/^#define __NR_lock	/;"	d
+__NR_lseek	linux-0.11/include/unistd.h	/^#define __NR_lseek	/;"	d
+__NR_mkdir	linux-0.11/include/unistd.h	/^#define __NR_mkdir	/;"	d
+__NR_mknod	linux-0.11/include/unistd.h	/^#define __NR_mknod	/;"	d
+__NR_mount	linux-0.11/include/unistd.h	/^#define __NR_mount	/;"	d
+__NR_mpx	linux-0.11/include/unistd.h	/^#define __NR_mpx	/;"	d
+__NR_nice	linux-0.11/include/unistd.h	/^#define __NR_nice	/;"	d
+__NR_open	linux-0.11/include/unistd.h	/^#define __NR_open	/;"	d
+__NR_pause	linux-0.11/include/unistd.h	/^#define __NR_pause	/;"	d
+__NR_phys	linux-0.11/include/unistd.h	/^#define __NR_phys	/;"	d
+__NR_pipe	linux-0.11/include/unistd.h	/^#define __NR_pipe	/;"	d
+__NR_prof	linux-0.11/include/unistd.h	/^#define __NR_prof	/;"	d
+__NR_ptrace	linux-0.11/include/unistd.h	/^#define __NR_ptrace	/;"	d
+__NR_read	linux-0.11/include/unistd.h	/^#define __NR_read	/;"	d
+__NR_rename	linux-0.11/include/unistd.h	/^#define __NR_rename	/;"	d
+__NR_rmdir	linux-0.11/include/unistd.h	/^#define __NR_rmdir	/;"	d
+__NR_setgid	linux-0.11/include/unistd.h	/^#define __NR_setgid	/;"	d
+__NR_setpgid	linux-0.11/include/unistd.h	/^#define __NR_setpgid	/;"	d
+__NR_setregid	linux-0.11/include/unistd.h	/^#define __NR_setregid	/;"	d
+__NR_setreuid	linux-0.11/include/unistd.h	/^#define __NR_setreuid	/;"	d
+__NR_setsid	linux-0.11/include/unistd.h	/^#define __NR_setsid	/;"	d
+__NR_setuid	linux-0.11/include/unistd.h	/^#define __NR_setuid	/;"	d
+__NR_setup	linux-0.11/include/unistd.h	/^#define __NR_setup	/;"	d
+__NR_sgetmask	linux-0.11/include/unistd.h	/^#define __NR_sgetmask	/;"	d
+__NR_sigaction	linux-0.11/include/unistd.h	/^#define __NR_sigaction	/;"	d
+__NR_signal	linux-0.11/include/unistd.h	/^#define __NR_signal	/;"	d
+__NR_ssetmask	linux-0.11/include/unistd.h	/^#define __NR_ssetmask	/;"	d
+__NR_stat	linux-0.11/include/unistd.h	/^#define __NR_stat	/;"	d
+__NR_stime	linux-0.11/include/unistd.h	/^#define __NR_stime	/;"	d
+__NR_stty	linux-0.11/include/unistd.h	/^#define __NR_stty	/;"	d
+__NR_sync	linux-0.11/include/unistd.h	/^#define __NR_sync	/;"	d
+__NR_time	linux-0.11/include/unistd.h	/^#define __NR_time	/;"	d
+__NR_times	linux-0.11/include/unistd.h	/^#define __NR_times	/;"	d
+__NR_ulimit	linux-0.11/include/unistd.h	/^#define __NR_ulimit	/;"	d
+__NR_umask	linux-0.11/include/unistd.h	/^#define __NR_umask	/;"	d
+__NR_umount	linux-0.11/include/unistd.h	/^#define __NR_umount	/;"	d
+__NR_uname	linux-0.11/include/unistd.h	/^#define __NR_uname	/;"	d
+__NR_unlink	linux-0.11/include/unistd.h	/^#define __NR_unlink	/;"	d
+__NR_ustat	linux-0.11/include/unistd.h	/^#define __NR_ustat	/;"	d
+__NR_utime	linux-0.11/include/unistd.h	/^#define __NR_utime	/;"	d
+__NR_waitpid	linux-0.11/include/unistd.h	/^#define __NR_waitpid	/;"	d
+__NR_write	linux-0.11/include/unistd.h	/^#define __NR_write	/;"	d
+__anon3b19cf1d0108	linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	s
+__anon3b19cf1d0208	linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	s
+__anon6d42f7e1010a	linux-0.11/include/a.out.h	/^  union {$/;"	u	struct:nlist
+__anonb84830990108	linux-0.11/kernel/sched.c	/^struct {$/;"	s	file:
+__va_rounded_size	linux-0.11/include/stdarg.h	/^#define __va_rounded_size(/;"	d
+_bmap	linux-0.11/fs/inode.c	/^static int _bmap(struct m_inode * inode,int block,int create)$/;"	f	typeref:typename:int	file:
+_bucket_dir	linux-0.11/lib/malloc.c	/^struct _bucket_dir {	\/* 8 bytes *\/$/;"	s	file:
+_ctmp	linux-0.11/lib/ctype.c	/^char _ctmp;$/;"	v	typeref:typename:char
+_ctype	linux-0.11/lib/ctype.c	/^unsigned char _ctype[] = {0x00,			\/* EOF *\/$/;"	v	typeref:typename:unsigned char[]
+_exit	linux-0.11/lib/_exit.c	/^volatile void _exit(int exit_code)$/;"	f	typeref:typename:volatile void
+_exit.o	linux-0.11/lib/Makefile	/^_exit.s _exit.o : _exit.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+_exit.s	linux-0.11/lib/Makefile	/^_exit.s _exit.o : _exit.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+_fs	linux-0.11/kernel/traps.c	/^#define _fs(/;"	d	file:
+_get_base	linux-0.11/include/linux/sched.h	/^static inline unsigned long _get_base(char * addr)$/;"	f	typeref:typename:unsigned long
+_hashfn	linux-0.11/fs/buffer.c	/^#define _hashfn(/;"	d	file:
+_set_base	linux-0.11/include/linux/sched.h	/^#define _set_base(/;"	d
+_set_gate	linux-0.11/include/asm/system.h	/^#define _set_gate(/;"	d
+_set_limit	linux-0.11/include/linux/sched.h	/^#define _set_limit(/;"	d
+_set_seg_desc	linux-0.11/include/asm/system.h	/^#define _set_seg_desc(/;"	d
+_set_tssldt_desc	linux-0.11/include/asm/system.h	/^#define _set_tssldt_desc(/;"	d
+_syscall0	linux-0.11/include/unistd.h	/^#define _syscall0(/;"	d
+_syscall1	linux-0.11/include/unistd.h	/^#define _syscall1(/;"	d
+_syscall2	linux-0.11/include/unistd.h	/^#define _syscall2(/;"	d
+_syscall3	linux-0.11/include/unistd.h	/^#define _syscall3(/;"	d
+_syscall3	linux-0.11/lib/wait.c	/^_syscall3(pid_t,waitpid,pid_t,pid,int *,wait_stat,int,options)$/;"	f
+a	linux-0.11/include/linux/head.h	/^	unsigned long a,b;$/;"	m	struct:desc_struct	typeref:typename:unsigned long
+a	linux-0.11/kernel/sched.c	/^	long * a;$/;"	m	struct:__anonb84830990108	typeref:typename:long *	file:
+a_bss	linux-0.11/include/a.out.h	/^  unsigned a_bss;		\/* length of uninitialized data area for file, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_data	linux-0.11/include/a.out.h	/^  unsigned a_data;		\/* length of data, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_drsize	linux-0.11/include/a.out.h	/^  unsigned a_drsize;		\/* length of relocation info for data, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_entry	linux-0.11/include/a.out.h	/^  unsigned a_entry;		\/* start address *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_magic	linux-0.11/include/a.out.h	/^  unsigned long a_magic;	\/* Use macros N_MAGIC, etc for access *\/$/;"	m	struct:exec	typeref:typename:unsigned long
+a_syms	linux-0.11/include/a.out.h	/^  unsigned a_syms;		\/* length of symbol table data in file, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_text	linux-0.11/include/a.out.h	/^  unsigned a_text;		\/* length of text, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_trsize	linux-0.11/include/a.out.h	/^  unsigned a_trsize;		\/* length of relocation info for text, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+actime	linux-0.11/include/utime.h	/^	time_t actime;$/;"	m	struct:utimbuf	typeref:typename:time_t
+add_entry	linux-0.11/fs/namei.c	/^static struct buffer_head * add_entry(struct m_inode * dir,$/;"	f	typeref:struct:buffer_head *	file:
+add_request	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static void add_request(struct blk_dev_struct * dev, struct request * req)$/;"	f	typeref:typename:void	file:
+add_timer	linux-0.11/kernel/sched.c	/^void add_timer(long jiffies, void (*fn)(void))$/;"	f	typeref:typename:void
+alarm	linux-0.11/include/linux/sched.h	/^	long alarm;$/;"	m	struct:task_struct	typeref:typename:long
+all	linux-0.11/Makefile	/^all:	Image$/;"	t
+all	linux-0.11/mm/Makefile	/^all: mm.o$/;"	t
+argv	linux-0.11/init/main.c	/^static char * argv[] = { "-\/bin\/sh",NULL };$/;"	v	typeref:typename:char * []	file:
+argv_rc	linux-0.11/init/main.c	/^static char * argv_rc[] = { "\/bin\/sh", NULL };$/;"	v	typeref:typename:char * []	file:
+attr	linux-0.11/kernel/chr_drv/console.c	/^static unsigned char	attr=0x07;$/;"	v	typeref:typename:unsigned char	file:
+b	linux-0.11/include/linux/head.h	/^	unsigned long a,b;$/;"	m	struct:desc_struct	typeref:typename:unsigned long
+b	linux-0.11/kernel/sched.c	/^	short b;$/;"	m	struct:__anonb84830990108	typeref:typename:short	file:
+b_blocknr	linux-0.11/include/linux/fs.h	/^	unsigned long b_blocknr;	\/* block number *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned long
+b_count	linux-0.11/include/linux/fs.h	/^	unsigned char b_count;		\/* users using this block *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_data	linux-0.11/include/linux/fs.h	/^	char * b_data;			\/* pointer to data block (1024 bytes) *\/$/;"	m	struct:buffer_head	typeref:typename:char *
+b_dev	linux-0.11/include/linux/fs.h	/^	unsigned short b_dev;		\/* device (0 = free) *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned short
+b_dirt	linux-0.11/include/linux/fs.h	/^	unsigned char b_dirt;		\/* 0-clean,1-dirty *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_lock	linux-0.11/include/linux/fs.h	/^	unsigned char b_lock;		\/* 0 - ok, 1 -locked *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_next	linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_next;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_next_free	linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_next_free;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_prev	linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_prev;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_prev_free	linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_prev_free;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_uptodate	linux-0.11/include/linux/fs.h	/^	unsigned char b_uptodate;$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_wait	linux-0.11/include/linux/fs.h	/^	struct task_struct * b_wait;$/;"	m	struct:buffer_head	typeref:struct:task_struct *
+back_link	linux-0.11/include/linux/sched.h	/^	long	back_link;	\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+backup	linux-0.11/Makefile	/^backup: clean$/;"	t
+bad_flp_intr	linux-0.11/kernel/blk_drv/floppy.c	/^static void bad_flp_intr(void)$/;"	f	typeref:typename:void	file:
+bad_rw_intr	linux-0.11/kernel/blk_drv/hd.c	/^static void bad_rw_intr(void)$/;"	f	typeref:typename:void	file:
+beepcount	linux-0.11/kernel/chr_drv/console.c	/^int beepcount = 0;$/;"	v	typeref:typename:int
+bh	linux-0.11/kernel/blk_drv/blk.h	/^	struct buffer_head * bh;$/;"	m	struct:request	typeref:struct:buffer_head *
+bitmap.o	linux-0.11/fs/Makefile	/^bitmap.o: bitmap.c ..\/include\/string.h ..\/include\/linux\/sched.h \\$/;"	t
+blk_dev	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^struct blk_dev_struct blk_dev[NR_BLK_DEV] = {$/;"	v	typeref:struct:blk_dev_struct[]
+blk_dev_init	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^void blk_dev_init(void)$/;"	f	typeref:typename:void
+blk_dev_struct	linux-0.11/kernel/blk_drv/blk.h	/^struct blk_dev_struct {$/;"	s
+blk_drv.a	linux-0.11/kernel/blk_drv/Makefile	/^blk_drv.a: $(OBJS)$/;"	t
+block_dev.o	linux-0.11/fs/Makefile	/^block_dev.o: block_dev.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+block_read	linux-0.11/fs/block_dev.c	/^int block_read(int dev, unsigned long * pos, char * buf, int count)$/;"	f	typeref:typename:int
+block_write	linux-0.11/fs/block_dev.c	/^int block_write(int dev, long * pos, char * buf, int count)$/;"	f	typeref:typename:int
+blocked	linux-0.11/include/linux/sched.h	/^	long blocked;	\/* bitmap of masked signals *\/$/;"	m	struct:task_struct	typeref:typename:long
+bmap	linux-0.11/fs/inode.c	/^int bmap(struct m_inode * inode,int block)$/;"	f	typeref:typename:int
+boot/bootsect	linux-0.11/Makefile	/^boot\/bootsect:	boot\/bootsect.s$/;"	t
+boot/head.o	linux-0.11/Makefile	/^boot\/head.o: boot\/head.s$/;"	t
+boot/setup	linux-0.11/Makefile	/^boot\/setup: boot\/setup.s$/;"	t
+boot_ind	linux-0.11/include/linux/hdreg.h	/^	unsigned char boot_ind;		\/* 0x80 - active (unused) *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+bottom	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	top,bottom;$/;"	v	typeref:typename:unsigned long	file:
+bread	linux-0.11/fs/buffer.c	/^struct buffer_head * bread(int dev,int block)$/;"	f	typeref:struct:buffer_head *
+bread_page	linux-0.11/fs/buffer.c	/^void bread_page(unsigned long address,int dev,int b[4])$/;"	f	typeref:typename:void
+breada	linux-0.11/fs/buffer.c	/^struct buffer_head * breada(int dev,int first, ...)$/;"	f	typeref:struct:buffer_head *
+brelse	linux-0.11/fs/buffer.c	/^void brelse(struct buffer_head * buf)$/;"	f	typeref:typename:void
+brk	linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+bucket_desc	linux-0.11/lib/malloc.c	/^struct bucket_desc {	\/* 16 bytes *\/$/;"	s	file:
+bucket_dir	linux-0.11/lib/malloc.c	/^struct _bucket_dir bucket_dir[] = {$/;"	v	typeref:struct:_bucket_dir[]
+bucket_size	linux-0.11/lib/malloc.c	/^	unsigned short		bucket_size;$/;"	m	struct:bucket_desc	typeref:typename:unsigned short	file:
+buf	linux-0.11/include/linux/tty.h	/^	char buf[TTY_BUF_SIZE];$/;"	m	struct:tty_queue	typeref:typename:char[]
+buf	linux-0.11/kernel/printk.c	/^static char buf[1024];$/;"	v	typeref:typename:char[1024]	file:
+buffer	linux-0.11/kernel/blk_drv/blk.h	/^	char * buffer;$/;"	m	struct:request	typeref:typename:char *
+buffer.o	linux-0.11/fs/Makefile	/^buffer.o: buffer.c ..\/include\/stdarg.h ..\/include\/linux\/config.h \\$/;"	t
+buffer_block	linux-0.11/include/linux/fs.h	/^typedef char buffer_block[BLOCK_SIZE];$/;"	t	typeref:typename:char[BLOCK_SIZE]
+buffer_head	linux-0.11/include/linux/fs.h	/^struct buffer_head {$/;"	s
+buffer_init	linux-0.11/fs/buffer.c	/^void buffer_init(long buffer_end)$/;"	f	typeref:typename:void
+buffer_memory_end	linux-0.11/init/main.c	/^static long buffer_memory_end = 0;$/;"	v	typeref:typename:long	file:
+buffer_wait	linux-0.11/fs/buffer.c	/^static struct task_struct * buffer_wait = NULL;$/;"	v	typeref:struct:task_struct *	file:
+c_cc	linux-0.11/include/termios.h	/^	unsigned char c_cc[NCCS];	\/* control characters *\/$/;"	m	struct:termios	typeref:typename:unsigned char[]
+c_cc	linux-0.11/include/termios.h	/^	unsigned char c_cc[NCC];	\/* control characters *\/$/;"	m	struct:termio	typeref:typename:unsigned char[]
+c_cflag	linux-0.11/include/termios.h	/^	unsigned long c_cflag;		\/* control mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_cflag	linux-0.11/include/termios.h	/^	unsigned short c_cflag;		\/* control mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+c_iflag	linux-0.11/include/termios.h	/^	unsigned long c_iflag;		\/* input mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_iflag	linux-0.11/include/termios.h	/^	unsigned short c_iflag;		\/* input mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+c_lflag	linux-0.11/include/termios.h	/^	unsigned long c_lflag;		\/* local mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_lflag	linux-0.11/include/termios.h	/^	unsigned short c_lflag;		\/* local mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+c_line	linux-0.11/include/termios.h	/^	unsigned char c_line;		\/* line discipline *\/$/;"	m	struct:termio	typeref:typename:unsigned char
+c_line	linux-0.11/include/termios.h	/^	unsigned char c_line;		\/* line discipline *\/$/;"	m	struct:termios	typeref:typename:unsigned char
+c_oflag	linux-0.11/include/termios.h	/^	unsigned long c_oflag;		\/* output mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_oflag	linux-0.11/include/termios.h	/^	unsigned short c_oflag;		\/* output mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+calc_mem	linux-0.11/mm/memory.c	/^void calc_mem(void)$/;"	f	typeref:typename:void
+chain	linux-0.11/lib/malloc.c	/^	struct bucket_desc	*chain;$/;"	m	struct:_bucket_dir	typeref:struct:bucket_desc *	file:
+change_ldt	linux-0.11/fs/exec.c	/^static unsigned long change_ldt(unsigned long text_size,unsigned long * page)$/;"	f	typeref:typename:unsigned long	file:
+change_speed	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void change_speed(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+char_dev.o	linux-0.11/fs/Makefile	/^char_dev.o: char_dev.c ..\/include\/errno.h ..\/include\/sys\/types.h \\$/;"	t
+check_disk_change	linux-0.11/fs/buffer.c	/^void check_disk_change(int dev)$/;"	f	typeref:typename:void
+chr_dev_init	linux-0.11/kernel/chr_drv/tty_io.c	/^void chr_dev_init(void)$/;"	f	typeref:typename:void
+chr_drv.a	linux-0.11/kernel/chr_drv/Makefile	/^chr_drv.a: $(OBJS)$/;"	t
+clean	linux-0.11/Makefile	/^clean:$/;"	t
+clean	linux-0.11/fs/Makefile	/^clean:$/;"	t
+clean	linux-0.11/kernel/Makefile	/^clean:$/;"	t
+clean	linux-0.11/kernel/blk_drv/Makefile	/^clean:$/;"	t
+clean	linux-0.11/kernel/chr_drv/Makefile	/^clean:$/;"	t
+clean	linux-0.11/kernel/math/Makefile	/^clean:$/;"	t
+clean	linux-0.11/lib/Makefile	/^clean:$/;"	t
+clean	linux-0.11/mm/Makefile	/^clean:$/;"	t
+clear_bit	linux-0.11/fs/bitmap.c	/^#define clear_bit(/;"	d	file:
+clear_block	linux-0.11/fs/bitmap.c	/^#define clear_block(/;"	d	file:
+cli	linux-0.11/include/asm/system.h	/^#define cli(/;"	d
+clock_t	linux-0.11/include/time.h	/^typedef long clock_t;$/;"	t	typeref:typename:long
+close.o	linux-0.11/lib/Makefile	/^close.s close.o : close.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+close.s	linux-0.11/lib/Makefile	/^close.s close.o : close.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+close_on_exec	linux-0.11/include/linux/sched.h	/^	unsigned long close_on_exec;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+cmd	linux-0.11/kernel/blk_drv/blk.h	/^	int cmd;		\/* READ or WRITE *\/$/;"	m	struct:request	typeref:typename:int
+command	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char command = 0;$/;"	v	typeref:typename:unsigned char	file:
+con_init	linux-0.11/kernel/chr_drv/console.c	/^void con_init(void)$/;"	f	typeref:typename:void
+con_write	linux-0.11/kernel/chr_drv/console.c	/^void con_write(struct tty_struct * tty)$/;"	f	typeref:typename:void
+console.o	linux-0.11/kernel/chr_drv/Makefile	/^console.s console.o: console.c ..\/..\/include\/linux\/sched.h \\$/;"	t
+console.s	linux-0.11/kernel/chr_drv/Makefile	/^console.s console.o: console.c ..\/..\/include\/linux\/sched.h \\$/;"	t
+controller_ready	linux-0.11/kernel/blk_drv/hd.c	/^static int controller_ready(void)$/;"	f	typeref:typename:int	file:
+copy_buffer	linux-0.11/kernel/blk_drv/floppy.c	/^#define copy_buffer(/;"	d	file:
+copy_mem	linux-0.11/kernel/fork.c	/^int copy_mem(int nr,struct task_struct * p)$/;"	f	typeref:typename:int
+copy_page	linux-0.11/mm/memory.c	/^#define copy_page(/;"	d	file:
+copy_page_tables	linux-0.11/mm/memory.c	/^int copy_page_tables(unsigned long from,unsigned long to,long size)$/;"	f	typeref:typename:int
+copy_process	linux-0.11/kernel/fork.c	/^int copy_process(int nr,long ebp,long edi,long esi,long gs,long none,$/;"	f	typeref:typename:int
+copy_strings	linux-0.11/fs/exec.c	/^static unsigned long copy_strings(int argc,char ** argv,unsigned long *page,$/;"	f	typeref:typename:unsigned long	file:
+copy_to_cooked	linux-0.11/kernel/chr_drv/tty_io.c	/^void copy_to_cooked(struct tty_struct * tty)$/;"	f	typeref:typename:void
+count	linux-0.11/fs/exec.c	/^static int count(char ** argv)$/;"	f	typeref:typename:int	file:
+counter	linux-0.11/include/linux/sched.h	/^	long counter;$/;"	m	struct:task_struct	typeref:typename:long
+cp_stat	linux-0.11/fs/stat.c	/^static void cp_stat(struct m_inode * inode, struct stat * statbuf)$/;"	f	typeref:typename:void	file:
+cr	linux-0.11/kernel/chr_drv/console.c	/^static void cr(void)$/;"	f	typeref:typename:void	file:
+cr3	linux-0.11/include/linux/sched.h	/^	long	cr3;$/;"	m	struct:tss_struct	typeref:typename:long
+create_block	linux-0.11/fs/inode.c	/^int create_block(struct m_inode * inode, int block)$/;"	f	typeref:typename:int
+create_tables	linux-0.11/fs/exec.c	/^static unsigned long * create_tables(char * p,int argc,int envc)$/;"	f	typeref:typename:unsigned long *	file:
+crw_ptr	linux-0.11/fs/char_dev.c	/^typedef int (*crw_ptr)(int rw,unsigned minor,char * buf,int count,off_t * pos);$/;"	t	typeref:typename:int (*)(int rw,unsigned minor,char * buf,int count,off_t * pos)	file:
+crw_table	linux-0.11/fs/char_dev.c	/^static crw_ptr crw_table[]={$/;"	v	typeref:typename:crw_ptr[]	file:
+cs	linux-0.11/include/linux/sched.h	/^	long	cs;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+csi_J	linux-0.11/kernel/chr_drv/console.c	/^static void csi_J(int par)$/;"	f	typeref:typename:void	file:
+csi_K	linux-0.11/kernel/chr_drv/console.c	/^static void csi_K(int par)$/;"	f	typeref:typename:void	file:
+csi_L	linux-0.11/kernel/chr_drv/console.c	/^static void csi_L(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_M	linux-0.11/kernel/chr_drv/console.c	/^static void csi_M(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_P	linux-0.11/kernel/chr_drv/console.c	/^static void csi_P(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_at	linux-0.11/kernel/chr_drv/console.c	/^static void csi_at(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_m	linux-0.11/kernel/chr_drv/console.c	/^void csi_m(void)$/;"	f	typeref:typename:void
+cstime	linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+ctl	linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+ctype.o	linux-0.11/lib/Makefile	/^ctype.s ctype.o : ctype.c ..\/include\/ctype.h $/;"	t
+ctype.s	linux-0.11/lib/Makefile	/^ctype.s ctype.o : ctype.c ..\/include\/ctype.h $/;"	t
+cur_rate	linux-0.11/kernel/blk_drv/floppy.c	/^static int cur_rate = -1;$/;"	v	typeref:typename:int	file:
+cur_spec1	linux-0.11/kernel/blk_drv/floppy.c	/^static int cur_spec1 = -1;$/;"	v	typeref:typename:int	file:
+current	linux-0.11/kernel/sched.c	/^struct task_struct *current = &(init_task.task);$/;"	v	typeref:struct:task_struct *
+current_DOR	linux-0.11/kernel/sched.c	/^unsigned char current_DOR = 0x0C;$/;"	v	typeref:typename:unsigned char
+current_drive	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char current_drive = 0;$/;"	v	typeref:typename:unsigned char	file:
+current_request	linux-0.11/kernel/blk_drv/blk.h	/^	struct request * current_request;$/;"	m	struct:blk_dev_struct	typeref:struct:request *
+current_track	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char current_track = 255;$/;"	v	typeref:typename:unsigned char	file:
+cutime	linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+cwd	linux-0.11/include/linux/sched.h	/^	long	cwd;$/;"	m	struct:i387_struct	typeref:typename:long
+cyl	linux-0.11/include/linux/hdreg.h	/^	unsigned char cyl;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+cyl	linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+d_inode	linux-0.11/include/linux/fs.h	/^struct d_inode {$/;"	s
+d_super_block	linux-0.11/include/linux/fs.h	/^struct d_super_block {$/;"	s
+daddr_t	linux-0.11/include/sys/types.h	/^typedef int daddr_t;$/;"	t	typeref:typename:int
+data	linux-0.11/include/linux/tty.h	/^	unsigned long data;$/;"	m	struct:tty_queue	typeref:typename:unsigned long
+del	linux-0.11/kernel/chr_drv/console.c	/^static void del(void)$/;"	f	typeref:typename:void	file:
+delete_char	linux-0.11/kernel/chr_drv/console.c	/^static void delete_char(void)$/;"	f	typeref:typename:void	file:
+delete_line	linux-0.11/kernel/chr_drv/console.c	/^static void delete_line(void)$/;"	f	typeref:typename:void	file:
+dep	linux-0.11/Makefile	/^dep:$/;"	t
+dep	linux-0.11/fs/Makefile	/^dep:$/;"	t
+dep	linux-0.11/kernel/Makefile	/^dep:$/;"	t
+dep	linux-0.11/kernel/blk_drv/Makefile	/^dep:$/;"	t
+dep	linux-0.11/kernel/chr_drv/Makefile	/^dep:$/;"	t
+dep	linux-0.11/kernel/math/Makefile	/^dep:$/;"	t
+dep	linux-0.11/lib/Makefile	/^dep:$/;"	t
+dep	linux-0.11/mm/Makefile	/^dep:$/;"	t
+desc_struct	linux-0.11/include/linux/head.h	/^typedef struct desc_struct {$/;"	s
+desc_table	linux-0.11/include/linux/head.h	/^} desc_table[256];$/;"	t	typeref:struct:desc_struct[256]
+dev	linux-0.11/kernel/blk_drv/blk.h	/^	int dev;		\/* -1 if no request *\/$/;"	m	struct:request	typeref:typename:int
+dev_t	linux-0.11/include/sys/types.h	/^typedef unsigned short dev_t;$/;"	t	typeref:typename:unsigned short
+die	linux-0.11/kernel/traps.c	/^static void die(char * str,long esp_ptr,long nr)$/;"	f	typeref:typename:void	file:
+die	linux-0.11/tools/build.c	/^void die(char * str)$/;"	f	typeref:typename:void
+dir_entry	linux-0.11/include/linux/fs.h	/^struct dir_entry {$/;"	s
+dir_namei	linux-0.11/fs/namei.c	/^static struct m_inode * dir_namei(const char * pathname,$/;"	f	typeref:struct:m_inode *	file:
+disk	linux-0.11/Makefile	/^disk: Image$/;"	t
+div_t	linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	t	typeref:struct:__anon3b19cf1d0108
+do_bounds	linux-0.11/kernel/traps.c	/^void do_bounds(long esp, long error_code)$/;"	f	typeref:typename:void
+do_coprocessor_error	linux-0.11/kernel/traps.c	/^void do_coprocessor_error(long esp, long error_code)$/;"	f	typeref:typename:void
+do_coprocessor_segment_overrun	linux-0.11/kernel/traps.c	/^void do_coprocessor_segment_overrun(long esp, long error_code)$/;"	f	typeref:typename:void
+do_debug	linux-0.11/kernel/traps.c	/^void do_debug(long esp, long error_code)$/;"	f	typeref:typename:void
+do_device_not_available	linux-0.11/kernel/traps.c	/^void do_device_not_available(long esp, long error_code)$/;"	f	typeref:typename:void
+do_div	linux-0.11/kernel/vsprintf.c	/^#define do_div(/;"	d	file:
+do_divide_error	linux-0.11/kernel/traps.c	/^void do_divide_error(long esp, long error_code)$/;"	f	typeref:typename:void
+do_double_fault	linux-0.11/kernel/traps.c	/^void do_double_fault(long esp, long error_code)$/;"	f	typeref:typename:void
+do_execve	linux-0.11/fs/exec.c	/^int do_execve(unsigned long * eip,long tmp,char * filename,$/;"	f	typeref:typename:int
+do_exit	linux-0.11/kernel/exit.c	/^int do_exit(long code)$/;"	f	typeref:typename:int
+do_fd_request	linux-0.11/kernel/blk_drv/floppy.c	/^void do_fd_request(void)$/;"	f	typeref:typename:void
+do_floppy_timer	linux-0.11/kernel/sched.c	/^void do_floppy_timer(void)$/;"	f	typeref:typename:void
+do_general_protection	linux-0.11/kernel/traps.c	/^void do_general_protection(long esp, long error_code)$/;"	f	typeref:typename:void
+do_hd_request	linux-0.11/kernel/blk_drv/hd.c	/^void do_hd_request(void)$/;"	f	typeref:typename:void
+do_int3	linux-0.11/kernel/traps.c	/^void do_int3(long * esp, long error_code,$/;"	f	typeref:typename:void
+do_invalid_TSS	linux-0.11/kernel/traps.c	/^void do_invalid_TSS(long esp,long error_code)$/;"	f	typeref:typename:void
+do_invalid_op	linux-0.11/kernel/traps.c	/^void do_invalid_op(long esp, long error_code)$/;"	f	typeref:typename:void
+do_nmi	linux-0.11/kernel/traps.c	/^void do_nmi(long esp, long error_code)$/;"	f	typeref:typename:void
+do_no_page	linux-0.11/mm/memory.c	/^void do_no_page(unsigned long error_code,unsigned long address)$/;"	f	typeref:typename:void
+do_overflow	linux-0.11/kernel/traps.c	/^void do_overflow(long esp, long error_code)$/;"	f	typeref:typename:void
+do_rd_request	linux-0.11/kernel/blk_drv/ramdisk.c	/^void do_rd_request(void)$/;"	f	typeref:typename:void
+do_reserved	linux-0.11/kernel/traps.c	/^void do_reserved(long esp, long error_code)$/;"	f	typeref:typename:void
+do_segment_not_present	linux-0.11/kernel/traps.c	/^void do_segment_not_present(long esp,long error_code)$/;"	f	typeref:typename:void
+do_signal	linux-0.11/kernel/signal.c	/^void do_signal(long signr,long eax, long ebx, long ecx, long edx,$/;"	f	typeref:typename:void
+do_stack_segment	linux-0.11/kernel/traps.c	/^void do_stack_segment(long esp,long error_code)$/;"	f	typeref:typename:void
+do_timer	linux-0.11/kernel/sched.c	/^void do_timer(long cpl)$/;"	f	typeref:typename:void
+do_tty_interrupt	linux-0.11/kernel/chr_drv/tty_io.c	/^void do_tty_interrupt(int tty)$/;"	f	typeref:typename:void
+do_wp_page	linux-0.11/mm/memory.c	/^void do_wp_page(unsigned long error_code,unsigned long address)$/;"	f	typeref:typename:void
+drive_busy	linux-0.11/kernel/blk_drv/hd.c	/^static int drive_busy(void)$/;"	f	typeref:typename:int	file:
+drive_info	linux-0.11/init/main.c	/^struct drive_info { char dummy[32]; } drive_info;$/;"	s	file:
+drive_info	linux-0.11/init/main.c	/^struct drive_info { char dummy[32]; } drive_info;$/;"	v	typeref:struct:drive_info
+ds	linux-0.11/include/linux/sched.h	/^	long	ds;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+dummy	linux-0.11/init/main.c	/^struct drive_info { char dummy[32]; } drive_info;$/;"	m	struct:drive_info	typeref:typename:char[32]	file:
+dup.o	linux-0.11/lib/Makefile	/^dup.s dup.o : dup.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+dup.s	linux-0.11/lib/Makefile	/^dup.s dup.o : dup.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+dupfd	linux-0.11/fs/fcntl.c	/^static int dupfd(unsigned int fd, unsigned int arg)$/;"	f	typeref:typename:int	file:
+eax	linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+ebp	linux-0.11/include/linux/sched.h	/^	long	ebp;$/;"	m	struct:tss_struct	typeref:typename:long
+ebx	linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+ecx	linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+edi	linux-0.11/include/linux/sched.h	/^	long	edi;$/;"	m	struct:tss_struct	typeref:typename:long
+edx	linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+eflags	linux-0.11/include/linux/sched.h	/^	long	eflags;$/;"	m	struct:tss_struct	typeref:typename:long
+egid	linux-0.11/include/linux/sched.h	/^	unsigned short gid,egid,sgid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+eip	linux-0.11/include/linux/sched.h	/^	long	eip;$/;"	m	struct:tss_struct	typeref:typename:long
+empty_dir	linux-0.11/fs/namei.c	/^static int empty_dir(struct m_inode * inode)$/;"	f	typeref:typename:int	file:
+end_code	linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+end_cyl	linux-0.11/include/linux/hdreg.h	/^	unsigned char end_cyl;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+end_data	linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+end_head	linux-0.11/include/linux/hdreg.h	/^	unsigned char end_head;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+end_request	linux-0.11/kernel/blk_drv/blk.h	/^static inline void end_request(int uptodate)$/;"	f	typeref:typename:void
+end_sector	linux-0.11/include/linux/hdreg.h	/^	unsigned char end_sector;	\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+envp	linux-0.11/init/main.c	/^static char * envp[] = { "HOME=\/usr\/root", NULL };$/;"	v	typeref:typename:char * []	file:
+envp_rc	linux-0.11/init/main.c	/^static char * envp_rc[] = { "HOME=\/", NULL };$/;"	v	typeref:typename:char * []	file:
+errno	linux-0.11/lib/errno.c	/^int errno;$/;"	v	typeref:typename:int
+errno.o	linux-0.11/lib/Makefile	/^errno.s errno.o : errno.c $/;"	t
+errno.s	linux-0.11/lib/Makefile	/^errno.s errno.o : errno.c $/;"	t
+errors	linux-0.11/kernel/blk_drv/blk.h	/^	int errors;$/;"	m	struct:request	typeref:typename:int
+es	linux-0.11/include/linux/sched.h	/^	long	es;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+esi	linux-0.11/include/linux/sched.h	/^	long	esi;$/;"	m	struct:tss_struct	typeref:typename:long
+esp	linux-0.11/include/linux/sched.h	/^	long	esp;$/;"	m	struct:tss_struct	typeref:typename:long
+esp0	linux-0.11/include/linux/sched.h	/^	long	esp0;$/;"	m	struct:tss_struct	typeref:typename:long
+esp1	linux-0.11/include/linux/sched.h	/^	long	esp1;$/;"	m	struct:tss_struct	typeref:typename:long
+esp2	linux-0.11/include/linux/sched.h	/^	long	esp2;$/;"	m	struct:tss_struct	typeref:typename:long
+euid	linux-0.11/include/linux/sched.h	/^	unsigned short uid,euid,suid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+exec	linux-0.11/include/a.out.h	/^struct exec {$/;"	s
+exec.o	linux-0.11/fs/Makefile	/^exec.o: exec.c ..\/include\/errno.h ..\/include\/string.h \\$/;"	t
+executable	linux-0.11/include/linux/sched.h	/^	struct m_inode * executable;$/;"	m	struct:task_struct	typeref:struct:m_inode *
+execve.o	linux-0.11/lib/Makefile	/^execve.s execve.o : execve.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+execve.s	linux-0.11/lib/Makefile	/^execve.s execve.o : execve.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+exit.o	linux-0.11/kernel/Makefile	/^exit.s exit.o: exit.c ..\/include\/errno.h ..\/include\/signal.h \\$/;"	t
+exit.s	linux-0.11/kernel/Makefile	/^exit.s exit.o: exit.c ..\/include\/errno.h ..\/include\/signal.h \\$/;"	t
+exit_code	linux-0.11/include/linux/sched.h	/^	int exit_code;$/;"	m	struct:task_struct	typeref:typename:int
+extern	linux-0.11/lib/string.c	/^#define extern$/;"	d	file:
+f_count	linux-0.11/include/linux/fs.h	/^	unsigned short f_count;$/;"	m	struct:file	typeref:typename:unsigned short
+f_flags	linux-0.11/include/linux/fs.h	/^	unsigned short f_flags;$/;"	m	struct:file	typeref:typename:unsigned short
+f_fname	linux-0.11/include/sys/types.h	/^	char f_fname[6];$/;"	m	struct:ustat	typeref:typename:char[6]
+f_fpack	linux-0.11/include/sys/types.h	/^	char f_fpack[6];$/;"	m	struct:ustat	typeref:typename:char[6]
+f_inode	linux-0.11/include/linux/fs.h	/^	struct m_inode * f_inode;$/;"	m	struct:file	typeref:struct:m_inode *
+f_mode	linux-0.11/include/linux/fs.h	/^	unsigned short f_mode;$/;"	m	struct:file	typeref:typename:unsigned short
+f_pos	linux-0.11/include/linux/fs.h	/^	off_t f_pos;$/;"	m	struct:file	typeref:typename:off_t
+f_tfree	linux-0.11/include/sys/types.h	/^	daddr_t f_tfree;$/;"	m	struct:ustat	typeref:typename:daddr_t
+f_tinode	linux-0.11/include/sys/types.h	/^	ino_t f_tinode;$/;"	m	struct:ustat	typeref:typename:ino_t
+father	linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+fcntl.o	linux-0.11/fs/Makefile	/^fcntl.o: fcntl.c ..\/include\/string.h ..\/include\/errno.h \\$/;"	t
+fcs	linux-0.11/include/linux/sched.h	/^	long	fcs;$/;"	m	struct:i387_struct	typeref:typename:long
+file	linux-0.11/include/linux/fs.h	/^struct file {$/;"	s
+file_dev.o	linux-0.11/fs/Makefile	/^file_dev.o: file_dev.c ..\/include\/errno.h ..\/include\/fcntl.h \\$/;"	t
+file_read	linux-0.11/fs/file_dev.c	/^int file_read(struct m_inode * inode, struct file * filp, char * buf, int count)$/;"	f	typeref:typename:int
+file_table	linux-0.11/fs/file_table.c	/^struct file file_table[NR_FILE];$/;"	v	typeref:struct:file[]
+file_table.o	linux-0.11/fs/Makefile	/^file_table.o: file_table.c ..\/include\/linux\/fs.h ..\/include\/sys\/types.h$/;"	t
+file_write	linux-0.11/fs/file_dev.c	/^int file_write(struct m_inode * inode, struct file * filp, char * buf, int count)$/;"	f	typeref:typename:int
+filp	linux-0.11/include/linux/sched.h	/^	struct file * filp[NR_OPEN];$/;"	m	struct:task_struct	typeref:struct:file * []
+find_buffer	linux-0.11/fs/buffer.c	/^static struct buffer_head * find_buffer(int dev, int block)$/;"	f	typeref:struct:buffer_head *	file:
+find_empty_process	linux-0.11/kernel/fork.c	/^int find_empty_process(void)$/;"	f	typeref:typename:int
+find_entry	linux-0.11/fs/namei.c	/^static struct buffer_head * find_entry(struct m_inode ** dir,$/;"	f	typeref:struct:buffer_head *	file:
+find_first_zero	linux-0.11/fs/bitmap.c	/^#define find_first_zero(/;"	d	file:
+fip	linux-0.11/include/linux/sched.h	/^	long	fip;$/;"	m	struct:i387_struct	typeref:typename:long
+flock	linux-0.11/include/fcntl.h	/^struct flock {$/;"	s
+floppy	linux-0.11/kernel/blk_drv/floppy.c	/^static struct floppy_struct * floppy = floppy_type;$/;"	v	typeref:struct:floppy_struct *	file:
+floppy.o	linux-0.11/kernel/blk_drv/Makefile	/^floppy.s floppy.o: floppy.c ..\/..\/include\/linux\/sched.h ..\/..\/include\/linux\/head.h \\$/;"	t
+floppy.s	linux-0.11/kernel/blk_drv/Makefile	/^floppy.s floppy.o: floppy.c ..\/..\/include\/linux\/sched.h ..\/..\/include\/linux\/head.h \\$/;"	t
+floppy_change	linux-0.11/kernel/blk_drv/floppy.c	/^int floppy_change(unsigned int nr)$/;"	f	typeref:typename:int
+floppy_deselect	linux-0.11/kernel/blk_drv/floppy.c	/^void floppy_deselect(unsigned int nr)$/;"	f	typeref:typename:void
+floppy_init	linux-0.11/kernel/blk_drv/floppy.c	/^void floppy_init(void)$/;"	f	typeref:typename:void
+floppy_off	linux-0.11/kernel/sched.c	/^void floppy_off(unsigned int nr)$/;"	f	typeref:typename:void
+floppy_on	linux-0.11/kernel/sched.c	/^void floppy_on(unsigned int nr)$/;"	f	typeref:typename:void
+floppy_on_interrupt	linux-0.11/kernel/blk_drv/floppy.c	/^static void floppy_on_interrupt(void)$/;"	f	typeref:typename:void	file:
+floppy_struct	linux-0.11/kernel/blk_drv/floppy.c	/^static struct floppy_struct {$/;"	s	file:
+floppy_type	linux-0.11/kernel/blk_drv/floppy.c	/^} floppy_type[] = {$/;"	v	typeref:struct:floppy_struct[]
+flush	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void flush(struct tty_queue * queue)$/;"	f	typeref:typename:void	file:
+fn	linux-0.11/kernel/sched.c	/^	void (*fn)();$/;"	m	struct:timer_list	typeref:typename:void (*)()	file:
+fn_ptr	linux-0.11/include/linux/sched.h	/^typedef int (*fn_ptr)();$/;"	t	typeref:typename:int (*)()
+foo	linux-0.11/include/linux/sched.h	/^	long	foo;$/;"	m	struct:i387_struct	typeref:typename:long
+fork.o	linux-0.11/kernel/Makefile	/^fork.s fork.o: fork.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+fork.s	linux-0.11/kernel/Makefile	/^fork.s fork.o: fork.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+fos	linux-0.11/include/linux/sched.h	/^	long	fos;$/;"	m	struct:i387_struct	typeref:typename:long
+free	linux-0.11/include/linux/kernel.h	/^#define free(/;"	d
+free_block	linux-0.11/fs/bitmap.c	/^void free_block(int dev, int block)$/;"	f	typeref:typename:void
+free_bucket_desc	linux-0.11/lib/malloc.c	/^struct bucket_desc *free_bucket_desc = (struct bucket_desc *) 0;$/;"	v	typeref:struct:bucket_desc *
+free_dind	linux-0.11/fs/truncate.c	/^static void free_dind(int dev,int block)$/;"	f	typeref:typename:void	file:
+free_ind	linux-0.11/fs/truncate.c	/^static void free_ind(int dev,int block)$/;"	f	typeref:typename:void	file:
+free_inode	linux-0.11/fs/bitmap.c	/^void free_inode(struct m_inode * inode)$/;"	f	typeref:typename:void
+free_list	linux-0.11/fs/buffer.c	/^static struct buffer_head * free_list;$/;"	v	typeref:struct:buffer_head *	file:
+free_page	linux-0.11/mm/memory.c	/^void free_page(unsigned long addr)$/;"	f	typeref:typename:void
+free_page_tables	linux-0.11/mm/memory.c	/^int free_page_tables(unsigned long from,unsigned long size)$/;"	f	typeref:typename:int
+free_s	linux-0.11/lib/malloc.c	/^void free_s(void *obj, int size)$/;"	f	typeref:typename:void
+free_super	linux-0.11/fs/super.c	/^static void free_super(struct super_block * sb)$/;"	f	typeref:typename:void	file:
+freeptr	linux-0.11/lib/malloc.c	/^	void			*freeptr;$/;"	m	struct:bucket_desc	typeref:typename:void *	file:
+fs	linux-0.11/include/linux/sched.h	/^	long	fs;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+fs.o	linux-0.11/fs/Makefile	/^fs.o: $(OBJS)$/;"	t
+fs/fs.o	linux-0.11/Makefile	/^fs\/fs.o: FORCE$/;"	t
+gap	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned char gap,rate,spec1;$/;"	m	struct:floppy_struct	typeref:typename:unsigned char	file:
+get_base	linux-0.11/include/linux/sched.h	/^#define get_base(/;"	d
+get_dir	linux-0.11/fs/namei.c	/^static struct m_inode * get_dir(const char * pathname)$/;"	f	typeref:struct:m_inode *	file:
+get_ds	linux-0.11/include/asm/segment.h	/^static inline unsigned long get_ds() $/;"	f	typeref:typename:unsigned long
+get_empty_inode	linux-0.11/fs/inode.c	/^struct m_inode * get_empty_inode(void)$/;"	f	typeref:struct:m_inode *
+get_empty_page	linux-0.11/mm/memory.c	/^void get_empty_page(unsigned long address)$/;"	f	typeref:typename:void
+get_free_page	linux-0.11/mm/memory.c	/^unsigned long get_free_page(void)$/;"	f	typeref:typename:unsigned long
+get_fs	linux-0.11/include/asm/segment.h	/^static inline unsigned long get_fs() $/;"	f	typeref:typename:unsigned long
+get_fs_byte	linux-0.11/include/asm/segment.h	/^static inline unsigned char get_fs_byte(const char * addr)$/;"	f	typeref:typename:unsigned char
+get_fs_long	linux-0.11/include/asm/segment.h	/^static inline unsigned long get_fs_long(const unsigned long *addr)$/;"	f	typeref:typename:unsigned long
+get_fs_word	linux-0.11/include/asm/segment.h	/^static inline unsigned short get_fs_word(const unsigned short *addr)$/;"	f	typeref:typename:unsigned short
+get_hash_table	linux-0.11/fs/buffer.c	/^struct buffer_head * get_hash_table(int dev, int block)$/;"	f	typeref:struct:buffer_head *
+get_limit	linux-0.11/include/linux/sched.h	/^#define get_limit(/;"	d
+get_new	linux-0.11/kernel/signal.c	/^static inline void get_new(char * from,char * to)$/;"	f	typeref:typename:void	file:
+get_pipe_inode	linux-0.11/fs/inode.c	/^struct m_inode * get_pipe_inode(void)$/;"	f	typeref:struct:m_inode *
+get_seg_byte	linux-0.11/kernel/traps.c	/^#define get_seg_byte(/;"	d	file:
+get_seg_long	linux-0.11/kernel/traps.c	/^#define get_seg_long(/;"	d	file:
+get_super	linux-0.11/fs/super.c	/^struct super_block * get_super(int dev)$/;"	f	typeref:struct:super_block *
+get_termio	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int get_termio(struct tty_struct * tty, struct termio * termio)$/;"	f	typeref:typename:int	file:
+get_termios	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int get_termios(struct tty_struct * tty, struct termios * termios)$/;"	f	typeref:typename:int	file:
+getblk	linux-0.11/fs/buffer.c	/^struct buffer_head * getblk(int dev,int block)$/;"	f	typeref:struct:buffer_head *
+gid	linux-0.11/include/linux/sched.h	/^	unsigned short gid,egid,sgid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+gid_t	linux-0.11/include/sys/types.h	/^typedef unsigned char gid_t;$/;"	t	typeref:typename:unsigned char
+gotoxy	linux-0.11/kernel/chr_drv/console.c	/^static inline void gotoxy(unsigned int new_x,unsigned int new_y)$/;"	f	typeref:typename:void	file:
+gs	linux-0.11/include/linux/sched.h	/^	long	gs;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+hash	linux-0.11/fs/buffer.c	/^#define hash(/;"	d	file:
+hash_table	linux-0.11/fs/buffer.c	/^struct buffer_head * hash_table[NR_HASH];$/;"	v	typeref:struct:buffer_head * []
+hd	linux-0.11/kernel/blk_drv/hd.c	/^} hd[5*MAX_HD]={{0,0},};$/;"	v	typeref:struct:hd_struct[]
+hd.o	linux-0.11/kernel/blk_drv/Makefile	/^hd.s hd.o: hd.c ..\/..\/include\/linux\/config.h ..\/..\/include\/linux\/sched.h \\$/;"	t
+hd.s	linux-0.11/kernel/blk_drv/Makefile	/^hd.s hd.o: hd.c ..\/..\/include\/linux\/config.h ..\/..\/include\/linux\/sched.h \\$/;"	t
+hd_i_struct	linux-0.11/kernel/blk_drv/hd.c	/^struct hd_i_struct {$/;"	s	file:
+hd_info	linux-0.11/kernel/blk_drv/hd.c	/^struct hd_i_struct hd_info[] = { HD_TYPE };$/;"	v	typeref:struct:hd_i_struct[]
+hd_info	linux-0.11/kernel/blk_drv/hd.c	/^struct hd_i_struct hd_info[] = { {0,0,0,0,0,0},{0,0,0,0,0,0} };$/;"	v	typeref:struct:hd_i_struct[]
+hd_init	linux-0.11/kernel/blk_drv/hd.c	/^void hd_init(void)$/;"	f	typeref:typename:void
+hd_out	linux-0.11/kernel/blk_drv/hd.c	/^static void hd_out(unsigned int drive,unsigned int nsect,unsigned int sect,$/;"	f	typeref:typename:void	file:
+hd_struct	linux-0.11/kernel/blk_drv/hd.c	/^static struct hd_struct {$/;"	s	file:
+head	linux-0.11/include/linux/hdreg.h	/^	unsigned char head;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+head	linux-0.11/include/linux/tty.h	/^	unsigned long head;$/;"	m	struct:tty_queue	typeref:typename:unsigned long
+head	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+head	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char head = 0;$/;"	v	typeref:typename:unsigned char	file:
+head	linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+i387	linux-0.11/include/linux/sched.h	/^	struct i387_struct i387;$/;"	m	struct:tss_struct	typeref:struct:i387_struct
+i387_struct	linux-0.11/include/linux/sched.h	/^struct i387_struct {$/;"	s
+i_atime	linux-0.11/include/linux/fs.h	/^	unsigned long i_atime;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_count	linux-0.11/include/linux/fs.h	/^	unsigned short i_count;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_ctime	linux-0.11/include/linux/fs.h	/^	unsigned long i_ctime;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_dev	linux-0.11/include/linux/fs.h	/^	unsigned short i_dev;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_dirt	linux-0.11/include/linux/fs.h	/^	unsigned char i_dirt;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_gid	linux-0.11/include/linux/fs.h	/^	unsigned char i_gid;$/;"	m	struct:d_inode	typeref:typename:unsigned char
+i_gid	linux-0.11/include/linux/fs.h	/^	unsigned char i_gid;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_lock	linux-0.11/include/linux/fs.h	/^	unsigned char i_lock;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_mode	linux-0.11/include/linux/fs.h	/^	unsigned short i_mode;$/;"	m	struct:d_inode	typeref:typename:unsigned short
+i_mode	linux-0.11/include/linux/fs.h	/^	unsigned short i_mode;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_mount	linux-0.11/include/linux/fs.h	/^	unsigned char i_mount;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_mtime	linux-0.11/include/linux/fs.h	/^	unsigned long i_mtime;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_nlinks	linux-0.11/include/linux/fs.h	/^	unsigned char i_nlinks;$/;"	m	struct:d_inode	typeref:typename:unsigned char
+i_nlinks	linux-0.11/include/linux/fs.h	/^	unsigned char i_nlinks;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_num	linux-0.11/include/linux/fs.h	/^	unsigned short i_num;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_pipe	linux-0.11/include/linux/fs.h	/^	unsigned char i_pipe;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_seek	linux-0.11/include/linux/fs.h	/^	unsigned char i_seek;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_size	linux-0.11/include/linux/fs.h	/^	unsigned long i_size;$/;"	m	struct:d_inode	typeref:typename:unsigned long
+i_size	linux-0.11/include/linux/fs.h	/^	unsigned long i_size;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_time	linux-0.11/include/linux/fs.h	/^	unsigned long i_time;$/;"	m	struct:d_inode	typeref:typename:unsigned long
+i_uid	linux-0.11/include/linux/fs.h	/^	unsigned short i_uid;$/;"	m	struct:d_inode	typeref:typename:unsigned short
+i_uid	linux-0.11/include/linux/fs.h	/^	unsigned short i_uid;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_update	linux-0.11/include/linux/fs.h	/^	unsigned char i_update;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_wait	linux-0.11/include/linux/fs.h	/^	struct task_struct * i_wait;$/;"	m	struct:m_inode	typeref:struct:task_struct *
+i_zone	linux-0.11/include/linux/fs.h	/^	unsigned short i_zone[9];$/;"	m	struct:d_inode	typeref:typename:unsigned short[9]
+i_zone	linux-0.11/include/linux/fs.h	/^	unsigned short i_zone[9];$/;"	m	struct:m_inode	typeref:typename:unsigned short[9]
+iget	linux-0.11/fs/inode.c	/^struct m_inode * iget(int dev,int nr)$/;"	f	typeref:struct:m_inode *
+immoutb_p	linux-0.11/kernel/blk_drv/floppy.c	/^#define immoutb_p(/;"	d	file:
+inb	linux-0.11/include/asm/io.h	/^#define inb(/;"	d
+inb_p	linux-0.11/include/asm/io.h	/^#define inb_p(/;"	d
+init	linux-0.11/init/main.c	/^void init(void)$/;"	f	typeref:typename:void
+init	linux-0.11/kernel/chr_drv/serial.c	/^static void init(int port)$/;"	f	typeref:typename:void	file:
+init/main.o	linux-0.11/Makefile	/^init\/main.o: init\/main.c include\/unistd.h include\/sys\/stat.h \\$/;"	t
+init_bucket_desc	linux-0.11/lib/malloc.c	/^static inline void init_bucket_desc()$/;"	f	typeref:typename:void	file:
+init_task	linux-0.11/kernel/sched.c	/^static union task_union init_task = {INIT_TASK,};$/;"	v	typeref:union:task_union	file:
+inline	linux-0.11/lib/string.c	/^#define inline$/;"	d	file:
+ino_t	linux-0.11/include/sys/types.h	/^typedef unsigned short ino_t;$/;"	t	typeref:typename:unsigned short
+inode	linux-0.11/include/linux/fs.h	/^	unsigned short inode;$/;"	m	struct:dir_entry	typeref:typename:unsigned short
+inode.o	linux-0.11/fs/Makefile	/^inode.o: inode.c ..\/include\/string.h ..\/include\/sys\/stat.h \\$/;"	t
+inode_table	linux-0.11/fs/inode.c	/^struct m_inode inode_table[NR_INODE]={{0,},};$/;"	v	typeref:struct:m_inode[]
+insert_char	linux-0.11/kernel/chr_drv/console.c	/^static void insert_char(void)$/;"	f	typeref:typename:void	file:
+insert_into_queues	linux-0.11/fs/buffer.c	/^static inline void insert_into_queues(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+insert_line	linux-0.11/kernel/chr_drv/console.c	/^static void insert_line(void)$/;"	f	typeref:typename:void	file:
+interruptible_sleep_on	linux-0.11/kernel/sched.c	/^void interruptible_sleep_on(struct task_struct **p)$/;"	f	typeref:typename:void
+invalidate	linux-0.11/mm/memory.c	/^#define invalidate(/;"	d	file:
+invalidate_buffers	linux-0.11/fs/buffer.c	/^void inline invalidate_buffers(int dev)$/;"	f	typeref:typename:void
+invalidate_inodes	linux-0.11/fs/inode.c	/^void invalidate_inodes(int dev)$/;"	f	typeref:typename:void
+ioctl.o	linux-0.11/fs/Makefile	/^ioctl.o: ioctl.c ..\/include\/string.h ..\/include\/errno.h \\$/;"	t
+ioctl_ptr	linux-0.11/fs/ioctl.c	/^typedef int (*ioctl_ptr)(int dev,int cmd,int arg);$/;"	t	typeref:typename:int (*)(int dev,int cmd,int arg)	file:
+ioctl_table	linux-0.11/fs/ioctl.c	/^static ioctl_ptr ioctl_table[]={$/;"	v	typeref:typename:ioctl_ptr[]	file:
+iput	linux-0.11/fs/inode.c	/^void iput(struct m_inode * inode)$/;"	f	typeref:typename:void
+iret	linux-0.11/include/asm/system.h	/^#define iret(/;"	d
+is_digit	linux-0.11/kernel/vsprintf.c	/^#define is_digit(/;"	d	file:
+isalnum	linux-0.11/include/ctype.h	/^#define isalnum(/;"	d
+isalpha	linux-0.11/include/ctype.h	/^#define isalpha(/;"	d
+isascii	linux-0.11/include/ctype.h	/^#define isascii(/;"	d
+iscntrl	linux-0.11/include/ctype.h	/^#define iscntrl(/;"	d
+isdigit	linux-0.11/include/ctype.h	/^#define isdigit(/;"	d
+isgraph	linux-0.11/include/ctype.h	/^#define isgraph(/;"	d
+islower	linux-0.11/include/ctype.h	/^#define islower(/;"	d
+isprint	linux-0.11/include/ctype.h	/^#define isprint(/;"	d
+ispunct	linux-0.11/include/ctype.h	/^#define ispunct(/;"	d
+isspace	linux-0.11/include/ctype.h	/^#define isspace(/;"	d
+isupper	linux-0.11/include/ctype.h	/^#define isupper(/;"	d
+isxdigit	linux-0.11/include/ctype.h	/^#define isxdigit(/;"	d
+jiffies	linux-0.11/kernel/sched.c	/^	long jiffies;$/;"	m	struct:timer_list	typeref:typename:long	file:
+jiffies	linux-0.11/kernel/sched.c	/^long volatile jiffies=0;$/;"	v	typeref:typename:long volatile
+kernel.o	linux-0.11/kernel/Makefile	/^kernel.o: $(OBJS)$/;"	t
+kernel/blk_drv/blk_drv.a	linux-0.11/Makefile	/^kernel\/blk_drv\/blk_drv.a: FORCE$/;"	t
+kernel/chr_drv/chr_drv.a	linux-0.11/Makefile	/^kernel\/chr_drv\/chr_drv.a: FORCE$/;"	t
+kernel/kernel.o	linux-0.11/Makefile	/^kernel\/kernel.o: FORCE$/;"	t
+kernel/math/math.a	linux-0.11/Makefile	/^kernel\/math\/math.a: FORCE$/;"	t
+kernel_mktime	linux-0.11/kernel/mktime.c	/^long kernel_mktime(struct tm * tm)$/;"	f	typeref:typename:long
+keyboard.s	linux-0.11/kernel/chr_drv/Makefile	/^keyboard.s: keyboard.S ..\/..\/include\/linux\/config.h$/;"	t
+kill_session	linux-0.11/kernel/exit.c	/^static void kill_session(void)$/;"	f	typeref:typename:void	file:
+l_len	linux-0.11/include/fcntl.h	/^	off_t l_len;$/;"	m	struct:flock	typeref:typename:off_t
+l_pid	linux-0.11/include/fcntl.h	/^	pid_t l_pid;$/;"	m	struct:flock	typeref:typename:pid_t
+l_start	linux-0.11/include/fcntl.h	/^	off_t l_start;$/;"	m	struct:flock	typeref:typename:off_t
+l_type	linux-0.11/include/fcntl.h	/^	short l_type;$/;"	m	struct:flock	typeref:typename:short
+l_whence	linux-0.11/include/fcntl.h	/^	short l_whence;$/;"	m	struct:flock	typeref:typename:short
+last_pid	linux-0.11/kernel/fork.c	/^long last_pid=0;$/;"	v	typeref:typename:long
+last_task_used_math	linux-0.11/kernel/sched.c	/^struct task_struct *last_task_used_math = NULL;$/;"	v	typeref:struct:task_struct *
+ldiv_t	linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	t	typeref:struct:__anon3b19cf1d0208
+ldt	linux-0.11/include/linux/sched.h	/^	long	ldt;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ldt	linux-0.11/include/linux/sched.h	/^	struct desc_struct ldt[3];$/;"	m	struct:task_struct	typeref:struct:desc_struct[3]
+leader	linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+lf	linux-0.11/kernel/chr_drv/console.c	/^static void lf(void)$/;"	f	typeref:typename:void	file:
+lib.a	linux-0.11/lib/Makefile	/^lib.a: $(OBJS)$/;"	t
+lib/lib.a	linux-0.11/Makefile	/^lib\/lib.a: FORCE$/;"	t
+ll_rw_blk.o	linux-0.11/kernel/blk_drv/Makefile	/^ll_rw_blk.s ll_rw_blk.o: ll_rw_blk.c ..\/..\/include\/errno.h \\$/;"	t
+ll_rw_blk.s	linux-0.11/kernel/blk_drv/Makefile	/^ll_rw_blk.s ll_rw_blk.o: ll_rw_blk.c ..\/..\/include\/errno.h \\$/;"	t
+ll_rw_block	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^void ll_rw_block(int rw, struct buffer_head * bh)$/;"	f	typeref:typename:void
+lldt	linux-0.11/include/linux/sched.h	/^#define lldt(/;"	d
+lock_buffer	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static inline void lock_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+lock_inode	linux-0.11/fs/inode.c	/^static inline void lock_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+lock_super	linux-0.11/fs/super.c	/^static void lock_super(struct super_block * sb)$/;"	f	typeref:typename:void	file:
+ltr	linux-0.11/include/linux/sched.h	/^#define ltr(/;"	d
+lzone	linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+m_inode	linux-0.11/include/linux/fs.h	/^struct m_inode {$/;"	s
+machine	linux-0.11/include/sys/utsname.h	/^	char machine[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+main	linux-0.11/init/main.c	/^void main(void)		\/* This really IS void, no error here. *\/$/;"	f	typeref:typename:void
+main	linux-0.11/tools/build.c	/^int main(int argc, char ** argv)$/;"	f	typeref:typename:int
+main_memory_start	linux-0.11/init/main.c	/^static long main_memory_start = 0;$/;"	v	typeref:typename:long	file:
+make_request	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static void make_request(int major,int rw, struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+malloc	linux-0.11/lib/malloc.c	/^void *malloc(unsigned int len)$/;"	f	typeref:typename:void *
+malloc.o	linux-0.11/lib/Makefile	/^malloc.s malloc.o : malloc.c ..\/include\/linux\/kernel.h ..\/include\/linux\/mm.h \\$/;"	t
+malloc.s	linux-0.11/lib/Makefile	/^malloc.s malloc.o : malloc.c ..\/include\/linux\/kernel.h ..\/include\/linux\/mm.h \\$/;"	t
+match	linux-0.11/fs/namei.c	/^static int match(int len,const char * name,struct dir_entry * de)$/;"	f	typeref:typename:int	file:
+math.a	linux-0.11/kernel/math/Makefile	/^math.a: $(OBJS)$/;"	t
+math_emulate	linux-0.11/kernel/math/math_emulate.c	/^void math_emulate(long edi, long esi, long ebp, long sys_call_ret,$/;"	f	typeref:typename:void
+math_error	linux-0.11/kernel/math/math_emulate.c	/^void math_error(void)$/;"	f	typeref:typename:void
+math_state_restore	linux-0.11/kernel/sched.c	/^void math_state_restore()$/;"	f	typeref:typename:void
+mem_init	linux-0.11/mm/memory.c	/^void mem_init(long start_mem, long end_mem)$/;"	f	typeref:typename:void
+mem_map	linux-0.11/mm/memory.c	/^static unsigned char mem_map [ PAGING_PAGES ] = {0,};$/;"	v	typeref:typename:unsigned char[]	file:
+memchr	linux-0.11/include/string.h	/^extern inline void * memchr(const void * cs,char c,int count)$/;"	f	typeref:typename:void *
+memcmp	linux-0.11/include/string.h	/^static inline int memcmp(const void * cs,const void * ct,int count)$/;"	f	typeref:typename:int
+memcpy	linux-0.11/include/asm/memory.h	/^#define memcpy(/;"	d
+memcpy	linux-0.11/include/string.h	/^extern inline void * memcpy(void * dest,const void * src, int n)$/;"	f	typeref:typename:void *
+memmove	linux-0.11/include/string.h	/^extern inline void * memmove(void * dest,const void * src, int n)$/;"	f	typeref:typename:void *
+memory.o	linux-0.11/mm/Makefile	/^memory.o: memory.c ..\/include\/signal.h ..\/include\/sys\/types.h \\$/;"	t
+memory_end	linux-0.11/init/main.c	/^static long memory_end = 0;$/;"	v	typeref:typename:long	file:
+memset	linux-0.11/include/string.h	/^static inline void * memset(void * s,char c,int count)$/;"	f	typeref:typename:void *
+mktime.o	linux-0.11/kernel/Makefile	/^mktime.s mktime.o: mktime.c ..\/include\/time.h$/;"	t
+mktime.s	linux-0.11/kernel/Makefile	/^mktime.s mktime.o: mktime.c ..\/include\/time.h$/;"	t
+mm.o	linux-0.11/mm/Makefile	/^mm.o: $(OBJS)$/;"	t
+mm/mm.o	linux-0.11/Makefile	/^mm\/mm.o: FORCE$/;"	t
+mode_t	linux-0.11/include/sys/types.h	/^typedef unsigned short mode_t;$/;"	t	typeref:typename:unsigned short
+modtime	linux-0.11/include/utime.h	/^	time_t modtime;$/;"	m	struct:utimbuf	typeref:typename:time_t
+moff_timer	linux-0.11/kernel/sched.c	/^static int moff_timer[4]={0,0,0,0};$/;"	v	typeref:typename:int[4]	file:
+mon_timer	linux-0.11/kernel/sched.c	/^static int  mon_timer[4]={0,0,0,0};$/;"	v	typeref:typename:int[4]	file:
+month	linux-0.11/kernel/mktime.c	/^static int month[12] = {$/;"	v	typeref:typename:int[12]	file:
+mount_root	linux-0.11/fs/super.c	/^void mount_root(void)$/;"	f	typeref:typename:void
+move_to_user_mode	linux-0.11/include/asm/system.h	/^#define move_to_user_mode(/;"	d
+n_desc	linux-0.11/include/a.out.h	/^  short n_desc;$/;"	m	struct:nlist	typeref:typename:short
+n_name	linux-0.11/include/a.out.h	/^    char *n_name;$/;"	m	union:nlist::__anon6d42f7e1010a	typeref:typename:char *
+n_next	linux-0.11/include/a.out.h	/^    struct nlist *n_next;$/;"	m	union:nlist::__anon6d42f7e1010a	typeref:struct:nlist *
+n_other	linux-0.11/include/a.out.h	/^  char n_other;$/;"	m	struct:nlist	typeref:typename:char
+n_strx	linux-0.11/include/a.out.h	/^    long n_strx;$/;"	m	union:nlist::__anon6d42f7e1010a	typeref:typename:long
+n_type	linux-0.11/include/a.out.h	/^  unsigned char n_type;$/;"	m	struct:nlist	typeref:typename:unsigned char
+n_un	linux-0.11/include/a.out.h	/^  } n_un;$/;"	m	struct:nlist	typeref:union:nlist::__anon6d42f7e1010a
+n_value	linux-0.11/include/a.out.h	/^  unsigned long n_value;$/;"	m	struct:nlist	typeref:typename:unsigned long
+name	linux-0.11/include/linux/fs.h	/^	char name[NAME_LEN];$/;"	m	struct:dir_entry	typeref:typename:char[]
+namei	linux-0.11/fs/namei.c	/^struct m_inode * namei(const char * pathname)$/;"	f	typeref:struct:m_inode *
+namei.o	linux-0.11/fs/Makefile	/^namei.o: namei.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+new_block	linux-0.11/fs/bitmap.c	/^int new_block(int dev)$/;"	f	typeref:typename:int
+new_inode	linux-0.11/fs/bitmap.c	/^struct m_inode * new_inode(int dev)$/;"	f	typeref:struct:m_inode *
+next	linux-0.11/kernel/blk_drv/blk.h	/^	struct request * next;$/;"	m	struct:request	typeref:struct:request *
+next	linux-0.11/kernel/sched.c	/^	struct timer_list * next;$/;"	m	struct:timer_list	typeref:struct:timer_list *	file:
+next	linux-0.11/lib/malloc.c	/^	struct bucket_desc	*next;$/;"	m	struct:bucket_desc	typeref:struct:bucket_desc *	file:
+next_timer	linux-0.11/kernel/sched.c	/^} timer_list[TIME_REQUESTS], * next_timer = NULL;$/;"	v	typeref:struct:timer_list[]*
+nlink_t	linux-0.11/include/sys/types.h	/^typedef unsigned char nlink_t;$/;"	t	typeref:typename:unsigned char
+nlist	linux-0.11/include/a.out.h	/^struct nlist {$/;"	s
+nodename	linux-0.11/include/sys/utsname.h	/^	char nodename[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+nop	linux-0.11/include/asm/system.h	/^#define nop(/;"	d
+npar	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	npar,par[NPAR];$/;"	v	typeref:typename:unsigned long	file:
+nr_sectors	linux-0.11/kernel/blk_drv/blk.h	/^	unsigned long nr_sectors;$/;"	m	struct:request	typeref:typename:unsigned long
+nr_sects	linux-0.11/include/linux/hdreg.h	/^	unsigned int nr_sects;		\/* nr of sectors in partition *\/$/;"	m	struct:partition	typeref:typename:unsigned int
+nr_sects	linux-0.11/kernel/blk_drv/hd.c	/^	long nr_sects;$/;"	m	struct:hd_struct	typeref:typename:long	file:
+number	linux-0.11/kernel/vsprintf.c	/^static char * number(char * str, int num, int base, int size, int precision$/;"	f	typeref:typename:char *	file:
+off_t	linux-0.11/include/sys/types.h	/^typedef long off_t;$/;"	t	typeref:typename:long
+offsetof	linux-0.11/include/stddef.h	/^#define offsetof(/;"	d
+oom	linux-0.11/mm/memory.c	/^static inline volatile void oom(void)$/;"	f	typeref:typename:volatile void	file:
+open	linux-0.11/lib/open.c	/^int open(const char * filename, int flag, ...)$/;"	f	typeref:typename:int
+open.o	linux-0.11/fs/Makefile	/^open.o: open.c ..\/include\/string.h ..\/include\/errno.h ..\/include\/fcntl.h \\$/;"	t
+open.o	linux-0.11/lib/Makefile	/^open.s open.o : open.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+open.s	linux-0.11/lib/Makefile	/^open.s open.o : open.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+open_namei	linux-0.11/fs/namei.c	/^int open_namei(const char * pathname, int flag, int mode,$/;"	f	typeref:typename:int
+origin	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	origin;		\/* Used for EGA\/VGA fast scroll	*\/$/;"	v	typeref:typename:unsigned long	file:
+outb	linux-0.11/include/asm/io.h	/^#define outb(/;"	d
+outb_p	linux-0.11/include/asm/io.h	/^#define outb_p(/;"	d
+output_byte	linux-0.11/kernel/blk_drv/floppy.c	/^static void output_byte(char byte)$/;"	f	typeref:typename:void	file:
+page	linux-0.11/lib/malloc.c	/^	void			*page;$/;"	m	struct:bucket_desc	typeref:typename:void *	file:
+panic	linux-0.11/kernel/panic.c	/^volatile void panic(const char * s)$/;"	f	typeref:typename:volatile void
+panic.o	linux-0.11/kernel/Makefile	/^panic.s panic.o: panic.c ..\/include\/linux\/kernel.h ..\/include\/linux\/sched.h \\$/;"	t
+panic.s	linux-0.11/kernel/Makefile	/^panic.s panic.o: panic.c ..\/include\/linux\/kernel.h ..\/include\/linux\/sched.h \\$/;"	t
+par	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	npar,par[NPAR];$/;"	v	typeref:typename:unsigned long[]	file:
+partition	linux-0.11/include/linux/hdreg.h	/^struct partition {$/;"	s
+permission	linux-0.11/fs/namei.c	/^static int permission(struct m_inode * inode,int mask)$/;"	f	typeref:typename:int	file:
+pgrp	linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+pgrp	linux-0.11/include/linux/tty.h	/^	int pgrp;$/;"	m	struct:tty_struct	typeref:typename:int
+pid	linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+pid_t	linux-0.11/include/sys/types.h	/^typedef int pid_t;$/;"	t	typeref:typename:int
+pipe.o	linux-0.11/fs/Makefile	/^pipe.o: pipe.c ..\/include\/signal.h ..\/include\/sys\/types.h \\$/;"	t
+port_read	linux-0.11/kernel/blk_drv/hd.c	/^#define port_read(/;"	d	file:
+port_write	linux-0.11/kernel/blk_drv/hd.c	/^#define port_write(/;"	d	file:
+pos	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	pos;$/;"	v	typeref:typename:unsigned long	file:
+printf	linux-0.11/init/main.c	/^static int printf(const char *fmt, ...)$/;"	f	typeref:typename:int	file:
+printk	linux-0.11/kernel/printk.c	/^int printk(const char *fmt, ...)$/;"	f	typeref:typename:int
+printk.o	linux-0.11/kernel/Makefile	/^printk.s printk.o: printk.c ..\/include\/stdarg.h ..\/include\/stddef.h \\$/;"	t
+printk.s	linux-0.11/kernel/Makefile	/^printk.s printk.o: printk.c ..\/include\/stdarg.h ..\/include\/stddef.h \\$/;"	t
+priority	linux-0.11/include/linux/sched.h	/^	long priority;$/;"	m	struct:task_struct	typeref:typename:long
+proc_list	linux-0.11/include/linux/tty.h	/^	struct task_struct * proc_list;$/;"	m	struct:tty_queue	typeref:struct:task_struct *
+ptrdiff_t	linux-0.11/include/stddef.h	/^typedef long ptrdiff_t;$/;"	t	typeref:typename:long
+ptrdiff_t	linux-0.11/include/sys/types.h	/^typedef long ptrdiff_t;$/;"	t	typeref:typename:long
+put_fs_byte	linux-0.11/include/asm/segment.h	/^static inline void put_fs_byte(char val,char *addr)$/;"	f	typeref:typename:void
+put_fs_long	linux-0.11/include/asm/segment.h	/^static inline void put_fs_long(unsigned long val,unsigned long * addr)$/;"	f	typeref:typename:void
+put_fs_word	linux-0.11/include/asm/segment.h	/^static inline void put_fs_word(short val,short * addr)$/;"	f	typeref:typename:void
+put_page	linux-0.11/mm/memory.c	/^unsigned long put_page(unsigned long page,unsigned long address)$/;"	f	typeref:typename:unsigned long
+put_super	linux-0.11/fs/super.c	/^void put_super(int dev)$/;"	f	typeref:typename:void
+pwd	linux-0.11/include/linux/sched.h	/^	struct m_inode * pwd;$/;"	m	struct:task_struct	typeref:struct:m_inode *
+ques	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	ques=0;$/;"	v	typeref:typename:unsigned long	file:
+quot	linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	m	struct:__anon3b19cf1d0108	typeref:typename:int
+quot	linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	m	struct:__anon3b19cf1d0208	typeref:typename:long
+quotient	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static unsigned short quotient[] = {$/;"	v	typeref:typename:unsigned short[]	file:
+r_address	linux-0.11/include/a.out.h	/^  int r_address;$/;"	m	struct:relocation_info	typeref:typename:int
+r_extern	linux-0.11/include/a.out.h	/^  unsigned int r_extern:1;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:1
+r_length	linux-0.11/include/a.out.h	/^  unsigned int r_length:2;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:2
+r_pad	linux-0.11/include/a.out.h	/^  unsigned int r_pad:4;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:4
+r_pcrel	linux-0.11/include/a.out.h	/^  unsigned int r_pcrel:1;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:1
+r_symbolnum	linux-0.11/include/a.out.h	/^  unsigned int r_symbolnum:24;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:24
+ramdisk.o	linux-0.11/kernel/blk_drv/Makefile	/^ramdisk.s ramdisk.o: ramdisk.c ..\/..\/include\/string.h ..\/..\/include\/linux\/config.h \\$/;"	t
+ramdisk.s	linux-0.11/kernel/blk_drv/Makefile	/^ramdisk.s ramdisk.o: ramdisk.c ..\/..\/include\/string.h ..\/..\/include\/linux\/config.h \\$/;"	t
+rate	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned char gap,rate,spec1;$/;"	m	struct:floppy_struct	typeref:typename:unsigned char	file:
+rd_init	linux-0.11/kernel/blk_drv/ramdisk.c	/^long rd_init(long mem_start, int length)$/;"	f	typeref:typename:long
+rd_length	linux-0.11/kernel/blk_drv/ramdisk.c	/^int	rd_length = 0;$/;"	v	typeref:typename:int
+rd_load	linux-0.11/kernel/blk_drv/ramdisk.c	/^void rd_load(void)$/;"	f	typeref:typename:void
+rd_start	linux-0.11/kernel/blk_drv/ramdisk.c	/^char	*rd_start;$/;"	v	typeref:typename:char *
+read_inode	linux-0.11/fs/inode.c	/^static void read_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+read_intr	linux-0.11/kernel/blk_drv/hd.c	/^static void read_intr(void)$/;"	f	typeref:typename:void	file:
+read_pipe	linux-0.11/fs/pipe.c	/^int read_pipe(struct m_inode * inode, char * buf, int count)$/;"	f	typeref:typename:int
+read_q	linux-0.11/include/linux/tty.h	/^	struct tty_queue read_q;$/;"	m	struct:tty_struct	typeref:struct:tty_queue
+read_super	linux-0.11/fs/super.c	/^static struct super_block * read_super(int dev)$/;"	f	typeref:struct:super_block *	file:
+read_write.o	linux-0.11/fs/Makefile	/^read_write.o: read_write.c ..\/include\/sys\/stat.h ..\/include\/sys\/types.h \\$/;"	t
+recal_interrupt	linux-0.11/kernel/blk_drv/floppy.c	/^static void recal_interrupt(void)$/;"	f	typeref:typename:void	file:
+recal_intr	linux-0.11/kernel/blk_drv/hd.c	/^static void recal_intr(void)$/;"	f	typeref:typename:void	file:
+recalibrate	linux-0.11/kernel/blk_drv/floppy.c	/^static int recalibrate = 0;$/;"	v	typeref:typename:int	file:
+recalibrate	linux-0.11/kernel/blk_drv/hd.c	/^static int recalibrate = 1;$/;"	v	typeref:typename:int	file:
+recalibrate_floppy	linux-0.11/kernel/blk_drv/floppy.c	/^static void recalibrate_floppy(void)$/;"	f	typeref:typename:void	file:
+refcnt	linux-0.11/lib/malloc.c	/^	unsigned short		refcnt;$/;"	m	struct:bucket_desc	typeref:typename:unsigned short	file:
+release	linux-0.11/include/sys/utsname.h	/^	char release[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+release	linux-0.11/kernel/exit.c	/^void release(struct task_struct * p)$/;"	f	typeref:typename:void
+relocation_info	linux-0.11/include/a.out.h	/^struct relocation_info$/;"	s
+rem	linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	m	struct:__anon3b19cf1d0108	typeref:typename:int
+rem	linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	m	struct:__anon3b19cf1d0208	typeref:typename:long
+remove_from_queues	linux-0.11/fs/buffer.c	/^static inline void remove_from_queues(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+reply_buffer	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char reply_buffer[MAX_REPLIES];$/;"	v	typeref:typename:unsigned char[]	file:
+request	linux-0.11/kernel/blk_drv/blk.h	/^struct request {$/;"	s
+request	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^struct request request[NR_REQUEST];$/;"	v	typeref:struct:request[]
+request_fn	linux-0.11/kernel/blk_drv/blk.h	/^	void (*request_fn)(void);$/;"	m	struct:blk_dev_struct	typeref:typename:void (*)(void)
+reset	linux-0.11/kernel/blk_drv/floppy.c	/^static int reset = 0;$/;"	v	typeref:typename:int	file:
+reset	linux-0.11/kernel/blk_drv/hd.c	/^static int reset = 1;$/;"	v	typeref:typename:int	file:
+reset_controller	linux-0.11/kernel/blk_drv/hd.c	/^static void reset_controller(void)$/;"	f	typeref:typename:void	file:
+reset_floppy	linux-0.11/kernel/blk_drv/floppy.c	/^static void reset_floppy(void)$/;"	f	typeref:typename:void	file:
+reset_hd	linux-0.11/kernel/blk_drv/hd.c	/^static void reset_hd(int nr)$/;"	f	typeref:typename:void	file:
+reset_interrupt	linux-0.11/kernel/blk_drv/floppy.c	/^static void reset_interrupt(void)$/;"	f	typeref:typename:void	file:
+respond	linux-0.11/kernel/chr_drv/console.c	/^static void respond(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+restore_cur	linux-0.11/kernel/chr_drv/console.c	/^static void restore_cur(void)$/;"	f	typeref:typename:void	file:
+result	linux-0.11/kernel/blk_drv/floppy.c	/^static int result(void)$/;"	f	typeref:typename:int	file:
+ri	linux-0.11/kernel/chr_drv/console.c	/^static void ri(void)$/;"	f	typeref:typename:void	file:
+root	linux-0.11/include/linux/sched.h	/^	struct m_inode * root;$/;"	m	struct:task_struct	typeref:struct:m_inode *
+rs_init	linux-0.11/kernel/chr_drv/serial.c	/^void rs_init(void)$/;"	f	typeref:typename:void
+rs_write	linux-0.11/kernel/chr_drv/serial.c	/^void rs_write(struct tty_struct * tty)$/;"	f	typeref:typename:void
+rw_char	linux-0.11/fs/char_dev.c	/^int rw_char(int rw,int dev, char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int
+rw_interrupt	linux-0.11/kernel/blk_drv/floppy.c	/^static void rw_interrupt(void)$/;"	f	typeref:typename:void	file:
+rw_kmem	linux-0.11/fs/char_dev.c	/^static int rw_kmem(int rw,char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_mem	linux-0.11/fs/char_dev.c	/^static int rw_mem(int rw,char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_memory	linux-0.11/fs/char_dev.c	/^static int rw_memory(int rw, unsigned minor, char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_port	linux-0.11/fs/char_dev.c	/^static int rw_port(int rw,char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_ram	linux-0.11/fs/char_dev.c	/^static int rw_ram(int rw,char * buf, int count, off_t *pos)$/;"	f	typeref:typename:int	file:
+rw_tty	linux-0.11/fs/char_dev.c	/^static int rw_tty(int rw,unsigned minor,char * buf,int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_ttyx	linux-0.11/fs/char_dev.c	/^static int rw_ttyx(int rw,unsigned minor,char * buf,int count,off_t * pos)$/;"	f	typeref:typename:int	file:
+s_dev	linux-0.11/include/linux/fs.h	/^	unsigned short s_dev;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_dirt	linux-0.11/include/linux/fs.h	/^	unsigned char s_dirt;$/;"	m	struct:super_block	typeref:typename:unsigned char
+s_firstdatazone	linux-0.11/include/linux/fs.h	/^	unsigned short s_firstdatazone;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_firstdatazone	linux-0.11/include/linux/fs.h	/^	unsigned short s_firstdatazone;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_imap	linux-0.11/include/linux/fs.h	/^	struct buffer_head * s_imap[8];$/;"	m	struct:super_block	typeref:struct:buffer_head * [8]
+s_imap_blocks	linux-0.11/include/linux/fs.h	/^	unsigned short s_imap_blocks;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_imap_blocks	linux-0.11/include/linux/fs.h	/^	unsigned short s_imap_blocks;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_imount	linux-0.11/include/linux/fs.h	/^	struct m_inode * s_imount;$/;"	m	struct:super_block	typeref:struct:m_inode *
+s_isup	linux-0.11/include/linux/fs.h	/^	struct m_inode * s_isup;$/;"	m	struct:super_block	typeref:struct:m_inode *
+s_lock	linux-0.11/include/linux/fs.h	/^	unsigned char s_lock;$/;"	m	struct:super_block	typeref:typename:unsigned char
+s_log_zone_size	linux-0.11/include/linux/fs.h	/^	unsigned short s_log_zone_size;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_log_zone_size	linux-0.11/include/linux/fs.h	/^	unsigned short s_log_zone_size;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_magic	linux-0.11/include/linux/fs.h	/^	unsigned short s_magic;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_magic	linux-0.11/include/linux/fs.h	/^	unsigned short s_magic;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_max_size	linux-0.11/include/linux/fs.h	/^	unsigned long s_max_size;$/;"	m	struct:d_super_block	typeref:typename:unsigned long
+s_max_size	linux-0.11/include/linux/fs.h	/^	unsigned long s_max_size;$/;"	m	struct:super_block	typeref:typename:unsigned long
+s_ninodes	linux-0.11/include/linux/fs.h	/^	unsigned short s_ninodes;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_ninodes	linux-0.11/include/linux/fs.h	/^	unsigned short s_ninodes;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_nzones	linux-0.11/include/linux/fs.h	/^	unsigned short s_nzones;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_nzones	linux-0.11/include/linux/fs.h	/^	unsigned short s_nzones;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_rd_only	linux-0.11/include/linux/fs.h	/^	unsigned char s_rd_only;$/;"	m	struct:super_block	typeref:typename:unsigned char
+s_time	linux-0.11/include/linux/fs.h	/^	unsigned long s_time;$/;"	m	struct:super_block	typeref:typename:unsigned long
+s_wait	linux-0.11/include/linux/fs.h	/^	struct task_struct * s_wait;$/;"	m	struct:super_block	typeref:struct:task_struct *
+s_zmap	linux-0.11/include/linux/fs.h	/^	struct buffer_head * s_zmap[8];$/;"	m	struct:super_block	typeref:struct:buffer_head * [8]
+s_zmap_blocks	linux-0.11/include/linux/fs.h	/^	unsigned short s_zmap_blocks;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_zmap_blocks	linux-0.11/include/linux/fs.h	/^	unsigned short s_zmap_blocks;$/;"	m	struct:super_block	typeref:typename:unsigned short
+sa_flags	linux-0.11/include/signal.h	/^	int sa_flags;$/;"	m	struct:sigaction	typeref:typename:int
+sa_handler	linux-0.11/include/signal.h	/^	void (*sa_handler)(int);$/;"	m	struct:sigaction	typeref:typename:void (*)(int)
+sa_mask	linux-0.11/include/signal.h	/^	sigset_t sa_mask;$/;"	m	struct:sigaction	typeref:typename:sigset_t
+sa_restorer	linux-0.11/include/signal.h	/^	void (*sa_restorer)(void);$/;"	m	struct:sigaction	typeref:typename:void (*)(void)
+save_cur	linux-0.11/kernel/chr_drv/console.c	/^static void save_cur(void)$/;"	f	typeref:typename:void	file:
+save_old	linux-0.11/kernel/signal.c	/^static inline void save_old(char * from,char * to)$/;"	f	typeref:typename:void	file:
+saved_x	linux-0.11/kernel/chr_drv/console.c	/^static int saved_x=0;$/;"	v	typeref:typename:int	file:
+saved_y	linux-0.11/kernel/chr_drv/console.c	/^static int saved_y=0;$/;"	v	typeref:typename:int	file:
+sched.o	linux-0.11/kernel/Makefile	/^sched.s sched.o: sched.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+sched.s	linux-0.11/kernel/Makefile	/^sched.s sched.o: sched.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+sched_init	linux-0.11/kernel/sched.c	/^void sched_init(void)$/;"	f	typeref:typename:void
+schedule	linux-0.11/kernel/sched.c	/^void schedule(void)$/;"	f	typeref:typename:void
+scr_end	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	scr_end;	\/* Used for EGA\/VGA fast scroll	*\/$/;"	v	typeref:typename:unsigned long	file:
+scrdown	linux-0.11/kernel/chr_drv/console.c	/^static void scrdown(void)$/;"	f	typeref:typename:void	file:
+scrup	linux-0.11/kernel/chr_drv/console.c	/^static void scrup(void)$/;"	f	typeref:typename:void	file:
+secondary	linux-0.11/include/linux/tty.h	/^	struct tty_queue secondary;$/;"	m	struct:tty_struct	typeref:struct:tty_queue
+sect	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+sect	linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+sector	linux-0.11/include/linux/hdreg.h	/^	unsigned char sector;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+sector	linux-0.11/kernel/blk_drv/blk.h	/^	unsigned long sector;$/;"	m	struct:request	typeref:typename:unsigned long
+sector	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char sector = 0;$/;"	v	typeref:typename:unsigned char	file:
+seek	linux-0.11/kernel/blk_drv/floppy.c	/^static int seek = 0;$/;"	v	typeref:typename:int	file:
+seek_interrupt	linux-0.11/kernel/blk_drv/floppy.c	/^static void seek_interrupt(void)$/;"	f	typeref:typename:void	file:
+seek_track	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char seek_track = 0;$/;"	v	typeref:typename:unsigned char	file:
+selected	linux-0.11/kernel/blk_drv/floppy.c	/^unsigned char selected = 0;$/;"	v	typeref:typename:unsigned char
+send_break	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void send_break(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+send_sig	linux-0.11/kernel/exit.c	/^static inline int send_sig(long sig,struct task_struct * p,int priv)$/;"	f	typeref:typename:int	file:
+serial.o	linux-0.11/kernel/chr_drv/Makefile	/^serial.s serial.o: serial.c ..\/..\/include\/linux\/tty.h ..\/..\/include\/termios.h \\$/;"	t
+serial.s	linux-0.11/kernel/chr_drv/Makefile	/^serial.s serial.o: serial.c ..\/..\/include\/linux\/tty.h ..\/..\/include\/termios.h \\$/;"	t
+session	linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+set_base	linux-0.11/include/linux/sched.h	/^#define set_base(/;"	d
+set_bit	linux-0.11/fs/bitmap.c	/^#define set_bit(/;"	d	file:
+set_bit	linux-0.11/fs/super.c	/^#define set_bit(/;"	d	file:
+set_cursor	linux-0.11/kernel/chr_drv/console.c	/^static inline void set_cursor(void)$/;"	f	typeref:typename:void	file:
+set_fs	linux-0.11/include/asm/segment.h	/^static inline void set_fs(unsigned long val)$/;"	f	typeref:typename:void
+set_intr_gate	linux-0.11/include/asm/system.h	/^#define set_intr_gate(/;"	d
+set_ldt_desc	linux-0.11/include/asm/system.h	/^#define set_ldt_desc(/;"	d
+set_limit	linux-0.11/include/linux/sched.h	/^#define set_limit(/;"	d
+set_origin	linux-0.11/kernel/chr_drv/console.c	/^static inline void set_origin(void)$/;"	f	typeref:typename:void	file:
+set_system_gate	linux-0.11/include/asm/system.h	/^#define set_system_gate(/;"	d
+set_termio	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int set_termio(struct tty_struct * tty, struct termio * termio)$/;"	f	typeref:typename:int	file:
+set_termios	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int set_termios(struct tty_struct * tty, struct termios * termios)$/;"	f	typeref:typename:int	file:
+set_trap_gate	linux-0.11/include/asm/system.h	/^#define set_trap_gate(/;"	d
+set_tss_desc	linux-0.11/include/asm/system.h	/^#define set_tss_desc(/;"	d
+setsid.o	linux-0.11/lib/Makefile	/^setsid.s setsid.o : setsid.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+setsid.s	linux-0.11/lib/Makefile	/^setsid.s setsid.o : setsid.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+setup_DMA	linux-0.11/kernel/blk_drv/floppy.c	/^static void setup_DMA(void)$/;"	f	typeref:typename:void	file:
+setup_rw_floppy	linux-0.11/kernel/blk_drv/floppy.c	/^inline void setup_rw_floppy(void)$/;"	f	typeref:typename:void
+sgid	linux-0.11/include/linux/sched.h	/^	unsigned short gid,egid,sgid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+share_page	linux-0.11/mm/memory.c	/^static int share_page(unsigned long address)$/;"	f	typeref:typename:int	file:
+show_stat	linux-0.11/kernel/sched.c	/^void show_stat(void)$/;"	f	typeref:typename:void
+show_task	linux-0.11/kernel/sched.c	/^void show_task(int nr,struct task_struct * p)$/;"	f	typeref:typename:void
+sig_atomic_t	linux-0.11/include/signal.h	/^typedef int sig_atomic_t;$/;"	t	typeref:typename:int
+sigaction	linux-0.11/include/linux/sched.h	/^	struct sigaction sigaction[32];$/;"	m	struct:task_struct	typeref:struct:sigaction[32]
+sigaction	linux-0.11/include/signal.h	/^struct sigaction {$/;"	s
+signal	linux-0.11/include/linux/sched.h	/^	long signal;$/;"	m	struct:task_struct	typeref:typename:long
+signal.o	linux-0.11/kernel/Makefile	/^signal.s signal.o: signal.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+signal.s	linux-0.11/kernel/Makefile	/^signal.s signal.o: signal.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+sigset_t	linux-0.11/include/signal.h	/^typedef unsigned int sigset_t;		\/* 32 bits *\/$/;"	t	typeref:typename:unsigned int
+size	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+size	linux-0.11/lib/malloc.c	/^	int			size;$/;"	m	struct:_bucket_dir	typeref:typename:int	file:
+size_t	linux-0.11/include/stddef.h	/^typedef unsigned long size_t;$/;"	t	typeref:typename:unsigned long
+size_t	linux-0.11/include/string.h	/^typedef unsigned int size_t;$/;"	t	typeref:typename:unsigned int
+size_t	linux-0.11/include/sys/types.h	/^typedef unsigned int size_t;$/;"	t	typeref:typename:unsigned int
+size_t	linux-0.11/include/time.h	/^typedef unsigned int size_t;$/;"	t	typeref:typename:unsigned int
+skip_atoi	linux-0.11/kernel/vsprintf.c	/^static int skip_atoi(const char **s)$/;"	f	typeref:typename:int	file:
+sleep_if_empty	linux-0.11/kernel/chr_drv/tty_io.c	/^static void sleep_if_empty(struct tty_queue * queue)$/;"	f	typeref:typename:void	file:
+sleep_if_full	linux-0.11/kernel/chr_drv/tty_io.c	/^static void sleep_if_full(struct tty_queue * queue)$/;"	f	typeref:typename:void	file:
+sleep_on	linux-0.11/kernel/sched.c	/^void sleep_on(struct task_struct **p)$/;"	f	typeref:typename:void
+spec1	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned char gap,rate,spec1;$/;"	m	struct:floppy_struct	typeref:typename:unsigned char	file:
+speed_t	linux-0.11/include/termios.h	/^typedef int speed_t;$/;"	t	typeref:typename:int
+ss	linux-0.11/include/linux/sched.h	/^	long	ss;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ss0	linux-0.11/include/linux/sched.h	/^	long	ss0;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ss1	linux-0.11/include/linux/sched.h	/^	long	ss1;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ss2	linux-0.11/include/linux/sched.h	/^	long	ss2;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+st_atime	linux-0.11/include/sys/stat.h	/^	time_t	st_atime;$/;"	m	struct:stat	typeref:typename:time_t
+st_ctime	linux-0.11/include/sys/stat.h	/^	time_t	st_ctime;$/;"	m	struct:stat	typeref:typename:time_t
+st_dev	linux-0.11/include/sys/stat.h	/^	dev_t	st_dev;$/;"	m	struct:stat	typeref:typename:dev_t
+st_gid	linux-0.11/include/sys/stat.h	/^	gid_t	st_gid;$/;"	m	struct:stat	typeref:typename:gid_t
+st_ino	linux-0.11/include/sys/stat.h	/^	ino_t	st_ino;$/;"	m	struct:stat	typeref:typename:ino_t
+st_mode	linux-0.11/include/sys/stat.h	/^	umode_t	st_mode;$/;"	m	struct:stat	typeref:typename:umode_t
+st_mtime	linux-0.11/include/sys/stat.h	/^	time_t	st_mtime;$/;"	m	struct:stat	typeref:typename:time_t
+st_nlink	linux-0.11/include/sys/stat.h	/^	nlink_t	st_nlink;$/;"	m	struct:stat	typeref:typename:nlink_t
+st_rdev	linux-0.11/include/sys/stat.h	/^	dev_t	st_rdev;$/;"	m	struct:stat	typeref:typename:dev_t
+st_size	linux-0.11/include/sys/stat.h	/^	off_t	st_size;$/;"	m	struct:stat	typeref:typename:off_t
+st_space	linux-0.11/include/linux/sched.h	/^	long	st_space[20];	\/* 8*10 bytes for each FP-reg = 80 bytes *\/$/;"	m	struct:i387_struct	typeref:typename:long[20]
+st_uid	linux-0.11/include/sys/stat.h	/^	uid_t	st_uid;$/;"	m	struct:stat	typeref:typename:uid_t
+stack	linux-0.11/kernel/sched.c	/^	char stack[PAGE_SIZE];$/;"	m	union:task_union	typeref:typename:char[]	file:
+stack_start	linux-0.11/kernel/sched.c	/^	} stack_start = { & user_stack [PAGE_SIZE>>2] , 0x10 };$/;"	v	typeref:struct:__anonb84830990108
+start_buffer	linux-0.11/fs/buffer.c	/^struct buffer_head * start_buffer = (struct buffer_head *) &end;$/;"	v	typeref:struct:buffer_head *
+start_code	linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+start_sect	linux-0.11/include/linux/hdreg.h	/^	unsigned int start_sect;	\/* starting sector counting from 0 *\/$/;"	m	struct:partition	typeref:typename:unsigned int
+start_sect	linux-0.11/kernel/blk_drv/hd.c	/^	long start_sect;$/;"	m	struct:hd_struct	typeref:typename:long	file:
+start_stack	linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+start_time	linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+startup_time	linux-0.11/kernel/sched.c	/^long startup_time=0;$/;"	v	typeref:typename:long
+stat	linux-0.11/include/sys/stat.h	/^struct stat {$/;"	s
+stat.o	linux-0.11/fs/Makefile	/^stat.o: stat.c ..\/include\/errno.h ..\/include\/sys\/stat.h \\$/;"	t
+state	linux-0.11/include/linux/sched.h	/^	long state;	\/* -1 unrunnable, 0 runnable, >0 stopped *\/$/;"	m	struct:task_struct	typeref:typename:long
+state	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	state=0;$/;"	v	typeref:typename:unsigned long	file:
+sti	linux-0.11/include/asm/system.h	/^#define sti(/;"	d
+stime	linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+stopped	linux-0.11/include/linux/tty.h	/^	int stopped;$/;"	m	struct:tty_struct	typeref:typename:int
+str	linux-0.11/include/linux/sched.h	/^#define str(/;"	d
+strcat	linux-0.11/include/string.h	/^extern inline char * strcat(char * dest,const char * src)$/;"	f	typeref:typename:char *
+strchr	linux-0.11/include/string.h	/^static inline char * strchr(const char * s,char c)$/;"	f	typeref:typename:char *
+strcmp	linux-0.11/include/string.h	/^extern inline int strcmp(const char * cs,const char * ct)$/;"	f	typeref:typename:int
+strcpy	linux-0.11/include/string.h	/^extern inline char * strcpy(char * dest,const char *src)$/;"	f	typeref:typename:char *
+strcspn	linux-0.11/include/string.h	/^extern inline int strcspn(const char * cs, const char * ct)$/;"	f	typeref:typename:int
+stretch	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+string.o	linux-0.11/lib/Makefile	/^string.s string.o : string.c ..\/include\/string.h $/;"	t
+string.s	linux-0.11/lib/Makefile	/^string.s string.o : string.c ..\/include\/string.h $/;"	t
+strlen	linux-0.11/include/string.h	/^extern inline int strlen(const char * s)$/;"	f	typeref:typename:int
+strncat	linux-0.11/include/string.h	/^static inline char * strncat(char * dest,const char * src,int count)$/;"	f	typeref:typename:char *
+strncmp	linux-0.11/include/string.h	/^static inline int strncmp(const char * cs,const char * ct,int count)$/;"	f	typeref:typename:int
+strncpy	linux-0.11/include/string.h	/^static inline char * strncpy(char * dest,const char *src,int count)$/;"	f	typeref:typename:char *
+strpbrk	linux-0.11/include/string.h	/^extern inline char * strpbrk(const char * cs,const char * ct)$/;"	f	typeref:typename:char *
+strrchr	linux-0.11/include/string.h	/^static inline char * strrchr(const char * s,char c)$/;"	f	typeref:typename:char *
+strspn	linux-0.11/include/string.h	/^extern inline int strspn(const char * cs, const char * ct)$/;"	f	typeref:typename:int
+strstr	linux-0.11/include/string.h	/^extern inline char * strstr(const char * cs,const char * ct)$/;"	f	typeref:typename:char *
+strtok	linux-0.11/include/string.h	/^extern inline char * strtok(char * s,const char * ct)$/;"	f	typeref:typename:char *
+suid	linux-0.11/include/linux/sched.h	/^	unsigned short uid,euid,suid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+super.o	linux-0.11/fs/Makefile	/^super.o: super.c ..\/include\/linux\/config.h ..\/include\/linux\/sched.h \\$/;"	t
+super_block	linux-0.11/fs/super.c	/^struct super_block super_block[NR_SUPER];$/;"	v	typeref:struct:super_block[]
+super_block	linux-0.11/include/linux/fs.h	/^struct super_block {$/;"	s
+suser	linux-0.11/include/linux/kernel.h	/^#define suser(/;"	d
+swd	linux-0.11/include/linux/sched.h	/^	long	swd;$/;"	m	struct:i387_struct	typeref:typename:long
+switch_to	linux-0.11/include/linux/sched.h	/^#define switch_to(/;"	d
+sync_dev	linux-0.11/fs/buffer.c	/^int sync_dev(int dev)$/;"	f	typeref:typename:int
+sync_inodes	linux-0.11/fs/inode.c	/^void sync_inodes(void)$/;"	f	typeref:typename:void
+sys.o	linux-0.11/kernel/Makefile	/^sys.s sys.o: sys.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+sys.s	linux-0.11/kernel/Makefile	/^sys.s sys.o: sys.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+sys_access	linux-0.11/fs/open.c	/^int sys_access(const char * filename,int mode)$/;"	f	typeref:typename:int
+sys_acct	linux-0.11/kernel/sys.c	/^int sys_acct()$/;"	f	typeref:typename:int
+sys_alarm	linux-0.11/kernel/sched.c	/^int sys_alarm(long seconds)$/;"	f	typeref:typename:int
+sys_break	linux-0.11/kernel/sys.c	/^int sys_break()$/;"	f	typeref:typename:int
+sys_brk	linux-0.11/kernel/sys.c	/^int sys_brk(unsigned long end_data_seg)$/;"	f	typeref:typename:int
+sys_call_table	linux-0.11/include/linux/sys.h	/^fn_ptr sys_call_table[] = { sys_setup, sys_exit, sys_fork, sys_read,$/;"	v	typeref:typename:fn_ptr[]
+sys_chdir	linux-0.11/fs/open.c	/^int sys_chdir(const char * filename)$/;"	f	typeref:typename:int
+sys_chmod	linux-0.11/fs/open.c	/^int sys_chmod(const char * filename,int mode)$/;"	f	typeref:typename:int
+sys_chown	linux-0.11/fs/open.c	/^int sys_chown(const char * filename,int uid,int gid)$/;"	f	typeref:typename:int
+sys_chroot	linux-0.11/fs/open.c	/^int sys_chroot(const char * filename)$/;"	f	typeref:typename:int
+sys_close	linux-0.11/fs/open.c	/^int sys_close(unsigned int fd)$/;"	f	typeref:typename:int
+sys_creat	linux-0.11/fs/open.c	/^int sys_creat(const char * pathname, int mode)$/;"	f	typeref:typename:int
+sys_dup	linux-0.11/fs/fcntl.c	/^int sys_dup(unsigned int fildes)$/;"	f	typeref:typename:int
+sys_dup2	linux-0.11/fs/fcntl.c	/^int sys_dup2(unsigned int oldfd, unsigned int newfd)$/;"	f	typeref:typename:int
+sys_exit	linux-0.11/kernel/exit.c	/^int sys_exit(int error_code)$/;"	f	typeref:typename:int
+sys_fcntl	linux-0.11/fs/fcntl.c	/^int sys_fcntl(unsigned int fd, unsigned int cmd, unsigned long arg)$/;"	f	typeref:typename:int
+sys_fstat	linux-0.11/fs/stat.c	/^int sys_fstat(unsigned int fd, struct stat * statbuf)$/;"	f	typeref:typename:int
+sys_ftime	linux-0.11/kernel/sys.c	/^int sys_ftime()$/;"	f	typeref:typename:int
+sys_getegid	linux-0.11/kernel/sched.c	/^int sys_getegid(void)$/;"	f	typeref:typename:int
+sys_geteuid	linux-0.11/kernel/sched.c	/^int sys_geteuid(void)$/;"	f	typeref:typename:int
+sys_getgid	linux-0.11/kernel/sched.c	/^int sys_getgid(void)$/;"	f	typeref:typename:int
+sys_getpgrp	linux-0.11/kernel/sys.c	/^int sys_getpgrp(void)$/;"	f	typeref:typename:int
+sys_getpid	linux-0.11/kernel/sched.c	/^int sys_getpid(void)$/;"	f	typeref:typename:int
+sys_getppid	linux-0.11/kernel/sched.c	/^int sys_getppid(void)$/;"	f	typeref:typename:int
+sys_getuid	linux-0.11/kernel/sched.c	/^int sys_getuid(void)$/;"	f	typeref:typename:int
+sys_gtty	linux-0.11/kernel/sys.c	/^int sys_gtty()$/;"	f	typeref:typename:int
+sys_ind	linux-0.11/include/linux/hdreg.h	/^	unsigned char sys_ind;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+sys_ioctl	linux-0.11/fs/ioctl.c	/^int sys_ioctl(unsigned int fd, unsigned int cmd, unsigned long arg)$/;"	f	typeref:typename:int
+sys_kill	linux-0.11/kernel/exit.c	/^int sys_kill(int pid,int sig)$/;"	f	typeref:typename:int
+sys_link	linux-0.11/fs/namei.c	/^int sys_link(const char * oldname, const char * newname)$/;"	f	typeref:typename:int
+sys_lock	linux-0.11/kernel/sys.c	/^int sys_lock()$/;"	f	typeref:typename:int
+sys_lseek	linux-0.11/fs/read_write.c	/^int sys_lseek(unsigned int fd,off_t offset, int origin)$/;"	f	typeref:typename:int
+sys_mkdir	linux-0.11/fs/namei.c	/^int sys_mkdir(const char * pathname, int mode)$/;"	f	typeref:typename:int
+sys_mknod	linux-0.11/fs/namei.c	/^int sys_mknod(const char * filename, int mode, int dev)$/;"	f	typeref:typename:int
+sys_mount	linux-0.11/fs/super.c	/^int sys_mount(char * dev_name, char * dir_name, int rw_flag)$/;"	f	typeref:typename:int
+sys_mpx	linux-0.11/kernel/sys.c	/^int sys_mpx()$/;"	f	typeref:typename:int
+sys_nice	linux-0.11/kernel/sched.c	/^int sys_nice(long increment)$/;"	f	typeref:typename:int
+sys_open	linux-0.11/fs/open.c	/^int sys_open(const char * filename,int flag,int mode)$/;"	f	typeref:typename:int
+sys_pause	linux-0.11/kernel/sched.c	/^int sys_pause(void)$/;"	f	typeref:typename:int
+sys_phys	linux-0.11/kernel/sys.c	/^int sys_phys()$/;"	f	typeref:typename:int
+sys_pipe	linux-0.11/fs/pipe.c	/^int sys_pipe(unsigned long * fildes)$/;"	f	typeref:typename:int
+sys_prof	linux-0.11/kernel/sys.c	/^int sys_prof()$/;"	f	typeref:typename:int
+sys_ptrace	linux-0.11/kernel/sys.c	/^int sys_ptrace()$/;"	f	typeref:typename:int
+sys_read	linux-0.11/fs/read_write.c	/^int sys_read(unsigned int fd,char * buf,int count)$/;"	f	typeref:typename:int
+sys_rename	linux-0.11/kernel/sys.c	/^int sys_rename()$/;"	f	typeref:typename:int
+sys_rmdir	linux-0.11/fs/namei.c	/^int sys_rmdir(const char * name)$/;"	f	typeref:typename:int
+sys_setgid	linux-0.11/kernel/sys.c	/^int sys_setgid(int gid)$/;"	f	typeref:typename:int
+sys_setpgid	linux-0.11/kernel/sys.c	/^int sys_setpgid(int pid, int pgid)$/;"	f	typeref:typename:int
+sys_setregid	linux-0.11/kernel/sys.c	/^int sys_setregid(int rgid, int egid)$/;"	f	typeref:typename:int
+sys_setreuid	linux-0.11/kernel/sys.c	/^int sys_setreuid(int ruid, int euid)$/;"	f	typeref:typename:int
+sys_setsid	linux-0.11/kernel/sys.c	/^int sys_setsid(void)$/;"	f	typeref:typename:int
+sys_setuid	linux-0.11/kernel/sys.c	/^int sys_setuid(int uid)$/;"	f	typeref:typename:int
+sys_setup	linux-0.11/kernel/blk_drv/hd.c	/^int sys_setup(void * BIOS)$/;"	f	typeref:typename:int
+sys_sgetmask	linux-0.11/kernel/signal.c	/^int sys_sgetmask()$/;"	f	typeref:typename:int
+sys_sigaction	linux-0.11/kernel/signal.c	/^int sys_sigaction(int signum, const struct sigaction * action,$/;"	f	typeref:typename:int
+sys_signal	linux-0.11/kernel/signal.c	/^int sys_signal(int signum, long handler, long restorer)$/;"	f	typeref:typename:int
+sys_ssetmask	linux-0.11/kernel/signal.c	/^int sys_ssetmask(int newmask)$/;"	f	typeref:typename:int
+sys_stat	linux-0.11/fs/stat.c	/^int sys_stat(char * filename, struct stat * statbuf)$/;"	f	typeref:typename:int
+sys_stime	linux-0.11/kernel/sys.c	/^int sys_stime(long * tptr)$/;"	f	typeref:typename:int
+sys_stty	linux-0.11/kernel/sys.c	/^int sys_stty()$/;"	f	typeref:typename:int
+sys_sync	linux-0.11/fs/buffer.c	/^int sys_sync(void)$/;"	f	typeref:typename:int
+sys_time	linux-0.11/kernel/sys.c	/^int sys_time(long * tloc)$/;"	f	typeref:typename:int
+sys_times	linux-0.11/kernel/sys.c	/^int sys_times(struct tms * tbuf)$/;"	f	typeref:typename:int
+sys_ulimit	linux-0.11/kernel/sys.c	/^int sys_ulimit()$/;"	f	typeref:typename:int
+sys_umask	linux-0.11/kernel/sys.c	/^int sys_umask(int mask)$/;"	f	typeref:typename:int
+sys_umount	linux-0.11/fs/super.c	/^int sys_umount(char * dev_name)$/;"	f	typeref:typename:int
+sys_uname	linux-0.11/kernel/sys.c	/^int sys_uname(struct utsname * name)$/;"	f	typeref:typename:int
+sys_unlink	linux-0.11/fs/namei.c	/^int sys_unlink(const char * name)$/;"	f	typeref:typename:int
+sys_ustat	linux-0.11/fs/open.c	/^int sys_ustat(int dev, struct ustat * ubuf)$/;"	f	typeref:typename:int
+sys_utime	linux-0.11/fs/open.c	/^int sys_utime(char * filename, struct utimbuf * times)$/;"	f	typeref:typename:int
+sys_waitpid	linux-0.11/kernel/exit.c	/^int sys_waitpid(pid_t pid,unsigned long * stat_addr, int options)$/;"	f	typeref:typename:int
+sys_write	linux-0.11/fs/read_write.c	/^int sys_write(unsigned int fd,char * buf,int count)$/;"	f	typeref:typename:int
+sysbeep	linux-0.11/kernel/chr_drv/console.c	/^static void sysbeep(void)$/;"	f	typeref:typename:void	file:
+sysbeepstop	linux-0.11/kernel/chr_drv/console.c	/^void sysbeepstop(void)$/;"	f	typeref:typename:void
+sysname	linux-0.11/include/sys/utsname.h	/^	char sysname[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+table_list	linux-0.11/kernel/chr_drv/tty_io.c	/^struct tty_queue * table_list[]={$/;"	v	typeref:struct:tty_queue * []
+tail	linux-0.11/include/linux/tty.h	/^	unsigned long tail;$/;"	m	struct:tty_queue	typeref:typename:unsigned long
+task	linux-0.11/kernel/sched.c	/^	struct task_struct task;$/;"	m	union:task_union	typeref:struct:task_struct	file:
+task	linux-0.11/kernel/sched.c	/^struct task_struct * task[NR_TASKS] = {&(init_task.task), };$/;"	v	typeref:struct:task_struct * []
+task_struct	linux-0.11/include/linux/sched.h	/^struct task_struct {$/;"	s
+task_union	linux-0.11/kernel/sched.c	/^union task_union {$/;"	u	file:
+tell_father	linux-0.11/kernel/exit.c	/^static void tell_father(int pid)$/;"	f	typeref:typename:void	file:
+termio	linux-0.11/include/termios.h	/^struct termio {$/;"	s
+termios	linux-0.11/include/linux/tty.h	/^	struct termios termios;$/;"	m	struct:tty_struct	typeref:struct:termios
+termios	linux-0.11/include/termios.h	/^struct termios {$/;"	s
+ticks_to_floppy_on	linux-0.11/kernel/sched.c	/^int ticks_to_floppy_on(unsigned int nr)$/;"	f	typeref:typename:int
+time_init	linux-0.11/init/main.c	/^static void time_init(void)$/;"	f	typeref:typename:void	file:
+time_t	linux-0.11/include/sys/types.h	/^typedef long time_t;$/;"	t	typeref:typename:long
+time_t	linux-0.11/include/time.h	/^typedef long time_t;$/;"	t	typeref:typename:long
+timer_list	linux-0.11/kernel/sched.c	/^static struct timer_list {$/;"	s	file:
+timer_list	linux-0.11/kernel/sched.c	/^} timer_list[TIME_REQUESTS], * next_timer = NULL;$/;"	v	typeref:struct:timer_list[]
+tm	linux-0.11/include/time.h	/^struct tm {$/;"	s
+tm_hour	linux-0.11/include/time.h	/^	int tm_hour;$/;"	m	struct:tm	typeref:typename:int
+tm_isdst	linux-0.11/include/time.h	/^	int tm_isdst;$/;"	m	struct:tm	typeref:typename:int
+tm_mday	linux-0.11/include/time.h	/^	int tm_mday;$/;"	m	struct:tm	typeref:typename:int
+tm_min	linux-0.11/include/time.h	/^	int tm_min;$/;"	m	struct:tm	typeref:typename:int
+tm_mon	linux-0.11/include/time.h	/^	int tm_mon;$/;"	m	struct:tm	typeref:typename:int
+tm_sec	linux-0.11/include/time.h	/^	int tm_sec;$/;"	m	struct:tm	typeref:typename:int
+tm_wday	linux-0.11/include/time.h	/^	int tm_wday;$/;"	m	struct:tm	typeref:typename:int
+tm_yday	linux-0.11/include/time.h	/^	int tm_yday;$/;"	m	struct:tm	typeref:typename:int
+tm_year	linux-0.11/include/time.h	/^	int tm_year;$/;"	m	struct:tm	typeref:typename:int
+tmp.s	linux-0.11/Makefile	/^tmp.s:	boot\/bootsect.s tools\/system$/;"	t
+tms	linux-0.11/include/sys/times.h	/^struct tms {$/;"	s
+tms_cstime	linux-0.11/include/sys/times.h	/^	time_t tms_cstime;$/;"	m	struct:tms	typeref:typename:time_t
+tms_cutime	linux-0.11/include/sys/times.h	/^	time_t tms_cutime;$/;"	m	struct:tms	typeref:typename:time_t
+tms_stime	linux-0.11/include/sys/times.h	/^	time_t tms_stime;$/;"	m	struct:tms	typeref:typename:time_t
+tms_utime	linux-0.11/include/sys/times.h	/^	time_t tms_utime;$/;"	m	struct:tms	typeref:typename:time_t
+toascii	linux-0.11/include/ctype.h	/^#define toascii(/;"	d
+tolower	linux-0.11/include/ctype.h	/^#define tolower(/;"	d
+tools/build	linux-0.11/Makefile	/^tools\/build: tools\/build.c$/;"	t
+tools/system	linux-0.11/Makefile	/^tools\/system:	boot\/head.o init\/main.o \\$/;"	t
+top	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	top,bottom;$/;"	v	typeref:typename:unsigned long	file:
+toupper	linux-0.11/include/ctype.h	/^#define toupper(/;"	d
+trace_bitmap	linux-0.11/include/linux/sched.h	/^	long	trace_bitmap;	\/* bits: trace 0, bitmap 16-31 *\/$/;"	m	struct:tss_struct	typeref:typename:long
+track	linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+track	linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char track = 0;$/;"	v	typeref:typename:unsigned char	file:
+transfer	linux-0.11/kernel/blk_drv/floppy.c	/^static void transfer(void)$/;"	f	typeref:typename:void	file:
+trap_init	linux-0.11/kernel/traps.c	/^void trap_init(void)$/;"	f	typeref:typename:void
+traps.o	linux-0.11/kernel/Makefile	/^traps.s traps.o: traps.c ..\/include\/string.h ..\/include\/linux\/head.h \\$/;"	t
+traps.s	linux-0.11/kernel/Makefile	/^traps.s traps.o: traps.c ..\/include\/string.h ..\/include\/linux\/head.h \\$/;"	t
+truncate	linux-0.11/fs/truncate.c	/^void truncate(struct m_inode * inode)$/;"	f	typeref:typename:void
+truncate.o	linux-0.11/fs/Makefile	/^truncate.o: truncate.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+try_to_share	linux-0.11/mm/memory.c	/^static int try_to_share(unsigned long address, struct task_struct * p)$/;"	f	typeref:typename:int	file:
+tss	linux-0.11/include/linux/sched.h	/^	struct tss_struct tss;$/;"	m	struct:task_struct	typeref:struct:tss_struct
+tss_struct	linux-0.11/include/linux/sched.h	/^struct tss_struct {$/;"	s
+tty	linux-0.11/include/linux/sched.h	/^	int tty;		\/* -1 if no tty, so it must be signed *\/$/;"	m	struct:task_struct	typeref:typename:int
+tty_init	linux-0.11/kernel/chr_drv/tty_io.c	/^void tty_init(void)$/;"	f	typeref:typename:void
+tty_intr	linux-0.11/kernel/chr_drv/tty_io.c	/^void tty_intr(struct tty_struct * tty, int mask)$/;"	f	typeref:typename:void
+tty_io.o	linux-0.11/kernel/chr_drv/Makefile	/^tty_io.s tty_io.o: tty_io.c ..\/..\/include\/ctype.h ..\/..\/include\/errno.h \\$/;"	t
+tty_io.s	linux-0.11/kernel/chr_drv/Makefile	/^tty_io.s tty_io.o: tty_io.c ..\/..\/include\/ctype.h ..\/..\/include\/errno.h \\$/;"	t
+tty_ioctl	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^int tty_ioctl(int dev, int cmd, int arg)$/;"	f	typeref:typename:int
+tty_ioctl.o	linux-0.11/kernel/chr_drv/Makefile	/^tty_ioctl.s tty_ioctl.o: tty_ioctl.c ..\/..\/include\/errno.h ..\/..\/include\/termios.h \\$/;"	t
+tty_ioctl.s	linux-0.11/kernel/chr_drv/Makefile	/^tty_ioctl.s tty_ioctl.o: tty_ioctl.c ..\/..\/include\/errno.h ..\/..\/include\/termios.h \\$/;"	t
+tty_queue	linux-0.11/include/linux/tty.h	/^struct tty_queue {$/;"	s
+tty_read	linux-0.11/kernel/chr_drv/tty_io.c	/^int tty_read(unsigned channel, char * buf, int nr)$/;"	f	typeref:typename:int
+tty_struct	linux-0.11/include/linux/tty.h	/^struct tty_struct {$/;"	s
+tty_table	linux-0.11/kernel/chr_drv/tty_io.c	/^struct tty_struct tty_table[] = {$/;"	v	typeref:struct:tty_struct[]
+tty_write	linux-0.11/kernel/chr_drv/tty_io.c	/^int tty_write(unsigned channel, char * buf, int nr)$/;"	f	typeref:typename:int
+twd	linux-0.11/include/linux/sched.h	/^	long	twd;$/;"	m	struct:i387_struct	typeref:typename:long
+u_char	linux-0.11/include/sys/types.h	/^typedef unsigned char u_char;$/;"	t	typeref:typename:unsigned char
+uid	linux-0.11/include/linux/sched.h	/^	unsigned short uid,euid,suid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+uid_t	linux-0.11/include/sys/types.h	/^typedef unsigned short uid_t;$/;"	t	typeref:typename:unsigned short
+umask	linux-0.11/include/linux/sched.h	/^	unsigned short umask;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+umode_t	linux-0.11/include/sys/types.h	/^typedef unsigned short umode_t;$/;"	t	typeref:typename:unsigned short
+un_wp_page	linux-0.11/mm/memory.c	/^void un_wp_page(unsigned long * table_entry)$/;"	f	typeref:typename:void
+unexpected_floppy_interrupt	linux-0.11/kernel/blk_drv/floppy.c	/^void unexpected_floppy_interrupt(void)$/;"	f	typeref:typename:void
+unexpected_hd_interrupt	linux-0.11/kernel/blk_drv/hd.c	/^void unexpected_hd_interrupt(void)$/;"	f	typeref:typename:void
+unlock_buffer	linux-0.11/kernel/blk_drv/blk.h	/^static inline void unlock_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void
+unlock_buffer	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static inline void unlock_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+unlock_inode	linux-0.11/fs/inode.c	/^static inline void unlock_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+usage	linux-0.11/tools/build.c	/^void usage(void)$/;"	f	typeref:typename:void
+used_math	linux-0.11/include/linux/sched.h	/^	unsigned short used_math;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+user_stack	linux-0.11/kernel/sched.c	/^long user_stack [ PAGE_SIZE>>2 ] ;$/;"	v	typeref:typename:long[]
+ushort	linux-0.11/include/sys/types.h	/^typedef unsigned short ushort;$/;"	t	typeref:typename:unsigned short
+ustat	linux-0.11/include/sys/types.h	/^struct ustat {$/;"	s
+utimbuf	linux-0.11/include/utime.h	/^struct utimbuf {$/;"	s
+utime	linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+utsname	linux-0.11/include/sys/utsname.h	/^struct utsname {$/;"	s
+va_arg	linux-0.11/include/stdarg.h	/^#define va_arg(/;"	d
+va_end	linux-0.11/include/stdarg.h	/^#define va_end(/;"	d
+va_list	linux-0.11/include/stdarg.h	/^typedef char *va_list;$/;"	t	typeref:typename:char *
+va_start	linux-0.11/include/stdarg.h	/^#define va_start(/;"	d
+verify_area	linux-0.11/kernel/fork.c	/^void verify_area(void * addr,int size)$/;"	f	typeref:typename:void
+version	linux-0.11/include/sys/utsname.h	/^	char version[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+video_erase_char	linux-0.11/kernel/chr_drv/console.c	/^static unsigned short	video_erase_char;	\/* Char+Attrib to erase with	*\/$/;"	v	typeref:typename:unsigned short	file:
+video_mem_end	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_mem_end;		\/* End of video RAM (sort of)	*\/$/;"	v	typeref:typename:unsigned long	file:
+video_mem_start	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_mem_start;	\/* Start of video RAM		*\/$/;"	v	typeref:typename:unsigned long	file:
+video_num_columns	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_num_columns;	\/* Number of text columns	*\/$/;"	v	typeref:typename:unsigned long	file:
+video_num_lines	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_num_lines;	\/* Number of test lines		*\/$/;"	v	typeref:typename:unsigned long	file:
+video_page	linux-0.11/kernel/chr_drv/console.c	/^static unsigned char	video_page;		\/* Initial video page		*\/$/;"	v	typeref:typename:unsigned char	file:
+video_port_reg	linux-0.11/kernel/chr_drv/console.c	/^static unsigned short	video_port_reg;		\/* Video register select port	*\/$/;"	v	typeref:typename:unsigned short	file:
+video_port_val	linux-0.11/kernel/chr_drv/console.c	/^static unsigned short	video_port_val;		\/* Video register value port	*\/$/;"	v	typeref:typename:unsigned short	file:
+video_size_row	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_size_row;		\/* Bytes per row		*\/$/;"	v	typeref:typename:unsigned long	file:
+video_type	linux-0.11/kernel/chr_drv/console.c	/^static unsigned char	video_type;		\/* Type of display being used	*\/$/;"	v	typeref:typename:unsigned char	file:
+vsprintf	linux-0.11/kernel/vsprintf.c	/^int vsprintf(char *buf, const char *fmt, va_list args)$/;"	f	typeref:typename:int
+vsprintf.o	linux-0.11/kernel/Makefile	/^vsprintf.s vsprintf.o: vsprintf.c ..\/include\/stdarg.h ..\/include\/string.h$/;"	t
+vsprintf.s	linux-0.11/kernel/Makefile	/^vsprintf.s vsprintf.o: vsprintf.c ..\/include\/stdarg.h ..\/include\/string.h$/;"	t
+wait.o	linux-0.11/lib/Makefile	/^wait.s wait.o : wait.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+wait.s	linux-0.11/lib/Makefile	/^wait.s wait.o : wait.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+wait_for_keypress	linux-0.11/kernel/chr_drv/tty_io.c	/^void wait_for_keypress(void)$/;"	f	typeref:typename:void
+wait_for_request	linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^struct task_struct * wait_for_request = NULL;$/;"	v	typeref:struct:task_struct *
+wait_motor	linux-0.11/kernel/sched.c	/^static struct task_struct * wait_motor[4] = {NULL,NULL,NULL,NULL};$/;"	v	typeref:struct:task_struct * [4]	file:
+wait_on_buffer	linux-0.11/fs/buffer.c	/^static inline void wait_on_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+wait_on_floppy_select	linux-0.11/kernel/blk_drv/floppy.c	/^struct task_struct * wait_on_floppy_select = NULL;$/;"	v	typeref:struct:task_struct *
+wait_on_inode	linux-0.11/fs/inode.c	/^static inline void wait_on_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+wait_on_super	linux-0.11/fs/super.c	/^static void wait_on_super(struct super_block * sb)$/;"	f	typeref:typename:void	file:
+wait_until_sent	linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void wait_until_sent(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+waiting	linux-0.11/kernel/blk_drv/blk.h	/^	struct task_struct * waiting;$/;"	m	struct:request	typeref:struct:task_struct *
+wake_up	linux-0.11/kernel/sched.c	/^void wake_up(struct task_struct **p)$/;"	f	typeref:typename:void
+win_result	linux-0.11/kernel/blk_drv/hd.c	/^static int win_result(void)$/;"	f	typeref:typename:int	file:
+winsize	linux-0.11/include/termios.h	/^struct winsize {$/;"	s
+wpcom	linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+write	linux-0.11/include/linux/tty.h	/^	void (*write)(struct tty_struct * tty);$/;"	m	struct:tty_struct	typeref:typename:void (*)(struct tty_struct * tty)
+write.o	linux-0.11/lib/Makefile	/^write.s write.o : write.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+write.s	linux-0.11/lib/Makefile	/^write.s write.o : write.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+write_inode	linux-0.11/fs/inode.c	/^static void write_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+write_intr	linux-0.11/kernel/blk_drv/hd.c	/^static void write_intr(void)$/;"	f	typeref:typename:void	file:
+write_pipe	linux-0.11/fs/pipe.c	/^int write_pipe(struct m_inode * inode, char * buf, int count)$/;"	f	typeref:typename:int
+write_q	linux-0.11/include/linux/tty.h	/^	struct tty_queue write_q;$/;"	m	struct:tty_struct	typeref:struct:tty_queue
+write_verify	linux-0.11/mm/memory.c	/^void write_verify(unsigned long address)$/;"	f	typeref:typename:void
+ws_col	linux-0.11/include/termios.h	/^	unsigned short ws_col;$/;"	m	struct:winsize	typeref:typename:unsigned short
+ws_row	linux-0.11/include/termios.h	/^	unsigned short ws_row;$/;"	m	struct:winsize	typeref:typename:unsigned short
+ws_xpixel	linux-0.11/include/termios.h	/^	unsigned short ws_xpixel;$/;"	m	struct:winsize	typeref:typename:unsigned short
+ws_ypixel	linux-0.11/include/termios.h	/^	unsigned short ws_ypixel;$/;"	m	struct:winsize	typeref:typename:unsigned short
+x	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	x,y;$/;"	v	typeref:typename:unsigned long	file:
+y	linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	x,y;$/;"	v	typeref:typename:unsigned long	file:

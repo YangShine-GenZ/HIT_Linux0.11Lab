@@ -1,0 +1,1914 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+.c.o	oslab/linux-0.11/Makefile	/^.c.o:$/;"	t
+.c.o	oslab/linux-0.11/fs/Makefile	/^.c.o:$/;"	t
+.c.o	oslab/linux-0.11/kernel/Makefile	/^.c.o:$/;"	t
+.c.o	oslab/linux-0.11/kernel/blk_drv/Makefile	/^.c.o:$/;"	t
+.c.o	oslab/linux-0.11/kernel/chr_drv/Makefile	/^.c.o:$/;"	t
+.c.o	oslab/linux-0.11/kernel/math/Makefile	/^.c.o:$/;"	t
+.c.o	oslab/linux-0.11/lib/Makefile	/^.c.o:$/;"	t
+.c.o	oslab/linux-0.11/mm/Makefile	/^.c.o:$/;"	t
+.c.s	oslab/linux-0.11/Makefile	/^.c.s:$/;"	t
+.c.s	oslab/linux-0.11/fs/Makefile	/^.c.s:$/;"	t
+.c.s	oslab/linux-0.11/kernel/Makefile	/^.c.s:$/;"	t
+.c.s	oslab/linux-0.11/kernel/blk_drv/Makefile	/^.c.s:$/;"	t
+.c.s	oslab/linux-0.11/kernel/chr_drv/Makefile	/^.c.s:$/;"	t
+.c.s	oslab/linux-0.11/kernel/math/Makefile	/^.c.s:$/;"	t
+.c.s	oslab/linux-0.11/lib/Makefile	/^.c.s:$/;"	t
+.c.s	oslab/linux-0.11/mm/Makefile	/^.c.s:$/;"	t
+.s.o	oslab/linux-0.11/Makefile	/^.s.o:$/;"	t
+.s.o	oslab/linux-0.11/fs/Makefile	/^.s.o:$/;"	t
+.s.o	oslab/linux-0.11/kernel/Makefile	/^.s.o:$/;"	t
+.s.o	oslab/linux-0.11/kernel/blk_drv/Makefile	/^.s.o:$/;"	t
+.s.o	oslab/linux-0.11/kernel/chr_drv/Makefile	/^.s.o:$/;"	t
+.s.o	oslab/linux-0.11/kernel/math/Makefile	/^.s.o:$/;"	t
+.s.o	oslab/linux-0.11/lib/Makefile	/^.s.o:$/;"	t
+.s.o	oslab/linux-0.11/mm/Makefile	/^.s.o:$/;"	t
+ABRT_ERR	oslab/linux-0.11/include/linux/hdreg.h	/^#define ABRT_ERR	/;"	d
+ACC_MODE	oslab/linux-0.11/fs/namei.c	/^#define ACC_MODE(/;"	d	file:
+ALRMMASK	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define ALRMMASK /;"	d	file:
+AR	oslab/linux-0.11/fs/Makefile	/^AR	=ar$/;"	m
+AR	oslab/linux-0.11/kernel/Makefile	/^AR	=ar$/;"	m
+AR	oslab/linux-0.11/kernel/blk_drv/Makefile	/^AR	=ar$/;"	m
+AR	oslab/linux-0.11/kernel/chr_drv/Makefile	/^AR	=ar$/;"	m
+AR	oslab/linux-0.11/kernel/math/Makefile	/^AR	=ar$/;"	m
+AR	oslab/linux-0.11/lib/Makefile	/^AR	=ar$/;"	m
+AR	oslab/linux-0.11/mm/Makefile	/^AR	=ar$/;"	m
+ARCHIVES	oslab/linux-0.11/Makefile	/^ARCHIVES=kernel\/kernel.o mm\/mm.o fs\/fs.o$/;"	m
+AS	oslab/linux-0.11/Makefile	/^AS	=as$/;"	m
+AS	oslab/linux-0.11/fs/Makefile	/^AS	=as$/;"	m
+AS	oslab/linux-0.11/kernel/Makefile	/^AS	=as --32$/;"	m
+AS	oslab/linux-0.11/kernel/blk_drv/Makefile	/^AS	=as$/;"	m
+AS	oslab/linux-0.11/kernel/chr_drv/Makefile	/^AS	=as --32$/;"	m
+AS	oslab/linux-0.11/kernel/math/Makefile	/^AS	=as$/;"	m
+AS	oslab/linux-0.11/lib/Makefile	/^AS	=as$/;"	m
+AS	oslab/linux-0.11/mm/Makefile	/^AS	=as --32$/;"	m
+AS86	oslab/linux-0.11/Makefile	/^AS86	=as86 -0 -a$/;"	m
+B0	oslab/linux-0.11/include/termios.h	/^#define  B0	/;"	d
+B110	oslab/linux-0.11/include/termios.h	/^#define  B110	/;"	d
+B1200	oslab/linux-0.11/include/termios.h	/^#define  B1200	/;"	d
+B134	oslab/linux-0.11/include/termios.h	/^#define  B134	/;"	d
+B150	oslab/linux-0.11/include/termios.h	/^#define  B150	/;"	d
+B1800	oslab/linux-0.11/include/termios.h	/^#define  B1800	/;"	d
+B19200	oslab/linux-0.11/include/termios.h	/^#define  B19200	/;"	d
+B200	oslab/linux-0.11/include/termios.h	/^#define  B200	/;"	d
+B2400	oslab/linux-0.11/include/termios.h	/^#define  B2400	/;"	d
+B300	oslab/linux-0.11/include/termios.h	/^#define  B300	/;"	d
+B38400	oslab/linux-0.11/include/termios.h	/^#define  B38400	/;"	d
+B4800	oslab/linux-0.11/include/termios.h	/^#define  B4800	/;"	d
+B50	oslab/linux-0.11/include/termios.h	/^#define  B50	/;"	d
+B600	oslab/linux-0.11/include/termios.h	/^#define  B600	/;"	d
+B75	oslab/linux-0.11/include/termios.h	/^#define  B75	/;"	d
+B9600	oslab/linux-0.11/include/termios.h	/^#define  B9600	/;"	d
+BADNESS	oslab/linux-0.11/fs/buffer.c	/^#define BADNESS(/;"	d	file:
+BBD_ERR	oslab/linux-0.11/include/linux/hdreg.h	/^#define	BBD_ERR	/;"	d
+BCD_TO_BIN	oslab/linux-0.11/init/main.c	/^#define BCD_TO_BIN(/;"	d	file:
+BLOCK_SIZE	oslab/linux-0.11/include/linux/fs.h	/^#define BLOCK_SIZE /;"	d
+BLOCK_SIZE_BITS	oslab/linux-0.11/include/linux/fs.h	/^#define BLOCK_SIZE_BITS /;"	d
+BRKINT	oslab/linux-0.11/include/termios.h	/^#define BRKINT	/;"	d
+BS0	oslab/linux-0.11/include/termios.h	/^#define   BS0	/;"	d
+BS1	oslab/linux-0.11/include/termios.h	/^#define   BS1	/;"	d
+BSDLY	oslab/linux-0.11/include/termios.h	/^#define BSDLY	/;"	d
+BUFFER_END	oslab/linux-0.11/include/const.h	/^#define BUFFER_END /;"	d
+BUFFER_SIZE	oslab/pc.c	/^const int BUFFER_SIZE = 10;                        \/* 缓冲区大小，表示可同时存在的/;"	v	typeref:typename:const int
+BUSY_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define BUSY_STAT	/;"	d
+BootImage	oslab/linux-0.11/Makefile	/^BootImage: boot\/bootsect boot\/setup tools\/build$/;"	t
+CBAUD	oslab/linux-0.11/include/termios.h	/^#define CBAUD	/;"	d
+CC	oslab/linux-0.11/Makefile	/^CC	=gcc-3.4 -march=i386 $(RAMDISK)$/;"	m
+CC	oslab/linux-0.11/fs/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	oslab/linux-0.11/kernel/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	oslab/linux-0.11/kernel/blk_drv/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	oslab/linux-0.11/kernel/chr_drv/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	oslab/linux-0.11/kernel/math/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	oslab/linux-0.11/lib/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CC	oslab/linux-0.11/mm/Makefile	/^CC	=gcc-3.4 -march=i386$/;"	m
+CFLAGS	oslab/linux-0.11/Makefile	/^CFLAGS	=-m32 -g -Wall -O2 -fomit-frame-pointer $/;"	m
+CFLAGS	oslab/linux-0.11/fs/Makefile	/^CFLAGS	=-m32 -g -Wall -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	oslab/linux-0.11/kernel/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	oslab/linux-0.11/kernel/blk_drv/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer  \\$/;"	m
+CFLAGS	oslab/linux-0.11/kernel/chr_drv/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	oslab/linux-0.11/kernel/math/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	oslab/linux-0.11/lib/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CFLAGS	oslab/linux-0.11/mm/Makefile	/^CFLAGS	=-m32 -g -Wall -O -fstrength-reduce -fomit-frame-pointer \\$/;"	m
+CHARS	oslab/linux-0.11/include/linux/tty.h	/^#define CHARS(/;"	d
+CIBAUD	oslab/linux-0.11/include/termios.h	/^#define CIBAUD	/;"	d
+CLOCAL	oslab/linux-0.11/include/termios.h	/^#define CLOCAL	/;"	d
+CLOCKS_PER_SEC	oslab/linux-0.11/include/time.h	/^#define CLOCKS_PER_SEC /;"	d
+CMOS_READ	oslab/linux-0.11/init/main.c	/^#define CMOS_READ(/;"	d	file:
+CMOS_READ	oslab/linux-0.11/kernel/blk_drv/hd.c	/^#define CMOS_READ(/;"	d	file:
+CODE_SPACE	oslab/linux-0.11/mm/memory.c	/^#define CODE_SPACE(/;"	d	file:
+COPYBLK	oslab/linux-0.11/fs/buffer.c	/^#define COPYBLK(/;"	d	file:
+CPARENB	oslab/linux-0.11/include/termios.h	/^#define CPARENB	/;"	d
+CPARODD	oslab/linux-0.11/include/termios.h	/^#define CPARODD	/;"	d
+CPP	oslab/linux-0.11/Makefile	/^CPP	=cpp -nostdinc -Iinclude$/;"	m
+CPP	oslab/linux-0.11/fs/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CPP	oslab/linux-0.11/kernel/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CPP	oslab/linux-0.11/kernel/blk_drv/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/..\/include$/;"	m
+CPP	oslab/linux-0.11/kernel/chr_drv/Makefile	/^CPP	=gcc-3.4 -m32 -g -E -nostdinc -I..\/..\/include$/;"	m
+CPP	oslab/linux-0.11/kernel/math/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/..\/include$/;"	m
+CPP	oslab/linux-0.11/lib/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CPP	oslab/linux-0.11/mm/Makefile	/^CPP	=gcc-3.4 -E -nostdinc -I..\/include$/;"	m
+CR0	oslab/linux-0.11/include/termios.h	/^#define   CR0	/;"	d
+CR1	oslab/linux-0.11/include/termios.h	/^#define   CR1	/;"	d
+CR2	oslab/linux-0.11/include/termios.h	/^#define   CR2	/;"	d
+CR3	oslab/linux-0.11/include/termios.h	/^#define   CR3	/;"	d
+CRDLY	oslab/linux-0.11/include/termios.h	/^#define CRDLY	/;"	d
+CREAD	oslab/linux-0.11/include/termios.h	/^#define CREAD	/;"	d
+CRTSCTS	oslab/linux-0.11/include/termios.h	/^#define CRTSCTS	/;"	d
+CS5	oslab/linux-0.11/include/termios.h	/^#define   CS5	/;"	d
+CS6	oslab/linux-0.11/include/termios.h	/^#define   CS6	/;"	d
+CS7	oslab/linux-0.11/include/termios.h	/^#define   CS7	/;"	d
+CS8	oslab/linux-0.11/include/termios.h	/^#define   CS8	/;"	d
+CSIZE	oslab/linux-0.11/include/termios.h	/^#define CSIZE	/;"	d
+CSTOPB	oslab/linux-0.11/include/termios.h	/^#define CSTOPB	/;"	d
+CURRENT	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define CURRENT /;"	d
+CURRENT_DEV	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define CURRENT_DEV /;"	d
+CURRENT_TIME	oslab/linux-0.11/include/linux/sched.h	/^#define CURRENT_TIME /;"	d
+DAY	oslab/linux-0.11/kernel/mktime.c	/^#define DAY /;"	d	file:
+DEC	oslab/linux-0.11/include/linux/tty.h	/^#define DEC(/;"	d
+DEFAULT_MAJOR_ROOT	oslab/linux-0.11/tools/build.c	/^#define DEFAULT_MAJOR_ROOT /;"	d	file:
+DEFAULT_MINOR_ROOT	oslab/linux-0.11/tools/build.c	/^#define DEFAULT_MINOR_ROOT /;"	d	file:
+DEVICE_INTR	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_INTR /;"	d
+DEVICE_INTR	oslab/linux-0.11/kernel/blk_drv/blk.h	/^void (*DEVICE_INTR)(void) = NULL;$/;"	v	typeref:typename:void (*)(void)
+DEVICE_NAME	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_NAME /;"	d
+DEVICE_NR	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_NR(/;"	d
+DEVICE_OFF	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_OFF(/;"	d
+DEVICE_ON	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_ON(/;"	d
+DEVICE_REQUEST	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define DEVICE_REQUEST /;"	d
+DEVICE_REQUEST	oslab/linux-0.11/kernel/blk_drv/blk.h	/^static void (DEVICE_REQUEST)(void);$/;"	v	typeref:typename:void ()(void)
+DIR_ENTRIES_PER_BLOCK	oslab/linux-0.11/include/linux/fs.h	/^#define DIR_ENTRIES_PER_BLOCK /;"	d
+DMA_READ	oslab/linux-0.11/include/linux/fdreg.h	/^#define DMA_READ	/;"	d
+DMA_WRITE	oslab/linux-0.11/include/linux/fdreg.h	/^#define DMA_WRITE	/;"	d
+DRIVE	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define DRIVE(/;"	d	file:
+DRIVERS	oslab/linux-0.11/Makefile	/^DRIVERS =kernel\/blk_drv\/blk_drv.a kernel\/chr_drv\/chr_drv.a$/;"	m
+DRIVE_INFO	oslab/linux-0.11/init/main.c	/^#define DRIVE_INFO /;"	d	file:
+DRQ_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define DRQ_STAT	/;"	d
+E2BIG	oslab/linux-0.11/include/errno.h	/^#define E2BIG	/;"	d
+EACCES	oslab/linux-0.11/include/errno.h	/^#define EACCES	/;"	d
+EAGAIN	oslab/linux-0.11/include/errno.h	/^#define EAGAIN	/;"	d
+EBADF	oslab/linux-0.11/include/errno.h	/^#define EBADF	/;"	d
+EBUSY	oslab/linux-0.11/include/errno.h	/^#define EBUSY	/;"	d
+ECC_ERR	oslab/linux-0.11/include/linux/hdreg.h	/^#define ECC_ERR	/;"	d
+ECC_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define ECC_STAT	/;"	d
+ECHILD	oslab/linux-0.11/include/errno.h	/^#define ECHILD	/;"	d
+ECHO	oslab/linux-0.11/include/termios.h	/^#define ECHO	/;"	d
+ECHOCTL	oslab/linux-0.11/include/termios.h	/^#define ECHOCTL	/;"	d
+ECHOE	oslab/linux-0.11/include/termios.h	/^#define ECHOE	/;"	d
+ECHOK	oslab/linux-0.11/include/termios.h	/^#define ECHOK	/;"	d
+ECHOKE	oslab/linux-0.11/include/termios.h	/^#define ECHOKE	/;"	d
+ECHONL	oslab/linux-0.11/include/termios.h	/^#define ECHONL	/;"	d
+ECHOPRT	oslab/linux-0.11/include/termios.h	/^#define ECHOPRT	/;"	d
+EDEADLK	oslab/linux-0.11/include/errno.h	/^#define EDEADLK	/;"	d
+EDOM	oslab/linux-0.11/include/errno.h	/^#define EDOM	/;"	d
+EEXIST	oslab/linux-0.11/include/errno.h	/^#define EEXIST	/;"	d
+EFAULT	oslab/linux-0.11/include/errno.h	/^#define EFAULT	/;"	d
+EFBIG	oslab/linux-0.11/include/errno.h	/^#define EFBIG	/;"	d
+EINTR	oslab/linux-0.11/include/errno.h	/^#define EINTR	/;"	d
+EINVAL	oslab/linux-0.11/include/errno.h	/^#define EINVAL	/;"	d
+EIO	oslab/linux-0.11/include/errno.h	/^#define EIO	/;"	d
+EISDIR	oslab/linux-0.11/include/errno.h	/^#define EISDIR	/;"	d
+EMFILE	oslab/linux-0.11/include/errno.h	/^#define EMFILE	/;"	d
+EMLINK	oslab/linux-0.11/include/errno.h	/^#define EMLINK	/;"	d
+EMPTY	oslab/linux-0.11/include/linux/tty.h	/^#define EMPTY(/;"	d
+ENAMETOOLONG	oslab/linux-0.11/include/errno.h	/^#define ENAMETOOLONG	/;"	d
+ENFILE	oslab/linux-0.11/include/errno.h	/^#define ENFILE	/;"	d
+ENODEV	oslab/linux-0.11/include/errno.h	/^#define ENODEV	/;"	d
+ENOENT	oslab/linux-0.11/include/errno.h	/^#define ENOENT	/;"	d
+ENOEXEC	oslab/linux-0.11/include/errno.h	/^#define ENOEXEC	/;"	d
+ENOLCK	oslab/linux-0.11/include/errno.h	/^#define ENOLCK	/;"	d
+ENOMEM	oslab/linux-0.11/include/errno.h	/^#define ENOMEM	/;"	d
+ENOSPC	oslab/linux-0.11/include/errno.h	/^#define ENOSPC	/;"	d
+ENOSYS	oslab/linux-0.11/include/errno.h	/^#define ENOSYS	/;"	d
+ENOTBLK	oslab/linux-0.11/include/errno.h	/^#define ENOTBLK	/;"	d
+ENOTDIR	oslab/linux-0.11/include/errno.h	/^#define ENOTDIR	/;"	d
+ENOTEMPTY	oslab/linux-0.11/include/errno.h	/^#define ENOTEMPTY	/;"	d
+ENOTTY	oslab/linux-0.11/include/errno.h	/^#define ENOTTY	/;"	d
+ENXIO	oslab/linux-0.11/include/errno.h	/^#define ENXIO	/;"	d
+EOF_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define EOF_CHAR(/;"	d
+EPERM	oslab/linux-0.11/include/errno.h	/^#define EPERM	/;"	d
+EPIPE	oslab/linux-0.11/include/errno.h	/^#define EPIPE	/;"	d
+ERANGE	oslab/linux-0.11/include/errno.h	/^#define ERANGE	/;"	d
+ERASE_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define ERASE_CHAR(/;"	d
+EROFS	oslab/linux-0.11/include/errno.h	/^#define EROFS	/;"	d
+ERROR	oslab/linux-0.11/include/errno.h	/^#define ERROR	/;"	d
+ERR_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define ERR_STAT	/;"	d
+ESPIPE	oslab/linux-0.11/include/errno.h	/^#define ESPIPE	/;"	d
+ESRCH	oslab/linux-0.11/include/errno.h	/^#define ESRCH	/;"	d
+ETXTBSY	oslab/linux-0.11/include/errno.h	/^#define ETXTBSY	/;"	d
+EXDEV	oslab/linux-0.11/include/errno.h	/^#define EXDEV	/;"	d
+EXTA	oslab/linux-0.11/include/termios.h	/^#define EXTA /;"	d
+EXTB	oslab/linux-0.11/include/termios.h	/^#define EXTB /;"	d
+EXT_MEM_K	oslab/linux-0.11/init/main.c	/^#define EXT_MEM_K /;"	d	file:
+FD_CLOEXEC	oslab/linux-0.11/include/fcntl.h	/^#define FD_CLOEXEC	/;"	d
+FD_DATA	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_DATA	/;"	d
+FD_DCR	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_DCR	/;"	d
+FD_DIR	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_DIR	/;"	d
+FD_DOR	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_DOR	/;"	d
+FD_READ	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_READ	/;"	d
+FD_RECALIBRATE	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_RECALIBRATE	/;"	d
+FD_SEEK	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_SEEK	/;"	d
+FD_SENSEI	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_SENSEI	/;"	d
+FD_SPECIFY	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_SPECIFY	/;"	d
+FD_STATUS	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_STATUS	/;"	d
+FD_WRITE	oslab/linux-0.11/include/linux/fdreg.h	/^#define FD_WRITE	/;"	d
+FF0	oslab/linux-0.11/include/termios.h	/^#define   FF0	/;"	d
+FF1	oslab/linux-0.11/include/termios.h	/^#define   FF1	/;"	d
+FFDLY	oslab/linux-0.11/include/termios.h	/^#define FFDLY	/;"	d
+FIRST_LDT_ENTRY	oslab/linux-0.11/include/linux/sched.h	/^#define FIRST_LDT_ENTRY /;"	d
+FIRST_TASK	oslab/linux-0.11/include/linux/sched.h	/^#define FIRST_TASK /;"	d
+FIRST_TSS_ENTRY	oslab/linux-0.11/include/linux/sched.h	/^#define FIRST_TSS_ENTRY /;"	d
+FLUSHO	oslab/linux-0.11/include/termios.h	/^#define FLUSHO	/;"	d
+FORCE	oslab/linux-0.11/Makefile	/^FORCE:$/;"	t
+FULL	oslab/linux-0.11/include/linux/tty.h	/^#define FULL(/;"	d
+F_DUPFD	oslab/linux-0.11/include/fcntl.h	/^#define F_DUPFD	/;"	d
+F_GETFD	oslab/linux-0.11/include/fcntl.h	/^#define F_GETFD	/;"	d
+F_GETFL	oslab/linux-0.11/include/fcntl.h	/^#define F_GETFL	/;"	d
+F_GETLK	oslab/linux-0.11/include/fcntl.h	/^#define F_GETLK	/;"	d
+F_OK	oslab/linux-0.11/include/unistd.h	/^#define F_OK	/;"	d
+F_RDLCK	oslab/linux-0.11/include/fcntl.h	/^#define F_RDLCK	/;"	d
+F_SETFD	oslab/linux-0.11/include/fcntl.h	/^#define F_SETFD	/;"	d
+F_SETFL	oslab/linux-0.11/include/fcntl.h	/^#define F_SETFL	/;"	d
+F_SETLK	oslab/linux-0.11/include/fcntl.h	/^#define F_SETLK	/;"	d
+F_SETLKW	oslab/linux-0.11/include/fcntl.h	/^#define F_SETLKW	/;"	d
+F_UNLCK	oslab/linux-0.11/include/fcntl.h	/^#define F_UNLCK	/;"	d
+F_WRLCK	oslab/linux-0.11/include/fcntl.h	/^#define F_WRLCK	/;"	d
+GCC_HEADER	oslab/linux-0.11/tools/build.c	/^#define GCC_HEADER /;"	d	file:
+GDT_CODE	oslab/linux-0.11/include/linux/head.h	/^#define GDT_CODE /;"	d
+GDT_DATA	oslab/linux-0.11/include/linux/head.h	/^#define GDT_DATA /;"	d
+GDT_NUL	oslab/linux-0.11/include/linux/head.h	/^#define GDT_NUL /;"	d
+GDT_TMP	oslab/linux-0.11/include/linux/head.h	/^#define GDT_TMP /;"	d
+GETCH	oslab/linux-0.11/include/linux/tty.h	/^#define GETCH(/;"	d
+HD_CMD	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_CMD	/;"	d
+HD_COMMAND	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_COMMAND /;"	d
+HD_CURRENT	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_CURRENT	/;"	d
+HD_DATA	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_DATA	/;"	d
+HD_ERROR	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_ERROR	/;"	d
+HD_HCYL	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_HCYL	/;"	d
+HD_LCYL	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_LCYL	/;"	d
+HD_NSECTOR	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_NSECTOR	/;"	d
+HD_PRECOMP	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_PRECOMP /;"	d
+HD_SECTOR	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_SECTOR	/;"	d
+HD_STATUS	oslab/linux-0.11/include/linux/hdreg.h	/^#define HD_STATUS	/;"	d
+HIGH_MEMORY	oslab/linux-0.11/mm/memory.c	/^static long HIGH_MEMORY = 0;$/;"	v	typeref:typename:long	file:
+HOUR	oslab/linux-0.11/kernel/mktime.c	/^#define HOUR /;"	d	file:
+HUPCL	oslab/linux-0.11/include/termios.h	/^#define HUPCL	/;"	d
+HZ	oslab/linux-0.11/include/linux/sched.h	/^#define HZ /;"	d
+HZ	oslab/process.c	/^#define HZ	/;"	d	file:
+ICANON	oslab/linux-0.11/include/termios.h	/^#define ICANON	/;"	d
+ICRNL	oslab/linux-0.11/include/termios.h	/^#define ICRNL	/;"	d
+ID_ERR	oslab/linux-0.11/include/linux/hdreg.h	/^#define ID_ERR	/;"	d
+IEXTEN	oslab/linux-0.11/include/termios.h	/^#define IEXTEN	/;"	d
+IGNBRK	oslab/linux-0.11/include/termios.h	/^#define IGNBRK	/;"	d
+IGNCR	oslab/linux-0.11/include/termios.h	/^#define IGNCR	/;"	d
+IGNPAR	oslab/linux-0.11/include/termios.h	/^#define IGNPAR	/;"	d
+IMAXBEL	oslab/linux-0.11/include/termios.h	/^#define IMAXBEL	/;"	d
+INC	oslab/linux-0.11/include/linux/tty.h	/^#define INC(/;"	d
+INC_PIPE	oslab/linux-0.11/include/linux/fs.h	/^#define INC_PIPE(/;"	d
+INDEX_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define INDEX_STAT	/;"	d
+INIT_C_CC	oslab/linux-0.11/include/linux/tty.h	/^#define INIT_C_CC /;"	d
+INIT_REQUEST	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define INIT_REQUEST /;"	d
+INIT_TASK	oslab/linux-0.11/include/linux/sched.h	/^#define INIT_TASK /;"	d
+INLCR	oslab/linux-0.11/include/termios.h	/^#define INLCR	/;"	d
+INODES_PER_BLOCK	oslab/linux-0.11/include/linux/fs.h	/^#define INODES_PER_BLOCK /;"	d
+INPCK	oslab/linux-0.11/include/termios.h	/^#define INPCK	/;"	d
+INTMASK	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define INTMASK /;"	d	file:
+INTR_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define INTR_CHAR(/;"	d
+IN_ORDER	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define IN_ORDER(/;"	d
+ISIG	oslab/linux-0.11/include/termios.h	/^#define ISIG	/;"	d
+ISTRIP	oslab/linux-0.11/include/termios.h	/^#define ISTRIP	/;"	d
+IS_SEEKABLE	oslab/linux-0.11/include/linux/fs.h	/^#define IS_SEEKABLE(/;"	d
+IUCLC	oslab/linux-0.11/include/termios.h	/^#define IUCLC	/;"	d
+IXANY	oslab/linux-0.11/include/termios.h	/^#define IXANY	/;"	d
+IXOFF	oslab/linux-0.11/include/termios.h	/^#define IXOFF	/;"	d
+IXON	oslab/linux-0.11/include/termios.h	/^#define IXON	/;"	d
+I_BLOCK_SPECIAL	oslab/linux-0.11/include/const.h	/^#define I_BLOCK_SPECIAL /;"	d
+I_CHAR_SPECIAL	oslab/linux-0.11/include/const.h	/^#define I_CHAR_SPECIAL /;"	d
+I_CRNL	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_CRNL(/;"	d	file:
+I_DIRECTORY	oslab/linux-0.11/include/const.h	/^#define I_DIRECTORY	/;"	d
+I_MAP_SLOTS	oslab/linux-0.11/include/linux/fs.h	/^#define I_MAP_SLOTS /;"	d
+I_NAMED_PIPE	oslab/linux-0.11/include/const.h	/^#define I_NAMED_PIPE	/;"	d
+I_NLCR	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_NLCR(/;"	d	file:
+I_NOCR	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_NOCR(/;"	d	file:
+I_REGULAR	oslab/linux-0.11/include/const.h	/^#define I_REGULAR /;"	d
+I_SET_GID_BIT	oslab/linux-0.11/include/const.h	/^#define I_SET_GID_BIT /;"	d
+I_SET_UID_BIT	oslab/linux-0.11/include/const.h	/^#define I_SET_UID_BIT /;"	d
+I_TYPE	oslab/linux-0.11/include/const.h	/^#define I_TYPE /;"	d
+I_UCLC	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define I_UCLC(/;"	d	file:
+Image	oslab/linux-0.11/Makefile	/^Image: boot\/bootsect boot\/setup tools\/system tools\/build$/;"	t
+KBD_US	oslab/linux-0.11/include/linux/config.h	/^#define KBD_US$/;"	d
+KILLMASK	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define KILLMASK /;"	d	file:
+KILL_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define KILL_CHAR(/;"	d
+LAST	oslab/linux-0.11/include/linux/tty.h	/^#define LAST(/;"	d
+LAST_TASK	oslab/linux-0.11/include/linux/sched.h	/^#define LAST_TASK /;"	d
+LATCH	oslab/linux-0.11/kernel/sched.c	/^#define LATCH /;"	d	file:
+LD	oslab/linux-0.11/Makefile	/^LD	=ld$/;"	m
+LD	oslab/linux-0.11/fs/Makefile	/^LD	=ld$/;"	m
+LD	oslab/linux-0.11/kernel/Makefile	/^LD	=ld$/;"	m
+LD	oslab/linux-0.11/kernel/blk_drv/Makefile	/^LD	=ld$/;"	m
+LD	oslab/linux-0.11/kernel/chr_drv/Makefile	/^LD	=ld$/;"	m
+LD	oslab/linux-0.11/kernel/math/Makefile	/^LD	=ld$/;"	m
+LD	oslab/linux-0.11/lib/Makefile	/^LD	=ld$/;"	m
+LD	oslab/linux-0.11/mm/Makefile	/^LD	=ld$/;"	m
+LD86	oslab/linux-0.11/Makefile	/^LD86	=ld86 -0$/;"	m
+LDFLAGS	oslab/linux-0.11/Makefile	/^LDFLAGS	=-m elf_i386 -Ttext 0 -e startup_32$/;"	m
+LDFLAGS	oslab/linux-0.11/kernel/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	oslab/linux-0.11/kernel/blk_drv/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	oslab/linux-0.11/kernel/chr_drv/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	oslab/linux-0.11/kernel/math/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	oslab/linux-0.11/lib/Makefile	/^LDFLAGS	=-m elf_i386 -x$/;"	m
+LDFLAGS	oslab/linux-0.11/mm/Makefile	/^LDFLAGS =-m elf_i386$/;"	m
+LDT_CODE	oslab/linux-0.11/include/linux/head.h	/^#define LDT_CODE /;"	d
+LDT_DATA	oslab/linux-0.11/include/linux/head.h	/^#define LDT_DATA /;"	d
+LDT_NUL	oslab/linux-0.11/include/linux/head.h	/^#define LDT_NUL /;"	d
+LEFT	oslab/linux-0.11/include/linux/tty.h	/^#define LEFT(/;"	d
+LEFT	oslab/linux-0.11/kernel/vsprintf.c	/^#define LEFT	/;"	d	file:
+LIBS	oslab/linux-0.11/Makefile	/^LIBS	=lib\/lib.a$/;"	m
+LOW_MEM	oslab/linux-0.11/mm/memory.c	/^#define LOW_MEM /;"	d	file:
+L_CANON	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_CANON(/;"	d	file:
+L_ECHO	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHO(/;"	d	file:
+L_ECHOCTL	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOCTL(/;"	d	file:
+L_ECHOE	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOE(/;"	d	file:
+L_ECHOK	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOK(/;"	d	file:
+L_ECHOKE	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ECHOKE(/;"	d	file:
+L_ISIG	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define L_ISIG(/;"	d	file:
+MAJOR	oslab/linux-0.11/include/linux/fs.h	/^#define MAJOR(/;"	d
+MAJOR	oslab/linux-0.11/tools/build.c	/^	#define MAJOR(/;"	d	file:
+MAJOR_NR	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define MAJOR_NR /;"	d	file:
+MAJOR_NR	oslab/linux-0.11/kernel/blk_drv/hd.c	/^#define MAJOR_NR /;"	d	file:
+MAJOR_NR	oslab/linux-0.11/kernel/blk_drv/ramdisk.c	/^#define MAJOR_NR /;"	d	file:
+MAP_NR	oslab/linux-0.11/mm/memory.c	/^#define MAP_NR(/;"	d	file:
+MARK_ERR	oslab/linux-0.11/include/linux/hdreg.h	/^#define MARK_ERR	/;"	d
+MATH	oslab/linux-0.11/Makefile	/^MATH	=kernel\/math\/math.a$/;"	m
+MAX	oslab/linux-0.11/fs/file_dev.c	/^#define MAX(/;"	d	file:
+MAX_ARG_PAGES	oslab/linux-0.11/fs/exec.c	/^#define MAX_ARG_PAGES /;"	d	file:
+MAX_ERRORS	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define MAX_ERRORS /;"	d	file:
+MAX_ERRORS	oslab/linux-0.11/kernel/blk_drv/hd.c	/^#define MAX_ERRORS	/;"	d	file:
+MAX_HD	oslab/linux-0.11/kernel/blk_drv/hd.c	/^#define MAX_HD	/;"	d	file:
+MAX_REPLIES	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define MAX_REPLIES /;"	d	file:
+MAY_EXEC	oslab/linux-0.11/fs/namei.c	/^#define MAY_EXEC /;"	d	file:
+MAY_READ	oslab/linux-0.11/fs/namei.c	/^#define MAY_READ /;"	d	file:
+MAY_WRITE	oslab/linux-0.11/fs/namei.c	/^#define MAY_WRITE /;"	d	file:
+MIN	oslab/linux-0.11/fs/file_dev.c	/^#define MIN(/;"	d	file:
+MINIX_HEADER	oslab/linux-0.11/tools/build.c	/^#define MINIX_HEADER /;"	d	file:
+MINOR	oslab/linux-0.11/include/linux/fs.h	/^#define MINOR(/;"	d
+MINOR	oslab/linux-0.11/tools/build.c	/^	#define MINOR(/;"	d	file:
+MINUTE	oslab/linux-0.11/kernel/mktime.c	/^#define MINUTE /;"	d	file:
+NAME_LEN	oslab/linux-0.11/include/linux/fs.h	/^#define NAME_LEN /;"	d
+NCC	oslab/linux-0.11/include/termios.h	/^#define NCC /;"	d
+NCCS	oslab/linux-0.11/include/termios.h	/^#define NCCS /;"	d
+NL0	oslab/linux-0.11/include/termios.h	/^#define   NL0	/;"	d
+NL1	oslab/linux-0.11/include/termios.h	/^#define   NL1	/;"	d
+NLDLY	oslab/linux-0.11/include/termios.h	/^#define NLDLY	/;"	d
+NMAGIC	oslab/linux-0.11/include/a.out.h	/^#define NMAGIC /;"	d
+NOFLSH	oslab/linux-0.11/include/termios.h	/^#define NOFLSH	/;"	d
+NPAR	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define NPAR /;"	d	file:
+NRDEVS	oslab/linux-0.11/fs/char_dev.c	/^#define NRDEVS /;"	d	file:
+NRDEVS	oslab/linux-0.11/fs/ioctl.c	/^#define NRDEVS /;"	d	file:
+NR_BLK_DEV	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define NR_BLK_DEV	/;"	d
+NR_BUFFERS	oslab/linux-0.11/fs/buffer.c	/^int NR_BUFFERS = 0;$/;"	v	typeref:typename:int
+NR_BUFFERS	oslab/linux-0.11/include/linux/fs.h	/^#define NR_BUFFERS /;"	d
+NR_CONSUMERS	oslab/pc.c	/^const int NR_CONSUMERS = 5;                        \/* 消费者的数量 *\/$/;"	v	typeref:typename:const int
+NR_FILE	oslab/linux-0.11/include/linux/fs.h	/^#define NR_FILE /;"	d
+NR_HASH	oslab/linux-0.11/include/linux/fs.h	/^#define NR_HASH /;"	d
+NR_HD	oslab/linux-0.11/kernel/blk_drv/hd.c	/^#define NR_HD /;"	d	file:
+NR_HD	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static int NR_HD = 0;$/;"	v	typeref:typename:int	file:
+NR_INODE	oslab/linux-0.11/include/linux/fs.h	/^#define NR_INODE /;"	d
+NR_ITEMS	oslab/pc.c	/^const int NR_ITEMS = 50;                        \/* 产品的最大量 *\/$/;"	v	typeref:typename:const int
+NR_OPEN	oslab/linux-0.11/include/linux/fs.h	/^#define NR_OPEN /;"	d
+NR_REQUEST	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define NR_REQUEST	/;"	d
+NR_SUPER	oslab/linux-0.11/include/linux/fs.h	/^#define NR_SUPER /;"	d
+NR_TASKS	oslab/linux-0.11/include/linux/sched.h	/^#define NR_TASKS /;"	d
+NSIG	oslab/linux-0.11/include/signal.h	/^#define NSIG	/;"	d
+NULL	oslab/linux-0.11/include/linux/fs.h	/^#define NULL /;"	d
+NULL	oslab/linux-0.11/include/linux/sched.h	/^#define NULL /;"	d
+NULL	oslab/linux-0.11/include/stddef.h	/^#define NULL /;"	d
+NULL	oslab/linux-0.11/include/string.h	/^#define NULL /;"	d
+NULL	oslab/linux-0.11/include/sys/types.h	/^#define NULL /;"	d
+NULL	oslab/linux-0.11/include/unistd.h	/^#define NULL /;"	d
+N_ABS	oslab/linux-0.11/include/a.out.h	/^#define N_ABS /;"	d
+N_BADMAG	oslab/linux-0.11/include/a.out.h	/^#define N_BADMAG(/;"	d
+N_BSS	oslab/linux-0.11/include/a.out.h	/^#define N_BSS /;"	d
+N_BSSADDR	oslab/linux-0.11/include/a.out.h	/^#define N_BSSADDR(/;"	d
+N_COMM	oslab/linux-0.11/include/a.out.h	/^#define N_COMM /;"	d
+N_DATA	oslab/linux-0.11/include/a.out.h	/^#define N_DATA /;"	d
+N_DATADDR	oslab/linux-0.11/include/a.out.h	/^#define N_DATADDR(/;"	d
+N_DATOFF	oslab/linux-0.11/include/a.out.h	/^#define N_DATOFF(/;"	d
+N_DRELOFF	oslab/linux-0.11/include/a.out.h	/^#define N_DRELOFF(/;"	d
+N_EXT	oslab/linux-0.11/include/a.out.h	/^#define N_EXT /;"	d
+N_FN	oslab/linux-0.11/include/a.out.h	/^#define N_FN /;"	d
+N_INDR	oslab/linux-0.11/include/a.out.h	/^#define N_INDR /;"	d
+N_MAGIC	oslab/linux-0.11/include/a.out.h	/^#define N_MAGIC(/;"	d
+N_SETA	oslab/linux-0.11/include/a.out.h	/^#define	N_SETA	/;"	d
+N_SETB	oslab/linux-0.11/include/a.out.h	/^#define	N_SETB	/;"	d
+N_SETD	oslab/linux-0.11/include/a.out.h	/^#define	N_SETD	/;"	d
+N_SETT	oslab/linux-0.11/include/a.out.h	/^#define	N_SETT	/;"	d
+N_SETV	oslab/linux-0.11/include/a.out.h	/^#define N_SETV	/;"	d
+N_STAB	oslab/linux-0.11/include/a.out.h	/^#define N_STAB /;"	d
+N_STROFF	oslab/linux-0.11/include/a.out.h	/^#define N_STROFF(/;"	d
+N_SYMOFF	oslab/linux-0.11/include/a.out.h	/^#define N_SYMOFF(/;"	d
+N_TEXT	oslab/linux-0.11/include/a.out.h	/^#define N_TEXT /;"	d
+N_TRELOFF	oslab/linux-0.11/include/a.out.h	/^#define N_TRELOFF(/;"	d
+N_TXTADDR	oslab/linux-0.11/include/a.out.h	/^#define N_TXTADDR(/;"	d
+N_TXTOFF	oslab/linux-0.11/include/a.out.h	/^#define N_TXTOFF(/;"	d
+N_TYPE	oslab/linux-0.11/include/a.out.h	/^#define N_TYPE /;"	d
+N_UNDF	oslab/linux-0.11/include/a.out.h	/^#define N_UNDF /;"	d
+OBJS	oslab/linux-0.11/fs/Makefile	/^OBJS=	open.o read_write.o inode.o file_table.o buffer.o super.o \\$/;"	m
+OBJS	oslab/linux-0.11/kernel/Makefile	/^OBJS  = sched.o system_call.o traps.o asm.o fork.o \\$/;"	m
+OBJS	oslab/linux-0.11/kernel/blk_drv/Makefile	/^OBJS  = ll_rw_blk.o floppy.o hd.o ramdisk.o$/;"	m
+OBJS	oslab/linux-0.11/kernel/chr_drv/Makefile	/^OBJS  = tty_io.o console.o keyboard.o serial.o rs_io.o \\$/;"	m
+OBJS	oslab/linux-0.11/kernel/math/Makefile	/^OBJS  = math_emulate.o$/;"	m
+OBJS	oslab/linux-0.11/lib/Makefile	/^OBJS  = ctype.o _exit.o open.o close.o errno.o write.o dup.o setsid.o \\$/;"	m
+OBJS	oslab/linux-0.11/mm/Makefile	/^OBJS	= memory.o page.o$/;"	m
+OCRNL	oslab/linux-0.11/include/termios.h	/^#define OCRNL	/;"	d
+OFDEL	oslab/linux-0.11/include/termios.h	/^#define OFDEL	/;"	d
+OFILL	oslab/linux-0.11/include/termios.h	/^#define OFILL	/;"	d
+OLCUC	oslab/linux-0.11/include/termios.h	/^#define OLCUC	/;"	d
+OMAGIC	oslab/linux-0.11/include/a.out.h	/^#define OMAGIC /;"	d
+ONLCR	oslab/linux-0.11/include/termios.h	/^#define ONLCR	/;"	d
+ONLRET	oslab/linux-0.11/include/termios.h	/^#define ONLRET	/;"	d
+ONOCR	oslab/linux-0.11/include/termios.h	/^#define ONOCR	/;"	d
+OPOST	oslab/linux-0.11/include/termios.h	/^#define OPOST	/;"	d
+ORIG_ROOT_DEV	oslab/linux-0.11/init/main.c	/^#define ORIG_ROOT_DEV /;"	d	file:
+ORIG_VIDEO_COLS	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_COLS /;"	d	file:
+ORIG_VIDEO_EGA_AX	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_EGA_AX	/;"	d	file:
+ORIG_VIDEO_EGA_BX	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_EGA_BX	/;"	d	file:
+ORIG_VIDEO_EGA_CX	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_EGA_CX	/;"	d	file:
+ORIG_VIDEO_LINES	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_LINES	/;"	d	file:
+ORIG_VIDEO_MODE	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_MODE	/;"	d	file:
+ORIG_VIDEO_PAGE	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_VIDEO_PAGE	/;"	d	file:
+ORIG_X	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_X	/;"	d	file:
+ORIG_Y	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define ORIG_Y	/;"	d	file:
+O_ACCMODE	oslab/linux-0.11/include/fcntl.h	/^#define O_ACCMODE	/;"	d
+O_APPEND	oslab/linux-0.11/include/fcntl.h	/^#define O_APPEND	/;"	d
+O_CREAT	oslab/linux-0.11/include/fcntl.h	/^#define O_CREAT	/;"	d
+O_CRNL	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_CRNL(/;"	d	file:
+O_EXCL	oslab/linux-0.11/include/fcntl.h	/^#define O_EXCL	/;"	d
+O_LCUC	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_LCUC(/;"	d	file:
+O_NDELAY	oslab/linux-0.11/include/fcntl.h	/^#define O_NDELAY	/;"	d
+O_NLCR	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_NLCR(/;"	d	file:
+O_NLRET	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_NLRET(/;"	d	file:
+O_NOCTTY	oslab/linux-0.11/include/fcntl.h	/^#define O_NOCTTY	/;"	d
+O_NONBLOCK	oslab/linux-0.11/include/fcntl.h	/^#define O_NONBLOCK	/;"	d
+O_POST	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define O_POST(/;"	d	file:
+O_RDONLY	oslab/linux-0.11/include/fcntl.h	/^#define O_RDONLY	/;"	d
+O_RDWR	oslab/linux-0.11/include/fcntl.h	/^#define O_RDWR	/;"	d
+O_TRUNC	oslab/linux-0.11/include/fcntl.h	/^#define O_TRUNC	/;"	d
+O_WRONLY	oslab/linux-0.11/include/fcntl.h	/^#define O_WRONLY	/;"	d
+PAGE_ALIGN	oslab/linux-0.11/include/linux/sched.h	/^#define PAGE_ALIGN(/;"	d
+PAGE_SIZE	oslab/linux-0.11/include/a.out.h	/^#define	PAGE_SIZE	/;"	d
+PAGE_SIZE	oslab/linux-0.11/include/a.out.h	/^#define PAGE_SIZE /;"	d
+PAGE_SIZE	oslab/linux-0.11/include/linux/mm.h	/^#define PAGE_SIZE /;"	d
+PAGING_MEMORY	oslab/linux-0.11/mm/memory.c	/^#define PAGING_MEMORY /;"	d	file:
+PAGING_PAGES	oslab/linux-0.11/mm/memory.c	/^#define PAGING_PAGES /;"	d	file:
+PANIC	oslab/linux-0.11/kernel/panic.c	/^#define PANIC$/;"	d	file:
+PARENB	oslab/linux-0.11/include/termios.h	/^#define PARENB /;"	d
+PARMRK	oslab/linux-0.11/include/termios.h	/^#define PARMRK	/;"	d
+PARODD	oslab/linux-0.11/include/termios.h	/^#define PARODD /;"	d
+PENDIN	oslab/linux-0.11/include/termios.h	/^#define PENDIN	/;"	d
+PIPE_EMPTY	oslab/linux-0.11/include/linux/fs.h	/^#define PIPE_EMPTY(/;"	d
+PIPE_FULL	oslab/linux-0.11/include/linux/fs.h	/^#define PIPE_FULL(/;"	d
+PIPE_HEAD	oslab/linux-0.11/include/linux/fs.h	/^#define PIPE_HEAD(/;"	d
+PIPE_SIZE	oslab/linux-0.11/include/linux/fs.h	/^#define PIPE_SIZE(/;"	d
+PIPE_TAIL	oslab/linux-0.11/include/linux/fs.h	/^#define PIPE_TAIL(/;"	d
+PLUS	oslab/linux-0.11/kernel/vsprintf.c	/^#define PLUS	/;"	d	file:
+PUTCH	oslab/linux-0.11/include/linux/tty.h	/^#define PUTCH(/;"	d
+QUITMASK	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define QUITMASK /;"	d	file:
+QUIT_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define QUIT_CHAR(/;"	d
+RAMDISK	oslab/linux-0.11/Makefile	/^RAMDISK =  #-DRAMDISK=512$/;"	m
+READ	oslab/linux-0.11/include/linux/fs.h	/^#define READ /;"	d
+READA	oslab/linux-0.11/include/linux/fs.h	/^#define READA /;"	d
+READY_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define READY_STAT	/;"	d
+RESPONSE	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define RESPONSE /;"	d	file:
+ROOT_DEV	oslab/linux-0.11/Makefile	/^ROOT_DEV= #FLOPPY $/;"	m
+ROOT_DEV	oslab/linux-0.11/fs/super.c	/^int ROOT_DEV = 0;$/;"	v	typeref:typename:int
+ROOT_INO	oslab/linux-0.11/include/linux/fs.h	/^#define ROOT_INO /;"	d
+R_OK	oslab/linux-0.11/include/unistd.h	/^#define R_OK	/;"	d
+SA_NOCLDSTOP	oslab/linux-0.11/include/signal.h	/^#define SA_NOCLDSTOP	/;"	d
+SA_NOMASK	oslab/linux-0.11/include/signal.h	/^#define SA_NOMASK	/;"	d
+SA_ONESHOT	oslab/linux-0.11/include/signal.h	/^#define SA_ONESHOT	/;"	d
+SEEK_CUR	oslab/linux-0.11/include/unistd.h	/^#define SEEK_CUR	/;"	d
+SEEK_END	oslab/linux-0.11/include/unistd.h	/^#define SEEK_END	/;"	d
+SEEK_SET	oslab/linux-0.11/include/unistd.h	/^#define SEEK_SET	/;"	d
+SEEK_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define SEEK_STAT	/;"	d
+SEGMENT_SIZE	oslab/linux-0.11/include/a.out.h	/^#define	SEGMENT_SIZE	/;"	d
+SEGMENT_SIZE	oslab/linux-0.11/include/a.out.h	/^#define SEGMENT_SIZE /;"	d
+SEM_LIST_LENGTH	oslab/linux-0.11/kernel/sem.c	/^#define SEM_LIST_LENGTH /;"	d	file:
+SETUP_SECTS	oslab/linux-0.11/tools/build.c	/^#define SETUP_SECTS /;"	d	file:
+SIGABRT	oslab/linux-0.11/include/signal.h	/^#define SIGABRT	/;"	d
+SIGALRM	oslab/linux-0.11/include/signal.h	/^#define SIGALRM	/;"	d
+SIGCHLD	oslab/linux-0.11/include/signal.h	/^#define SIGCHLD	/;"	d
+SIGCONT	oslab/linux-0.11/include/signal.h	/^#define SIGCONT	/;"	d
+SIGFPE	oslab/linux-0.11/include/signal.h	/^#define SIGFPE	/;"	d
+SIGHUP	oslab/linux-0.11/include/signal.h	/^#define SIGHUP	/;"	d
+SIGILL	oslab/linux-0.11/include/signal.h	/^#define SIGILL	/;"	d
+SIGINT	oslab/linux-0.11/include/signal.h	/^#define SIGINT	/;"	d
+SIGIOT	oslab/linux-0.11/include/signal.h	/^#define SIGIOT	/;"	d
+SIGKILL	oslab/linux-0.11/include/signal.h	/^#define SIGKILL	/;"	d
+SIGN	oslab/linux-0.11/kernel/vsprintf.c	/^#define SIGN	/;"	d	file:
+SIGPIPE	oslab/linux-0.11/include/signal.h	/^#define SIGPIPE	/;"	d
+SIGQUIT	oslab/linux-0.11/include/signal.h	/^#define SIGQUIT	/;"	d
+SIGSEGV	oslab/linux-0.11/include/signal.h	/^#define SIGSEGV	/;"	d
+SIGSTKFLT	oslab/linux-0.11/include/signal.h	/^#define SIGSTKFLT	/;"	d
+SIGSTOP	oslab/linux-0.11/include/signal.h	/^#define SIGSTOP	/;"	d
+SIGTERM	oslab/linux-0.11/include/signal.h	/^#define SIGTERM	/;"	d
+SIGTRAP	oslab/linux-0.11/include/signal.h	/^#define SIGTRAP	/;"	d
+SIGTSTP	oslab/linux-0.11/include/signal.h	/^#define SIGTSTP	/;"	d
+SIGTTIN	oslab/linux-0.11/include/signal.h	/^#define SIGTTIN	/;"	d
+SIGTTOU	oslab/linux-0.11/include/signal.h	/^#define SIGTTOU	/;"	d
+SIGUNUSED	oslab/linux-0.11/include/signal.h	/^#define SIGUNUSED	/;"	d
+SIGUSR1	oslab/linux-0.11/include/signal.h	/^#define SIGUSR1	/;"	d
+SIGUSR2	oslab/linux-0.11/include/signal.h	/^#define SIGUSR2	/;"	d
+SIG_BLOCK	oslab/linux-0.11/include/signal.h	/^#define SIG_BLOCK /;"	d
+SIG_DFL	oslab/linux-0.11/include/signal.h	/^#define SIG_DFL	/;"	d
+SIG_IGN	oslab/linux-0.11/include/signal.h	/^#define SIG_IGN	/;"	d
+SIG_SETMASK	oslab/linux-0.11/include/signal.h	/^#define SIG_SETMASK /;"	d
+SIG_UNBLOCK	oslab/linux-0.11/include/signal.h	/^#define SIG_UNBLOCK /;"	d
+SMALL	oslab/linux-0.11/kernel/vsprintf.c	/^#define SMALL	/;"	d	file:
+SPACE	oslab/linux-0.11/kernel/vsprintf.c	/^#define SPACE	/;"	d	file:
+SPECIAL	oslab/linux-0.11/kernel/vsprintf.c	/^#define SPECIAL	/;"	d	file:
+ST0	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define ST0 /;"	d	file:
+ST0_DS	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST0_DS	/;"	d
+ST0_ECE	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST0_ECE	/;"	d
+ST0_HA	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST0_HA	/;"	d
+ST0_INTR	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST0_INTR	/;"	d
+ST0_NR	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST0_NR	/;"	d
+ST0_SE	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST0_SE	/;"	d
+ST1	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define ST1 /;"	d	file:
+ST1_CRC	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST1_CRC	/;"	d
+ST1_EOC	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST1_EOC	/;"	d
+ST1_MAM	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST1_MAM	/;"	d
+ST1_ND	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST1_ND	/;"	d
+ST1_OR	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST1_OR	/;"	d
+ST1_WP	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST1_WP	/;"	d
+ST2	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define ST2 /;"	d	file:
+ST2_BC	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST2_BC	/;"	d
+ST2_CM	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST2_CM	/;"	d
+ST2_CRC	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST2_CRC	/;"	d
+ST2_MAM	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST2_MAM	/;"	d
+ST2_SEH	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST2_SEH	/;"	d
+ST2_SNS	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST2_SNS	/;"	d
+ST2_WC	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST2_WC	/;"	d
+ST3	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define ST3 /;"	d	file:
+ST3_HA	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST3_HA	/;"	d
+ST3_TZ	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST3_TZ	/;"	d
+ST3_WP	oslab/linux-0.11/include/linux/fdreg.h	/^#define ST3_WP	/;"	d
+START_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define START_CHAR(/;"	d
+STATUS_BUSY	oslab/linux-0.11/include/linux/fdreg.h	/^#define STATUS_BUSY	/;"	d
+STATUS_BUSYMASK	oslab/linux-0.11/include/linux/fdreg.h	/^#define STATUS_BUSYMASK	/;"	d
+STATUS_DIR	oslab/linux-0.11/include/linux/fdreg.h	/^#define STATUS_DIR	/;"	d
+STATUS_DMA	oslab/linux-0.11/include/linux/fdreg.h	/^#define STATUS_DMA	/;"	d
+STATUS_READY	oslab/linux-0.11/include/linux/fdreg.h	/^#define STATUS_READY	/;"	d
+STDERR_FILENO	oslab/linux-0.11/include/unistd.h	/^#define STDERR_FILENO	/;"	d
+STDIN_FILENO	oslab/linux-0.11/include/unistd.h	/^#define STDIN_FILENO	/;"	d
+STDOUT_FILENO	oslab/linux-0.11/include/unistd.h	/^#define STDOUT_FILENO	/;"	d
+STOP_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define STOP_CHAR(/;"	d
+STRINGIFY	oslab/linux-0.11/tools/build.c	/^#define STRINGIFY(/;"	d	file:
+SUPER_MAGIC	oslab/linux-0.11/include/linux/fs.h	/^#define SUPER_MAGIC /;"	d
+SUSPEND_CHAR	oslab/linux-0.11/include/linux/tty.h	/^#define SUSPEND_CHAR(/;"	d
+SYS_SIZE	oslab/linux-0.11/tools/build.c	/^#define SYS_SIZE /;"	d	file:
+S_IFBLK	oslab/linux-0.11/include/sys/stat.h	/^#define S_IFBLK /;"	d
+S_IFCHR	oslab/linux-0.11/include/sys/stat.h	/^#define S_IFCHR /;"	d
+S_IFDIR	oslab/linux-0.11/include/sys/stat.h	/^#define S_IFDIR /;"	d
+S_IFIFO	oslab/linux-0.11/include/sys/stat.h	/^#define S_IFIFO /;"	d
+S_IFMT	oslab/linux-0.11/include/sys/stat.h	/^#define S_IFMT /;"	d
+S_IFREG	oslab/linux-0.11/include/sys/stat.h	/^#define S_IFREG /;"	d
+S_IRGRP	oslab/linux-0.11/include/sys/stat.h	/^#define S_IRGRP /;"	d
+S_IROTH	oslab/linux-0.11/include/sys/stat.h	/^#define S_IROTH /;"	d
+S_IRUSR	oslab/linux-0.11/include/sys/stat.h	/^#define S_IRUSR /;"	d
+S_IRWXG	oslab/linux-0.11/include/sys/stat.h	/^#define S_IRWXG /;"	d
+S_IRWXO	oslab/linux-0.11/include/sys/stat.h	/^#define S_IRWXO /;"	d
+S_IRWXU	oslab/linux-0.11/include/sys/stat.h	/^#define S_IRWXU /;"	d
+S_ISBLK	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISBLK(/;"	d
+S_ISCHR	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISCHR(/;"	d
+S_ISDIR	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISDIR(/;"	d
+S_ISFIFO	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISFIFO(/;"	d
+S_ISGID	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISGID /;"	d
+S_ISREG	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISREG(/;"	d
+S_ISUID	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISUID /;"	d
+S_ISVTX	oslab/linux-0.11/include/sys/stat.h	/^#define S_ISVTX /;"	d
+S_IWGRP	oslab/linux-0.11/include/sys/stat.h	/^#define S_IWGRP /;"	d
+S_IWOTH	oslab/linux-0.11/include/sys/stat.h	/^#define S_IWOTH /;"	d
+S_IWUSR	oslab/linux-0.11/include/sys/stat.h	/^#define S_IWUSR /;"	d
+S_IXGRP	oslab/linux-0.11/include/sys/stat.h	/^#define S_IXGRP /;"	d
+S_IXOTH	oslab/linux-0.11/include/sys/stat.h	/^#define S_IXOTH /;"	d
+S_IXUSR	oslab/linux-0.11/include/sys/stat.h	/^#define S_IXUSR /;"	d
+TAB0	oslab/linux-0.11/include/termios.h	/^#define   TAB0	/;"	d
+TAB1	oslab/linux-0.11/include/termios.h	/^#define   TAB1	/;"	d
+TAB2	oslab/linux-0.11/include/termios.h	/^#define   TAB2	/;"	d
+TAB3	oslab/linux-0.11/include/termios.h	/^#define   TAB3	/;"	d
+TABDLY	oslab/linux-0.11/include/termios.h	/^#define TABDLY	/;"	d
+TASK_INTERRUPTIBLE	oslab/linux-0.11/include/linux/sched.h	/^#define TASK_INTERRUPTIBLE	/;"	d
+TASK_RUNNING	oslab/linux-0.11/include/linux/sched.h	/^#define TASK_RUNNING	/;"	d
+TASK_STOPPED	oslab/linux-0.11/include/linux/sched.h	/^#define TASK_STOPPED	/;"	d
+TASK_UNINTERRUPTIBLE	oslab/linux-0.11/include/linux/sched.h	/^#define TASK_UNINTERRUPTIBLE	/;"	d
+TASK_ZOMBIE	oslab/linux-0.11/include/linux/sched.h	/^#define TASK_ZOMBIE	/;"	d
+TCFLSH	oslab/linux-0.11/include/termios.h	/^#define TCFLSH	/;"	d
+TCGETA	oslab/linux-0.11/include/termios.h	/^#define TCGETA	/;"	d
+TCGETS	oslab/linux-0.11/include/termios.h	/^#define TCGETS	/;"	d
+TCIFLUSH	oslab/linux-0.11/include/termios.h	/^#define	TCIFLUSH	/;"	d
+TCIOFF	oslab/linux-0.11/include/termios.h	/^#define	TCIOFF	/;"	d
+TCIOFLUSH	oslab/linux-0.11/include/termios.h	/^#define	TCIOFLUSH	/;"	d
+TCION	oslab/linux-0.11/include/termios.h	/^#define	TCION	/;"	d
+TCOFLUSH	oslab/linux-0.11/include/termios.h	/^#define	TCOFLUSH	/;"	d
+TCOOFF	oslab/linux-0.11/include/termios.h	/^#define	TCOOFF	/;"	d
+TCOON	oslab/linux-0.11/include/termios.h	/^#define	TCOON	/;"	d
+TCSADRAIN	oslab/linux-0.11/include/termios.h	/^#define	TCSADRAIN	/;"	d
+TCSAFLUSH	oslab/linux-0.11/include/termios.h	/^#define	TCSAFLUSH	/;"	d
+TCSANOW	oslab/linux-0.11/include/termios.h	/^#define	TCSANOW	/;"	d
+TCSBRK	oslab/linux-0.11/include/termios.h	/^#define TCSBRK	/;"	d
+TCSETA	oslab/linux-0.11/include/termios.h	/^#define TCSETA	/;"	d
+TCSETAF	oslab/linux-0.11/include/termios.h	/^#define TCSETAF	/;"	d
+TCSETAW	oslab/linux-0.11/include/termios.h	/^#define TCSETAW	/;"	d
+TCSETS	oslab/linux-0.11/include/termios.h	/^#define TCSETS	/;"	d
+TCSETSF	oslab/linux-0.11/include/termios.h	/^#define TCSETSF	/;"	d
+TCSETSW	oslab/linux-0.11/include/termios.h	/^#define TCSETSW	/;"	d
+TCXONC	oslab/linux-0.11/include/termios.h	/^#define TCXONC	/;"	d
+TIME_REQUESTS	oslab/linux-0.11/kernel/sched.c	/^#define TIME_REQUESTS /;"	d	file:
+TIOCEXCL	oslab/linux-0.11/include/termios.h	/^#define TIOCEXCL	/;"	d
+TIOCGPGRP	oslab/linux-0.11/include/termios.h	/^#define TIOCGPGRP	/;"	d
+TIOCGSOFTCAR	oslab/linux-0.11/include/termios.h	/^#define TIOCGSOFTCAR	/;"	d
+TIOCGWINSZ	oslab/linux-0.11/include/termios.h	/^#define TIOCGWINSZ	/;"	d
+TIOCINQ	oslab/linux-0.11/include/termios.h	/^#define TIOCINQ	/;"	d
+TIOCMBIC	oslab/linux-0.11/include/termios.h	/^#define TIOCMBIC	/;"	d
+TIOCMBIS	oslab/linux-0.11/include/termios.h	/^#define TIOCMBIS	/;"	d
+TIOCMGET	oslab/linux-0.11/include/termios.h	/^#define TIOCMGET	/;"	d
+TIOCMSET	oslab/linux-0.11/include/termios.h	/^#define TIOCMSET	/;"	d
+TIOCM_CAR	oslab/linux-0.11/include/termios.h	/^#define TIOCM_CAR	/;"	d
+TIOCM_CD	oslab/linux-0.11/include/termios.h	/^#define TIOCM_CD	/;"	d
+TIOCM_CTS	oslab/linux-0.11/include/termios.h	/^#define TIOCM_CTS	/;"	d
+TIOCM_DSR	oslab/linux-0.11/include/termios.h	/^#define TIOCM_DSR	/;"	d
+TIOCM_DTR	oslab/linux-0.11/include/termios.h	/^#define TIOCM_DTR	/;"	d
+TIOCM_LE	oslab/linux-0.11/include/termios.h	/^#define TIOCM_LE	/;"	d
+TIOCM_RI	oslab/linux-0.11/include/termios.h	/^#define TIOCM_RI	/;"	d
+TIOCM_RNG	oslab/linux-0.11/include/termios.h	/^#define TIOCM_RNG	/;"	d
+TIOCM_RTS	oslab/linux-0.11/include/termios.h	/^#define TIOCM_RTS	/;"	d
+TIOCM_SR	oslab/linux-0.11/include/termios.h	/^#define TIOCM_SR	/;"	d
+TIOCM_ST	oslab/linux-0.11/include/termios.h	/^#define TIOCM_ST	/;"	d
+TIOCNXCL	oslab/linux-0.11/include/termios.h	/^#define TIOCNXCL	/;"	d
+TIOCOUTQ	oslab/linux-0.11/include/termios.h	/^#define TIOCOUTQ	/;"	d
+TIOCSCTTY	oslab/linux-0.11/include/termios.h	/^#define TIOCSCTTY	/;"	d
+TIOCSPGRP	oslab/linux-0.11/include/termios.h	/^#define TIOCSPGRP	/;"	d
+TIOCSSOFTCAR	oslab/linux-0.11/include/termios.h	/^#define TIOCSSOFTCAR	/;"	d
+TIOCSTI	oslab/linux-0.11/include/termios.h	/^#define TIOCSTI	/;"	d
+TIOCSWINSZ	oslab/linux-0.11/include/termios.h	/^#define TIOCSWINSZ	/;"	d
+TOSTOP	oslab/linux-0.11/include/termios.h	/^#define TOSTOP	/;"	d
+TRK0_ERR	oslab/linux-0.11/include/linux/hdreg.h	/^#define TRK0_ERR	/;"	d
+TSTPMASK	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define TSTPMASK /;"	d	file:
+TTY_BUF_SIZE	oslab/linux-0.11/include/linux/tty.h	/^#define TTY_BUF_SIZE /;"	d
+TTY_BUF_SIZE	oslab/linux-0.11/include/termios.h	/^#define TTY_BUF_SIZE /;"	d
+TYPE	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define TYPE(/;"	d	file:
+USED	oslab/linux-0.11/mm/memory.c	/^#define USED /;"	d	file:
+VDISCARD	oslab/linux-0.11/include/termios.h	/^#define VDISCARD /;"	d
+VEOF	oslab/linux-0.11/include/termios.h	/^#define VEOF /;"	d
+VEOL	oslab/linux-0.11/include/termios.h	/^#define VEOL /;"	d
+VEOL2	oslab/linux-0.11/include/termios.h	/^#define VEOL2 /;"	d
+VERASE	oslab/linux-0.11/include/termios.h	/^#define VERASE /;"	d
+VIDEO_TYPE_CGA	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_CGA	/;"	d	file:
+VIDEO_TYPE_EGAC	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_EGAC	/;"	d	file:
+VIDEO_TYPE_EGAM	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_EGAM	/;"	d	file:
+VIDEO_TYPE_MDA	oslab/linux-0.11/kernel/chr_drv/console.c	/^#define VIDEO_TYPE_MDA	/;"	d	file:
+VINTR	oslab/linux-0.11/include/termios.h	/^#define VINTR /;"	d
+VKILL	oslab/linux-0.11/include/termios.h	/^#define VKILL /;"	d
+VLNEXT	oslab/linux-0.11/include/termios.h	/^#define VLNEXT /;"	d
+VMIN	oslab/linux-0.11/include/termios.h	/^#define VMIN /;"	d
+VQUIT	oslab/linux-0.11/include/termios.h	/^#define VQUIT /;"	d
+VREPRINT	oslab/linux-0.11/include/termios.h	/^#define VREPRINT /;"	d
+VSTART	oslab/linux-0.11/include/termios.h	/^#define VSTART /;"	d
+VSTOP	oslab/linux-0.11/include/termios.h	/^#define VSTOP /;"	d
+VSUSP	oslab/linux-0.11/include/termios.h	/^#define VSUSP /;"	d
+VSWTC	oslab/linux-0.11/include/termios.h	/^#define VSWTC /;"	d
+VT0	oslab/linux-0.11/include/termios.h	/^#define   VT0	/;"	d
+VT1	oslab/linux-0.11/include/termios.h	/^#define   VT1	/;"	d
+VTDLY	oslab/linux-0.11/include/termios.h	/^#define VTDLY	/;"	d
+VTIME	oslab/linux-0.11/include/termios.h	/^#define VTIME /;"	d
+VWERASE	oslab/linux-0.11/include/termios.h	/^#define VWERASE /;"	d
+WAKEUP_CHARS	oslab/linux-0.11/kernel/chr_drv/serial.c	/^#define WAKEUP_CHARS /;"	d	file:
+WEXITSTATUS	oslab/linux-0.11/include/sys/wait.h	/^#define WEXITSTATUS(/;"	d
+WIFEXITED	oslab/linux-0.11/include/sys/wait.h	/^#define WIFEXITED(/;"	d
+WIFSIGNALED	oslab/linux-0.11/include/sys/wait.h	/^#define WIFSIGNALED(/;"	d
+WIFSTOPPED	oslab/linux-0.11/include/sys/wait.h	/^#define WIFSTOPPED(/;"	d
+WIN_DIAGNOSE	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_DIAGNOSE	/;"	d
+WIN_FORMAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_FORMAT	/;"	d
+WIN_INIT	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_INIT	/;"	d
+WIN_READ	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_READ	/;"	d
+WIN_RESTORE	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_RESTORE	/;"	d
+WIN_SEEK	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_SEEK /;"	d
+WIN_SPECIFY	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_SPECIFY	/;"	d
+WIN_VERIFY	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_VERIFY	/;"	d
+WIN_WRITE	oslab/linux-0.11/include/linux/hdreg.h	/^#define WIN_WRITE	/;"	d
+WNOHANG	oslab/linux-0.11/include/sys/wait.h	/^#define WNOHANG	/;"	d
+WRERR_STAT	oslab/linux-0.11/include/linux/hdreg.h	/^#define WRERR_STAT	/;"	d
+WRITE	oslab/linux-0.11/include/linux/fs.h	/^#define WRITE /;"	d
+WRITEA	oslab/linux-0.11/include/linux/fs.h	/^#define WRITEA /;"	d
+WSTOPSIG	oslab/linux-0.11/include/sys/wait.h	/^#define WSTOPSIG(/;"	d
+WTERMSIG	oslab/linux-0.11/include/sys/wait.h	/^#define WTERMSIG(/;"	d
+WUNTRACED	oslab/linux-0.11/include/sys/wait.h	/^#define WUNTRACED	/;"	d
+W_OK	oslab/linux-0.11/include/unistd.h	/^#define W_OK	/;"	d
+XCASE	oslab/linux-0.11/include/termios.h	/^#define XCASE	/;"	d
+XTABS	oslab/linux-0.11/include/termios.h	/^#define   XTABS	/;"	d
+X_OK	oslab/linux-0.11/include/unistd.h	/^#define X_OK	/;"	d
+YEAR	oslab/linux-0.11/kernel/mktime.c	/^#define YEAR /;"	d	file:
+ZEROPAD	oslab/linux-0.11/kernel/vsprintf.c	/^#define ZEROPAD	/;"	d	file:
+ZMAGIC	oslab/linux-0.11/include/a.out.h	/^#define ZMAGIC /;"	d
+Z_MAP_SLOTS	oslab/linux-0.11/include/linux/fs.h	/^#define Z_MAP_SLOTS /;"	d
+_A_OUT_H	oslab/linux-0.11/include/a.out.h	/^#define _A_OUT_H$/;"	d
+_BLK_H	oslab/linux-0.11/kernel/blk_drv/blk.h	/^#define _BLK_H$/;"	d
+_BLOCKABLE	oslab/linux-0.11/kernel/sched.c	/^#define _BLOCKABLE /;"	d	file:
+_C	oslab/linux-0.11/include/ctype.h	/^#define _C	/;"	d
+_CONFIG_H	oslab/linux-0.11/include/linux/config.h	/^#define _CONFIG_H$/;"	d
+_CONST_H	oslab/linux-0.11/include/const.h	/^#define _CONST_H$/;"	d
+_CTYPE_H	oslab/linux-0.11/include/ctype.h	/^#define _CTYPE_H$/;"	d
+_D	oslab/linux-0.11/include/ctype.h	/^#define _D	/;"	d
+_ERRNO_H	oslab/linux-0.11/include/errno.h	/^#define _ERRNO_H$/;"	d
+_FCNTL_H	oslab/linux-0.11/include/fcntl.h	/^#define _FCNTL_H$/;"	d
+_FDREG_H	oslab/linux-0.11/include/linux/fdreg.h	/^#define _FDREG_H$/;"	d
+_FS_H	oslab/linux-0.11/include/linux/fs.h	/^#define _FS_H$/;"	d
+_HDREG_H	oslab/linux-0.11/include/linux/hdreg.h	/^#define _HDREG_H$/;"	d
+_HEAD_H	oslab/linux-0.11/include/linux/head.h	/^#define _HEAD_H$/;"	d
+_HIGH	oslab/linux-0.11/include/sys/wait.h	/^#define _HIGH(/;"	d
+_I_FLAG	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define _I_FLAG(/;"	d	file:
+_L	oslab/linux-0.11/include/ctype.h	/^#define _L	/;"	d
+_LDT	oslab/linux-0.11/include/linux/sched.h	/^#define _LDT(/;"	d
+_LOW	oslab/linux-0.11/include/sys/wait.h	/^#define _LOW(/;"	d
+_L_FLAG	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define _L_FLAG(/;"	d	file:
+_MM_H	oslab/linux-0.11/include/linux/mm.h	/^#define _MM_H$/;"	d
+_NSIG	oslab/linux-0.11/include/signal.h	/^#define _NSIG /;"	d
+_N_BADMAG	oslab/linux-0.11/include/a.out.h	/^#define _N_BADMAG(/;"	d
+_N_HDROFF	oslab/linux-0.11/include/a.out.h	/^#define _N_HDROFF(/;"	d
+_N_SEGMENT_ROUND	oslab/linux-0.11/include/a.out.h	/^#define _N_SEGMENT_ROUND(/;"	d
+_N_TXTENDADDR	oslab/linux-0.11/include/a.out.h	/^#define _N_TXTENDADDR(/;"	d
+_O_FLAG	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^#define _O_FLAG(/;"	d	file:
+_P	oslab/linux-0.11/include/ctype.h	/^#define _P	/;"	d
+_PC_CHOWN_RESTRICTED	oslab/linux-0.11/include/unistd.h	/^#define _PC_CHOWN_RESTRICTED	/;"	d
+_PC_LINK_MAX	oslab/linux-0.11/include/unistd.h	/^#define _PC_LINK_MAX	/;"	d
+_PC_MAX_CANON	oslab/linux-0.11/include/unistd.h	/^#define _PC_MAX_CANON	/;"	d
+_PC_MAX_INPUT	oslab/linux-0.11/include/unistd.h	/^#define _PC_MAX_INPUT	/;"	d
+_PC_NAME_MAX	oslab/linux-0.11/include/unistd.h	/^#define _PC_NAME_MAX	/;"	d
+_PC_NO_TRUNC	oslab/linux-0.11/include/unistd.h	/^#define _PC_NO_TRUNC	/;"	d
+_PC_PATH_MAX	oslab/linux-0.11/include/unistd.h	/^#define _PC_PATH_MAX	/;"	d
+_PC_PIPE_BUF	oslab/linux-0.11/include/unistd.h	/^#define _PC_PIPE_BUF	/;"	d
+_PC_VDISABLE	oslab/linux-0.11/include/unistd.h	/^#define _PC_VDISABLE	/;"	d
+_POSIX_CHOWN_RESTRICTED	oslab/linux-0.11/include/unistd.h	/^#define _POSIX_CHOWN_RESTRICTED	/;"	d
+_POSIX_NO_TRUNC	oslab/linux-0.11/include/unistd.h	/^#define _POSIX_NO_TRUNC	/;"	d
+_POSIX_VDISABLE	oslab/linux-0.11/include/unistd.h	/^#define _POSIX_VDISABLE /;"	d
+_POSIX_VERSION	oslab/linux-0.11/include/unistd.h	/^#define _POSIX_VERSION /;"	d
+_PTRDIFF_T	oslab/linux-0.11/include/stddef.h	/^#define _PTRDIFF_T$/;"	d
+_PTRDIFF_T	oslab/linux-0.11/include/sys/types.h	/^#define _PTRDIFF_T$/;"	d
+_S	oslab/linux-0.11/include/ctype.h	/^#define _S	/;"	d
+_S	oslab/linux-0.11/kernel/sched.c	/^#define _S(/;"	d	file:
+_SCHED_H	oslab/linux-0.11/include/linux/sched.h	/^#define _SCHED_H$/;"	d
+_SC_ARG_MAX	oslab/linux-0.11/include/unistd.h	/^#define _SC_ARG_MAX	/;"	d
+_SC_CHILD_MAX	oslab/linux-0.11/include/unistd.h	/^#define _SC_CHILD_MAX	/;"	d
+_SC_CLOCKS_PER_SEC	oslab/linux-0.11/include/unistd.h	/^#define _SC_CLOCKS_PER_SEC	/;"	d
+_SC_JOB_CONTROL	oslab/linux-0.11/include/unistd.h	/^#define _SC_JOB_CONTROL	/;"	d
+_SC_NGROUPS_MAX	oslab/linux-0.11/include/unistd.h	/^#define _SC_NGROUPS_MAX	/;"	d
+_SC_OPEN_MAX	oslab/linux-0.11/include/unistd.h	/^#define _SC_OPEN_MAX	/;"	d
+_SC_SAVED_IDS	oslab/linux-0.11/include/unistd.h	/^#define _SC_SAVED_IDS	/;"	d
+_SC_VERSION	oslab/linux-0.11/include/unistd.h	/^#define _SC_VERSION	/;"	d
+_SEM_H_	oslab/linux-0.11/include/linux/sem.h	/^# define _SEM_H_$/;"	d
+_SIGNAL_H	oslab/linux-0.11/include/signal.h	/^#define _SIGNAL_H$/;"	d
+_SIZE_T	oslab/linux-0.11/include/stddef.h	/^#define _SIZE_T$/;"	d
+_SIZE_T	oslab/linux-0.11/include/string.h	/^#define _SIZE_T$/;"	d
+_SIZE_T	oslab/linux-0.11/include/sys/types.h	/^#define _SIZE_T$/;"	d
+_SIZE_T	oslab/linux-0.11/include/time.h	/^#define _SIZE_T$/;"	d
+_SP	oslab/linux-0.11/include/ctype.h	/^#define _SP	/;"	d
+_STDARG_H	oslab/linux-0.11/include/stdarg.h	/^#define _STDARG_H$/;"	d
+_STDDEF_H	oslab/linux-0.11/include/stddef.h	/^#define _STDDEF_H$/;"	d
+_STRING_H_	oslab/linux-0.11/include/string.h	/^#define _STRING_H_$/;"	d
+_SYS_STAT_H	oslab/linux-0.11/include/sys/stat.h	/^#define _SYS_STAT_H$/;"	d
+_SYS_TYPES_H	oslab/linux-0.11/include/sys/types.h	/^#define _SYS_TYPES_H$/;"	d
+_SYS_UTSNAME_H	oslab/linux-0.11/include/sys/utsname.h	/^#define _SYS_UTSNAME_H$/;"	d
+_SYS_WAIT_H	oslab/linux-0.11/include/sys/wait.h	/^#define _SYS_WAIT_H$/;"	d
+_TERMIOS_H	oslab/linux-0.11/include/termios.h	/^#define _TERMIOS_H$/;"	d
+_TIMES_H	oslab/linux-0.11/include/sys/times.h	/^#define _TIMES_H$/;"	d
+_TIME_H	oslab/linux-0.11/include/time.h	/^#define _TIME_H$/;"	d
+_TIME_T	oslab/linux-0.11/include/sys/types.h	/^#define _TIME_T$/;"	d
+_TIME_T	oslab/linux-0.11/include/time.h	/^#define _TIME_T$/;"	d
+_TSS	oslab/linux-0.11/include/linux/sched.h	/^#define _TSS(/;"	d
+_TTY_H	oslab/linux-0.11/include/linux/tty.h	/^#define _TTY_H$/;"	d
+_U	oslab/linux-0.11/include/ctype.h	/^#define _U	/;"	d
+_UNISTD_H	oslab/linux-0.11/include/unistd.h	/^#define _UNISTD_H$/;"	d
+_UTIME_H	oslab/linux-0.11/include/utime.h	/^#define _UTIME_H$/;"	d
+_X	oslab/linux-0.11/include/ctype.h	/^#define _X	/;"	d
+__GNU_EXEC_MACROS__	oslab/linux-0.11/include/a.out.h	/^#define __GNU_EXEC_MACROS__$/;"	d
+__LIBRARY__	oslab/iam.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/init/main.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/_exit.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/close.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/dup.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/execve.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/open.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/setsid.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/string.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/wait.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/linux-0.11/lib/write.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/pc.c	/^#define __LIBRARY__$/;"	d	file:
+__LIBRARY__	oslab/whoami.c	/^#define __LIBRARY__$/;"	d	file:
+__NR_access	oslab/linux-0.11/include/unistd.h	/^#define __NR_access	/;"	d
+__NR_acct	oslab/linux-0.11/include/unistd.h	/^#define __NR_acct	/;"	d
+__NR_alarm	oslab/linux-0.11/include/unistd.h	/^#define __NR_alarm	/;"	d
+__NR_break	oslab/linux-0.11/include/unistd.h	/^#define __NR_break	/;"	d
+__NR_brk	oslab/linux-0.11/include/unistd.h	/^#define __NR_brk	/;"	d
+__NR_chdir	oslab/linux-0.11/include/unistd.h	/^#define __NR_chdir	/;"	d
+__NR_chmod	oslab/linux-0.11/include/unistd.h	/^#define __NR_chmod	/;"	d
+__NR_chown	oslab/linux-0.11/include/unistd.h	/^#define __NR_chown	/;"	d
+__NR_chroot	oslab/linux-0.11/include/unistd.h	/^#define __NR_chroot	/;"	d
+__NR_close	oslab/linux-0.11/include/unistd.h	/^#define __NR_close	/;"	d
+__NR_creat	oslab/linux-0.11/include/unistd.h	/^#define __NR_creat	/;"	d
+__NR_dup	oslab/linux-0.11/include/unistd.h	/^#define __NR_dup	/;"	d
+__NR_dup2	oslab/linux-0.11/include/unistd.h	/^#define __NR_dup2	/;"	d
+__NR_execve	oslab/linux-0.11/include/unistd.h	/^#define __NR_execve	/;"	d
+__NR_exit	oslab/linux-0.11/include/unistd.h	/^#define __NR_exit	/;"	d
+__NR_fcntl	oslab/linux-0.11/include/unistd.h	/^#define __NR_fcntl	/;"	d
+__NR_fork	oslab/linux-0.11/include/unistd.h	/^#define __NR_fork	/;"	d
+__NR_fstat	oslab/linux-0.11/include/unistd.h	/^#define __NR_fstat	/;"	d
+__NR_ftime	oslab/linux-0.11/include/unistd.h	/^#define __NR_ftime	/;"	d
+__NR_getegid	oslab/linux-0.11/include/unistd.h	/^#define __NR_getegid	/;"	d
+__NR_geteuid	oslab/linux-0.11/include/unistd.h	/^#define __NR_geteuid	/;"	d
+__NR_getgid	oslab/linux-0.11/include/unistd.h	/^#define __NR_getgid	/;"	d
+__NR_getpgrp	oslab/linux-0.11/include/unistd.h	/^#define __NR_getpgrp	/;"	d
+__NR_getpid	oslab/linux-0.11/include/unistd.h	/^#define __NR_getpid	/;"	d
+__NR_getppid	oslab/linux-0.11/include/unistd.h	/^#define __NR_getppid	/;"	d
+__NR_getuid	oslab/linux-0.11/include/unistd.h	/^#define __NR_getuid	/;"	d
+__NR_gtty	oslab/linux-0.11/include/unistd.h	/^#define __NR_gtty	/;"	d
+__NR_ioctl	oslab/linux-0.11/include/unistd.h	/^#define __NR_ioctl	/;"	d
+__NR_kill	oslab/linux-0.11/include/unistd.h	/^#define __NR_kill	/;"	d
+__NR_link	oslab/linux-0.11/include/unistd.h	/^#define __NR_link	/;"	d
+__NR_lock	oslab/linux-0.11/include/unistd.h	/^#define __NR_lock	/;"	d
+__NR_lseek	oslab/linux-0.11/include/unistd.h	/^#define __NR_lseek	/;"	d
+__NR_mkdir	oslab/linux-0.11/include/unistd.h	/^#define __NR_mkdir	/;"	d
+__NR_mknod	oslab/linux-0.11/include/unistd.h	/^#define __NR_mknod	/;"	d
+__NR_mount	oslab/linux-0.11/include/unistd.h	/^#define __NR_mount	/;"	d
+__NR_mpx	oslab/linux-0.11/include/unistd.h	/^#define __NR_mpx	/;"	d
+__NR_nice	oslab/linux-0.11/include/unistd.h	/^#define __NR_nice	/;"	d
+__NR_open	oslab/linux-0.11/include/unistd.h	/^#define __NR_open	/;"	d
+__NR_pause	oslab/linux-0.11/include/unistd.h	/^#define __NR_pause	/;"	d
+__NR_phys	oslab/linux-0.11/include/unistd.h	/^#define __NR_phys	/;"	d
+__NR_pipe	oslab/linux-0.11/include/unistd.h	/^#define __NR_pipe	/;"	d
+__NR_prof	oslab/linux-0.11/include/unistd.h	/^#define __NR_prof	/;"	d
+__NR_ptrace	oslab/linux-0.11/include/unistd.h	/^#define __NR_ptrace	/;"	d
+__NR_read	oslab/linux-0.11/include/unistd.h	/^#define __NR_read	/;"	d
+__NR_rename	oslab/linux-0.11/include/unistd.h	/^#define __NR_rename	/;"	d
+__NR_rmdir	oslab/linux-0.11/include/unistd.h	/^#define __NR_rmdir	/;"	d
+__NR_sem_open	oslab/linux-0.11/include/unistd.h	/^#define __NR_sem_open /;"	d
+__NR_sem_post	oslab/linux-0.11/include/unistd.h	/^#define __NR_sem_post /;"	d
+__NR_sem_unlink	oslab/linux-0.11/include/unistd.h	/^#define __NR_sem_unlink /;"	d
+__NR_sem_wait	oslab/linux-0.11/include/unistd.h	/^#define __NR_sem_wait /;"	d
+__NR_setgid	oslab/linux-0.11/include/unistd.h	/^#define __NR_setgid	/;"	d
+__NR_setpgid	oslab/linux-0.11/include/unistd.h	/^#define __NR_setpgid	/;"	d
+__NR_setregid	oslab/linux-0.11/include/unistd.h	/^#define __NR_setregid	/;"	d
+__NR_setreuid	oslab/linux-0.11/include/unistd.h	/^#define __NR_setreuid	/;"	d
+__NR_setsid	oslab/linux-0.11/include/unistd.h	/^#define __NR_setsid	/;"	d
+__NR_setuid	oslab/linux-0.11/include/unistd.h	/^#define __NR_setuid	/;"	d
+__NR_setup	oslab/linux-0.11/include/unistd.h	/^#define __NR_setup	/;"	d
+__NR_sgetmask	oslab/linux-0.11/include/unistd.h	/^#define __NR_sgetmask	/;"	d
+__NR_sigaction	oslab/linux-0.11/include/unistd.h	/^#define __NR_sigaction	/;"	d
+__NR_signal	oslab/linux-0.11/include/unistd.h	/^#define __NR_signal	/;"	d
+__NR_ssetmask	oslab/linux-0.11/include/unistd.h	/^#define __NR_ssetmask	/;"	d
+__NR_stat	oslab/linux-0.11/include/unistd.h	/^#define __NR_stat	/;"	d
+__NR_stime	oslab/linux-0.11/include/unistd.h	/^#define __NR_stime	/;"	d
+__NR_stty	oslab/linux-0.11/include/unistd.h	/^#define __NR_stty	/;"	d
+__NR_sync	oslab/linux-0.11/include/unistd.h	/^#define __NR_sync	/;"	d
+__NR_time	oslab/linux-0.11/include/unistd.h	/^#define __NR_time	/;"	d
+__NR_times	oslab/linux-0.11/include/unistd.h	/^#define __NR_times	/;"	d
+__NR_ulimit	oslab/linux-0.11/include/unistd.h	/^#define __NR_ulimit	/;"	d
+__NR_umask	oslab/linux-0.11/include/unistd.h	/^#define __NR_umask	/;"	d
+__NR_umount	oslab/linux-0.11/include/unistd.h	/^#define __NR_umount	/;"	d
+__NR_uname	oslab/linux-0.11/include/unistd.h	/^#define __NR_uname	/;"	d
+__NR_unlink	oslab/linux-0.11/include/unistd.h	/^#define __NR_unlink	/;"	d
+__NR_ustat	oslab/linux-0.11/include/unistd.h	/^#define __NR_ustat	/;"	d
+__NR_utime	oslab/linux-0.11/include/unistd.h	/^#define __NR_utime	/;"	d
+__NR_waitpid	oslab/linux-0.11/include/unistd.h	/^#define __NR_waitpid	/;"	d
+__NR_write	oslab/linux-0.11/include/unistd.h	/^#define __NR_write	/;"	d
+__anon6aff7e790108	oslab/linux-0.11/kernel/sched.c	/^struct {$/;"	s	file:
+__anon76e401c1010a	oslab/linux-0.11/include/a.out.h	/^  union {$/;"	u	struct:nlist
+__anondfecc8fd0108	oslab/linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	s
+__anondfecc8fd0208	oslab/linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	s
+__va_rounded_size	oslab/linux-0.11/include/stdarg.h	/^#define __va_rounded_size(/;"	d
+_bmap	oslab/linux-0.11/fs/inode.c	/^static int _bmap(struct m_inode * inode,int block,int create)$/;"	f	typeref:typename:int	file:
+_bucket_dir	oslab/linux-0.11/lib/malloc.c	/^struct _bucket_dir {	\/* 8 bytes *\/$/;"	s	file:
+_ctmp	oslab/linux-0.11/lib/ctype.c	/^char _ctmp;$/;"	v	typeref:typename:char
+_ctype	oslab/linux-0.11/lib/ctype.c	/^unsigned char _ctype[] = {0x00,			\/* EOF *\/$/;"	v	typeref:typename:unsigned char[]
+_exit	oslab/linux-0.11/lib/_exit.c	/^volatile void _exit(int exit_code)$/;"	f	typeref:typename:volatile void
+_exit.o	oslab/linux-0.11/lib/Makefile	/^_exit.s _exit.o : _exit.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+_exit.s	oslab/linux-0.11/lib/Makefile	/^_exit.s _exit.o : _exit.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+_fs	oslab/linux-0.11/kernel/traps.c	/^#define _fs(/;"	d	file:
+_get_base	oslab/linux-0.11/include/linux/sched.h	/^static inline unsigned long _get_base(char * addr)$/;"	f	typeref:typename:unsigned long
+_hashfn	oslab/linux-0.11/fs/buffer.c	/^#define _hashfn(/;"	d	file:
+_set_base	oslab/linux-0.11/include/linux/sched.h	/^#define _set_base(/;"	d
+_set_gate	oslab/linux-0.11/include/asm/system.h	/^#define _set_gate(/;"	d
+_set_limit	oslab/linux-0.11/include/linux/sched.h	/^#define _set_limit(/;"	d
+_set_seg_desc	oslab/linux-0.11/include/asm/system.h	/^#define _set_seg_desc(/;"	d
+_set_tssldt_desc	oslab/linux-0.11/include/asm/system.h	/^#define _set_tssldt_desc(/;"	d
+_syscall0	oslab/linux-0.11/include/unistd.h	/^#define _syscall0(/;"	d
+_syscall1	oslab/linux-0.11/include/unistd.h	/^#define _syscall1(/;"	d
+_syscall2	oslab/linux-0.11/include/unistd.h	/^#define _syscall2(/;"	d
+_syscall3	oslab/linux-0.11/include/unistd.h	/^#define _syscall3(/;"	d
+_syscall3	oslab/linux-0.11/lib/wait.c	/^_syscall3(pid_t,waitpid,pid_t,pid,int *,wait_stat,int,options)$/;"	f
+a	oslab/linux-0.11/include/linux/head.h	/^	unsigned long a,b;$/;"	m	struct:desc_struct	typeref:typename:unsigned long
+a	oslab/linux-0.11/kernel/sched.c	/^	long * a;$/;"	m	struct:__anon6aff7e790108	typeref:typename:long *	file:
+a_bss	oslab/linux-0.11/include/a.out.h	/^  unsigned a_bss;		\/* length of uninitialized data area for file, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_data	oslab/linux-0.11/include/a.out.h	/^  unsigned a_data;		\/* length of data, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_drsize	oslab/linux-0.11/include/a.out.h	/^  unsigned a_drsize;		\/* length of relocation info for data, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_entry	oslab/linux-0.11/include/a.out.h	/^  unsigned a_entry;		\/* start address *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_magic	oslab/linux-0.11/include/a.out.h	/^  unsigned long a_magic;	\/* Use macros N_MAGIC, etc for access *\/$/;"	m	struct:exec	typeref:typename:unsigned long
+a_syms	oslab/linux-0.11/include/a.out.h	/^  unsigned a_syms;		\/* length of symbol table data in file, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_text	oslab/linux-0.11/include/a.out.h	/^  unsigned a_text;		\/* length of text, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+a_trsize	oslab/linux-0.11/include/a.out.h	/^  unsigned a_trsize;		\/* length of relocation info for text, in bytes *\/$/;"	m	struct:exec	typeref:typename:unsigned
+actime	oslab/linux-0.11/include/utime.h	/^	time_t actime;$/;"	m	struct:utimbuf	typeref:typename:time_t
+add_entry	oslab/linux-0.11/fs/namei.c	/^static struct buffer_head * add_entry(struct m_inode * dir,$/;"	f	typeref:struct:buffer_head *	file:
+add_request	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static void add_request(struct blk_dev_struct * dev, struct request * req)$/;"	f	typeref:typename:void	file:
+add_timer	oslab/linux-0.11/kernel/sched.c	/^void add_timer(long jiffies, void (*fn)(void))$/;"	f	typeref:typename:void
+alarm	oslab/linux-0.11/include/linux/sched.h	/^	long alarm;$/;"	m	struct:task_struct	typeref:typename:long
+all	oslab/linux-0.11/Makefile	/^all:	Image$/;"	t
+all	oslab/linux-0.11/mm/Makefile	/^all: mm.o$/;"	t
+argv	oslab/linux-0.11/init/main.c	/^static char * argv[] = { "-\/bin\/sh",NULL };$/;"	v	typeref:typename:char * []	file:
+argv_rc	oslab/linux-0.11/init/main.c	/^static char * argv_rc[] = { "\/bin\/sh", NULL };$/;"	v	typeref:typename:char * []	file:
+attr	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned char	attr=0x07;$/;"	v	typeref:typename:unsigned char	file:
+b	oslab/linux-0.11/include/linux/head.h	/^	unsigned long a,b;$/;"	m	struct:desc_struct	typeref:typename:unsigned long
+b	oslab/linux-0.11/kernel/sched.c	/^	short b;$/;"	m	struct:__anon6aff7e790108	typeref:typename:short	file:
+b_blocknr	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long b_blocknr;	\/* block number *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned long
+b_count	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char b_count;		\/* users using this block *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_data	oslab/linux-0.11/include/linux/fs.h	/^	char * b_data;			\/* pointer to data block (1024 bytes) *\/$/;"	m	struct:buffer_head	typeref:typename:char *
+b_dev	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short b_dev;		\/* device (0 = free) *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned short
+b_dirt	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char b_dirt;		\/* 0-clean,1-dirty *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_lock	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char b_lock;		\/* 0 - ok, 1 -locked *\/$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_next	oslab/linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_next;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_next_free	oslab/linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_next_free;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_prev	oslab/linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_prev;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_prev_free	oslab/linux-0.11/include/linux/fs.h	/^	struct buffer_head * b_prev_free;$/;"	m	struct:buffer_head	typeref:struct:buffer_head *
+b_uptodate	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char b_uptodate;$/;"	m	struct:buffer_head	typeref:typename:unsigned char
+b_wait	oslab/linux-0.11/include/linux/fs.h	/^	struct task_struct * b_wait;$/;"	m	struct:buffer_head	typeref:struct:task_struct *
+back_link	oslab/linux-0.11/include/linux/sched.h	/^	long	back_link;	\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+backup	oslab/linux-0.11/Makefile	/^backup: clean$/;"	t
+bad_flp_intr	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void bad_flp_intr(void)$/;"	f	typeref:typename:void	file:
+bad_rw_intr	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static void bad_rw_intr(void)$/;"	f	typeref:typename:void	file:
+beepcount	oslab/linux-0.11/kernel/chr_drv/console.c	/^int beepcount = 0;$/;"	v	typeref:typename:int
+bh	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	struct buffer_head * bh;$/;"	m	struct:request	typeref:struct:buffer_head *
+bitmap.o	oslab/linux-0.11/fs/Makefile	/^bitmap.o: bitmap.c ..\/include\/string.h ..\/include\/linux\/sched.h \\$/;"	t
+blk_dev	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^struct blk_dev_struct blk_dev[NR_BLK_DEV] = {$/;"	v	typeref:struct:blk_dev_struct[]
+blk_dev_init	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^void blk_dev_init(void)$/;"	f	typeref:typename:void
+blk_dev_struct	oslab/linux-0.11/kernel/blk_drv/blk.h	/^struct blk_dev_struct {$/;"	s
+blk_drv.a	oslab/linux-0.11/kernel/blk_drv/Makefile	/^blk_drv.a: $(OBJS)$/;"	t
+block_dev.o	oslab/linux-0.11/fs/Makefile	/^block_dev.o: block_dev.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+block_read	oslab/linux-0.11/fs/block_dev.c	/^int block_read(int dev, unsigned long * pos, char * buf, int count)$/;"	f	typeref:typename:int
+block_write	oslab/linux-0.11/fs/block_dev.c	/^int block_write(int dev, long * pos, char * buf, int count)$/;"	f	typeref:typename:int
+blocked	oslab/linux-0.11/include/linux/sched.h	/^	long blocked;	\/* bitmap of masked signals *\/$/;"	m	struct:task_struct	typeref:typename:long
+bmap	oslab/linux-0.11/fs/inode.c	/^int bmap(struct m_inode * inode,int block)$/;"	f	typeref:typename:int
+boot/bootsect	oslab/linux-0.11/Makefile	/^boot\/bootsect:	boot\/bootsect.s$/;"	t
+boot/head.o	oslab/linux-0.11/Makefile	/^boot\/head.o: boot\/head.s$/;"	t
+boot/setup	oslab/linux-0.11/Makefile	/^boot\/setup: boot\/setup.s$/;"	t
+boot_ind	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char boot_ind;		\/* 0x80 - active (unused) *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+bottom	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	top,bottom;$/;"	v	typeref:typename:unsigned long	file:
+bread	oslab/linux-0.11/fs/buffer.c	/^struct buffer_head * bread(int dev,int block)$/;"	f	typeref:struct:buffer_head *
+bread_page	oslab/linux-0.11/fs/buffer.c	/^void bread_page(unsigned long address,int dev,int b[4])$/;"	f	typeref:typename:void
+breada	oslab/linux-0.11/fs/buffer.c	/^struct buffer_head * breada(int dev,int first, ...)$/;"	f	typeref:struct:buffer_head *
+brelse	oslab/linux-0.11/fs/buffer.c	/^void brelse(struct buffer_head * buf)$/;"	f	typeref:typename:void
+brk	oslab/linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+bucket_desc	oslab/linux-0.11/lib/malloc.c	/^struct bucket_desc {	\/* 16 bytes *\/$/;"	s	file:
+bucket_dir	oslab/linux-0.11/lib/malloc.c	/^struct _bucket_dir bucket_dir[] = {$/;"	v	typeref:struct:_bucket_dir[]
+bucket_size	oslab/linux-0.11/lib/malloc.c	/^	unsigned short		bucket_size;$/;"	m	struct:bucket_desc	typeref:typename:unsigned short	file:
+buf	oslab/linux-0.11/include/linux/tty.h	/^	char buf[TTY_BUF_SIZE];$/;"	m	struct:tty_queue	typeref:typename:char[]
+buf	oslab/linux-0.11/kernel/printk.c	/^static char buf[1024];$/;"	v	typeref:typename:char[1024]	file:
+buffer	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	char * buffer;$/;"	m	struct:request	typeref:typename:char *
+buffer.o	oslab/linux-0.11/fs/Makefile	/^buffer.o: buffer.c ..\/include\/stdarg.h ..\/include\/linux\/config.h \\$/;"	t
+buffer_block	oslab/linux-0.11/include/linux/fs.h	/^typedef char buffer_block[BLOCK_SIZE];$/;"	t	typeref:typename:char[BLOCK_SIZE]
+buffer_head	oslab/linux-0.11/include/linux/fs.h	/^struct buffer_head {$/;"	s
+buffer_init	oslab/linux-0.11/fs/buffer.c	/^void buffer_init(long buffer_end)$/;"	f	typeref:typename:void
+buffer_memory_end	oslab/linux-0.11/init/main.c	/^static long buffer_memory_end = 0;$/;"	v	typeref:typename:long	file:
+buffer_wait	oslab/linux-0.11/fs/buffer.c	/^static struct task_struct * buffer_wait = NULL;$/;"	v	typeref:struct:task_struct *	file:
+c_cc	oslab/linux-0.11/include/termios.h	/^	unsigned char c_cc[NCCS];	\/* control characters *\/$/;"	m	struct:termios	typeref:typename:unsigned char[]
+c_cc	oslab/linux-0.11/include/termios.h	/^	unsigned char c_cc[NCC];	\/* control characters *\/$/;"	m	struct:termio	typeref:typename:unsigned char[]
+c_cflag	oslab/linux-0.11/include/termios.h	/^	unsigned long c_cflag;		\/* control mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_cflag	oslab/linux-0.11/include/termios.h	/^	unsigned short c_cflag;		\/* control mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+c_iflag	oslab/linux-0.11/include/termios.h	/^	unsigned long c_iflag;		\/* input mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_iflag	oslab/linux-0.11/include/termios.h	/^	unsigned short c_iflag;		\/* input mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+c_lflag	oslab/linux-0.11/include/termios.h	/^	unsigned long c_lflag;		\/* local mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_lflag	oslab/linux-0.11/include/termios.h	/^	unsigned short c_lflag;		\/* local mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+c_line	oslab/linux-0.11/include/termios.h	/^	unsigned char c_line;		\/* line discipline *\/$/;"	m	struct:termio	typeref:typename:unsigned char
+c_line	oslab/linux-0.11/include/termios.h	/^	unsigned char c_line;		\/* line discipline *\/$/;"	m	struct:termios	typeref:typename:unsigned char
+c_oflag	oslab/linux-0.11/include/termios.h	/^	unsigned long c_oflag;		\/* output mode flags *\/$/;"	m	struct:termios	typeref:typename:unsigned long
+c_oflag	oslab/linux-0.11/include/termios.h	/^	unsigned short c_oflag;		\/* output mode flags *\/$/;"	m	struct:termio	typeref:typename:unsigned short
+calc_mem	oslab/linux-0.11/mm/memory.c	/^void calc_mem(void)$/;"	f	typeref:typename:void
+chain	oslab/linux-0.11/lib/malloc.c	/^	struct bucket_desc	*chain;$/;"	m	struct:_bucket_dir	typeref:struct:bucket_desc *	file:
+change_ldt	oslab/linux-0.11/fs/exec.c	/^static unsigned long change_ldt(unsigned long text_size,unsigned long * page)$/;"	f	typeref:typename:unsigned long	file:
+change_speed	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void change_speed(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+char_dev.o	oslab/linux-0.11/fs/Makefile	/^char_dev.o: char_dev.c ..\/include\/errno.h ..\/include\/sys\/types.h \\$/;"	t
+check_disk_change	oslab/linux-0.11/fs/buffer.c	/^void check_disk_change(int dev)$/;"	f	typeref:typename:void
+chr_dev_init	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^void chr_dev_init(void)$/;"	f	typeref:typename:void
+chr_drv.a	oslab/linux-0.11/kernel/chr_drv/Makefile	/^chr_drv.a: $(OBJS)$/;"	t
+clean	oslab/linux-0.11/Makefile	/^clean:$/;"	t
+clean	oslab/linux-0.11/fs/Makefile	/^clean:$/;"	t
+clean	oslab/linux-0.11/kernel/Makefile	/^clean:$/;"	t
+clean	oslab/linux-0.11/kernel/blk_drv/Makefile	/^clean:$/;"	t
+clean	oslab/linux-0.11/kernel/chr_drv/Makefile	/^clean:$/;"	t
+clean	oslab/linux-0.11/kernel/math/Makefile	/^clean:$/;"	t
+clean	oslab/linux-0.11/lib/Makefile	/^clean:$/;"	t
+clean	oslab/linux-0.11/mm/Makefile	/^clean:$/;"	t
+clear_bit	oslab/linux-0.11/fs/bitmap.c	/^#define clear_bit(/;"	d	file:
+clear_block	oslab/linux-0.11/fs/bitmap.c	/^#define clear_block(/;"	d	file:
+cli	oslab/linux-0.11/include/asm/system.h	/^#define cli(/;"	d
+clock_t	oslab/linux-0.11/include/time.h	/^typedef long clock_t;$/;"	t	typeref:typename:long
+close.o	oslab/linux-0.11/lib/Makefile	/^close.s close.o : close.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+close.s	oslab/linux-0.11/lib/Makefile	/^close.s close.o : close.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+close_on_exec	oslab/linux-0.11/include/linux/sched.h	/^	unsigned long close_on_exec;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+cmd	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	int cmd;		\/* READ or WRITE *\/$/;"	m	struct:request	typeref:typename:int
+command	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char command = 0;$/;"	v	typeref:typename:unsigned char	file:
+con_init	oslab/linux-0.11/kernel/chr_drv/console.c	/^void con_init(void)$/;"	f	typeref:typename:void
+con_write	oslab/linux-0.11/kernel/chr_drv/console.c	/^void con_write(struct tty_struct * tty)$/;"	f	typeref:typename:void
+console.o	oslab/linux-0.11/kernel/chr_drv/Makefile	/^console.s console.o: console.c ..\/..\/include\/linux\/sched.h \\$/;"	t
+console.s	oslab/linux-0.11/kernel/chr_drv/Makefile	/^console.s console.o: console.c ..\/..\/include\/linux\/sched.h \\$/;"	t
+controller_ready	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static int controller_ready(void)$/;"	f	typeref:typename:int	file:
+copy_buffer	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define copy_buffer(/;"	d	file:
+copy_mem	oslab/linux-0.11/kernel/fork.c	/^int copy_mem(int nr,struct task_struct * p)$/;"	f	typeref:typename:int
+copy_page	oslab/linux-0.11/mm/memory.c	/^#define copy_page(/;"	d	file:
+copy_page_tables	oslab/linux-0.11/mm/memory.c	/^int copy_page_tables(unsigned long from,unsigned long to,long size)$/;"	f	typeref:typename:int
+copy_process	oslab/linux-0.11/kernel/fork.c	/^int copy_process(int nr,long ebp,long edi,long esi,long gs,long none,$/;"	f	typeref:typename:int
+copy_strings	oslab/linux-0.11/fs/exec.c	/^static unsigned long copy_strings(int argc,char ** argv,unsigned long *page,$/;"	f	typeref:typename:unsigned long	file:
+copy_to_cooked	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^void copy_to_cooked(struct tty_struct * tty)$/;"	f	typeref:typename:void
+count	oslab/linux-0.11/fs/exec.c	/^static int count(char ** argv)$/;"	f	typeref:typename:int	file:
+counter	oslab/linux-0.11/include/linux/sched.h	/^	long counter;$/;"	m	struct:task_struct	typeref:typename:long
+cp_stat	oslab/linux-0.11/fs/stat.c	/^static void cp_stat(struct m_inode * inode, struct stat * statbuf)$/;"	f	typeref:typename:void	file:
+cpuio_bound	oslab/process.c	/^void cpuio_bound(int last, int cpu_time, int io_time)$/;"	f	typeref:typename:void
+cr	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void cr(void)$/;"	f	typeref:typename:void	file:
+cr3	oslab/linux-0.11/include/linux/sched.h	/^	long	cr3;$/;"	m	struct:tss_struct	typeref:typename:long
+create_block	oslab/linux-0.11/fs/inode.c	/^int create_block(struct m_inode * inode, int block)$/;"	f	typeref:typename:int
+create_tables	oslab/linux-0.11/fs/exec.c	/^static unsigned long * create_tables(char * p,int argc,int envc)$/;"	f	typeref:typename:unsigned long *	file:
+crw_ptr	oslab/linux-0.11/fs/char_dev.c	/^typedef int (*crw_ptr)(int rw,unsigned minor,char * buf,int count,off_t * pos);$/;"	t	typeref:typename:int (*)(int rw,unsigned minor,char * buf,int count,off_t * pos)	file:
+crw_table	oslab/linux-0.11/fs/char_dev.c	/^static crw_ptr crw_table[]={$/;"	v	typeref:typename:crw_ptr[]	file:
+cs	oslab/linux-0.11/include/linux/sched.h	/^	long	cs;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+csi_J	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void csi_J(int par)$/;"	f	typeref:typename:void	file:
+csi_K	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void csi_K(int par)$/;"	f	typeref:typename:void	file:
+csi_L	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void csi_L(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_M	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void csi_M(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_P	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void csi_P(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_at	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void csi_at(unsigned int nr)$/;"	f	typeref:typename:void	file:
+csi_m	oslab/linux-0.11/kernel/chr_drv/console.c	/^void csi_m(void)$/;"	f	typeref:typename:void
+cstime	oslab/linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+ctl	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+ctype.o	oslab/linux-0.11/lib/Makefile	/^ctype.s ctype.o : ctype.c ..\/include\/ctype.h $/;"	t
+ctype.s	oslab/linux-0.11/lib/Makefile	/^ctype.s ctype.o : ctype.c ..\/include\/ctype.h $/;"	t
+cur_rate	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static int cur_rate = -1;$/;"	v	typeref:typename:int	file:
+cur_spec1	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static int cur_spec1 = -1;$/;"	v	typeref:typename:int	file:
+current	oslab/linux-0.11/kernel/sched.c	/^struct task_struct *current = &(init_task.task);$/;"	v	typeref:struct:task_struct *
+current_DOR	oslab/linux-0.11/kernel/sched.c	/^unsigned char current_DOR = 0x0C;$/;"	v	typeref:typename:unsigned char
+current_drive	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char current_drive = 0;$/;"	v	typeref:typename:unsigned char	file:
+current_request	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	struct request * current_request;$/;"	m	struct:blk_dev_struct	typeref:struct:request *
+current_track	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char current_track = 255;$/;"	v	typeref:typename:unsigned char	file:
+cutime	oslab/linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+cwd	oslab/linux-0.11/include/linux/sched.h	/^	long	cwd;$/;"	m	struct:i387_struct	typeref:typename:long
+cyl	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char cyl;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+cyl	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+d_inode	oslab/linux-0.11/include/linux/fs.h	/^struct d_inode {$/;"	s
+d_super_block	oslab/linux-0.11/include/linux/fs.h	/^struct d_super_block {$/;"	s
+daddr_t	oslab/linux-0.11/include/sys/types.h	/^typedef int daddr_t;$/;"	t	typeref:typename:int
+data	oslab/linux-0.11/include/linux/tty.h	/^	unsigned long data;$/;"	m	struct:tty_queue	typeref:typename:unsigned long
+del	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void del(void)$/;"	f	typeref:typename:void	file:
+delete_char	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void delete_char(void)$/;"	f	typeref:typename:void	file:
+delete_line	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void delete_line(void)$/;"	f	typeref:typename:void	file:
+dep	oslab/linux-0.11/Makefile	/^dep:$/;"	t
+dep	oslab/linux-0.11/fs/Makefile	/^dep:$/;"	t
+dep	oslab/linux-0.11/kernel/Makefile	/^dep:$/;"	t
+dep	oslab/linux-0.11/kernel/blk_drv/Makefile	/^dep:$/;"	t
+dep	oslab/linux-0.11/kernel/chr_drv/Makefile	/^dep:$/;"	t
+dep	oslab/linux-0.11/kernel/math/Makefile	/^dep:$/;"	t
+dep	oslab/linux-0.11/lib/Makefile	/^dep:$/;"	t
+dep	oslab/linux-0.11/mm/Makefile	/^dep:$/;"	t
+desc_struct	oslab/linux-0.11/include/linux/head.h	/^typedef struct desc_struct {$/;"	s
+desc_table	oslab/linux-0.11/include/linux/head.h	/^} desc_table[256];$/;"	t	typeref:struct:desc_struct[256]
+dev	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	int dev;		\/* -1 if no request *\/$/;"	m	struct:request	typeref:typename:int
+dev_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned short dev_t;$/;"	t	typeref:typename:unsigned short
+die	oslab/linux-0.11/kernel/traps.c	/^static void die(char * str,long esp_ptr,long nr)$/;"	f	typeref:typename:void	file:
+die	oslab/linux-0.11/tools/build.c	/^void die(char * str)$/;"	f	typeref:typename:void
+dir_entry	oslab/linux-0.11/include/linux/fs.h	/^struct dir_entry {$/;"	s
+dir_namei	oslab/linux-0.11/fs/namei.c	/^static struct m_inode * dir_namei(const char * pathname,$/;"	f	typeref:struct:m_inode *	file:
+disk	oslab/linux-0.11/Makefile	/^disk: Image$/;"	t
+div_t	oslab/linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	t	typeref:struct:__anondfecc8fd0108
+do_bounds	oslab/linux-0.11/kernel/traps.c	/^void do_bounds(long esp, long error_code)$/;"	f	typeref:typename:void
+do_coprocessor_error	oslab/linux-0.11/kernel/traps.c	/^void do_coprocessor_error(long esp, long error_code)$/;"	f	typeref:typename:void
+do_coprocessor_segment_overrun	oslab/linux-0.11/kernel/traps.c	/^void do_coprocessor_segment_overrun(long esp, long error_code)$/;"	f	typeref:typename:void
+do_debug	oslab/linux-0.11/kernel/traps.c	/^void do_debug(long esp, long error_code)$/;"	f	typeref:typename:void
+do_device_not_available	oslab/linux-0.11/kernel/traps.c	/^void do_device_not_available(long esp, long error_code)$/;"	f	typeref:typename:void
+do_div	oslab/linux-0.11/kernel/vsprintf.c	/^#define do_div(/;"	d	file:
+do_divide_error	oslab/linux-0.11/kernel/traps.c	/^void do_divide_error(long esp, long error_code)$/;"	f	typeref:typename:void
+do_double_fault	oslab/linux-0.11/kernel/traps.c	/^void do_double_fault(long esp, long error_code)$/;"	f	typeref:typename:void
+do_execve	oslab/linux-0.11/fs/exec.c	/^int do_execve(unsigned long * eip,long tmp,char * filename,$/;"	f	typeref:typename:int
+do_exit	oslab/linux-0.11/kernel/exit.c	/^int do_exit(long code)$/;"	f	typeref:typename:int
+do_fd_request	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^void do_fd_request(void)$/;"	f	typeref:typename:void
+do_floppy_timer	oslab/linux-0.11/kernel/sched.c	/^void do_floppy_timer(void)$/;"	f	typeref:typename:void
+do_general_protection	oslab/linux-0.11/kernel/traps.c	/^void do_general_protection(long esp, long error_code)$/;"	f	typeref:typename:void
+do_hd_request	oslab/linux-0.11/kernel/blk_drv/hd.c	/^void do_hd_request(void)$/;"	f	typeref:typename:void
+do_int3	oslab/linux-0.11/kernel/traps.c	/^void do_int3(long * esp, long error_code,$/;"	f	typeref:typename:void
+do_invalid_TSS	oslab/linux-0.11/kernel/traps.c	/^void do_invalid_TSS(long esp,long error_code)$/;"	f	typeref:typename:void
+do_invalid_op	oslab/linux-0.11/kernel/traps.c	/^void do_invalid_op(long esp, long error_code)$/;"	f	typeref:typename:void
+do_nmi	oslab/linux-0.11/kernel/traps.c	/^void do_nmi(long esp, long error_code)$/;"	f	typeref:typename:void
+do_no_page	oslab/linux-0.11/mm/memory.c	/^void do_no_page(unsigned long error_code,unsigned long address)$/;"	f	typeref:typename:void
+do_overflow	oslab/linux-0.11/kernel/traps.c	/^void do_overflow(long esp, long error_code)$/;"	f	typeref:typename:void
+do_rd_request	oslab/linux-0.11/kernel/blk_drv/ramdisk.c	/^void do_rd_request(void)$/;"	f	typeref:typename:void
+do_reserved	oslab/linux-0.11/kernel/traps.c	/^void do_reserved(long esp, long error_code)$/;"	f	typeref:typename:void
+do_segment_not_present	oslab/linux-0.11/kernel/traps.c	/^void do_segment_not_present(long esp,long error_code)$/;"	f	typeref:typename:void
+do_signal	oslab/linux-0.11/kernel/signal.c	/^void do_signal(long signr,long eax, long ebx, long ecx, long edx,$/;"	f	typeref:typename:void
+do_stack_segment	oslab/linux-0.11/kernel/traps.c	/^void do_stack_segment(long esp,long error_code)$/;"	f	typeref:typename:void
+do_timer	oslab/linux-0.11/kernel/sched.c	/^void do_timer(long cpl)$/;"	f	typeref:typename:void
+do_tty_interrupt	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^void do_tty_interrupt(int tty)$/;"	f	typeref:typename:void
+do_wp_page	oslab/linux-0.11/mm/memory.c	/^void do_wp_page(unsigned long error_code,unsigned long address)$/;"	f	typeref:typename:void
+drive_busy	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static int drive_busy(void)$/;"	f	typeref:typename:int	file:
+drive_info	oslab/linux-0.11/init/main.c	/^struct drive_info { char dummy[32]; } drive_info;$/;"	s	file:
+drive_info	oslab/linux-0.11/init/main.c	/^struct drive_info { char dummy[32]; } drive_info;$/;"	v	typeref:struct:drive_info
+ds	oslab/linux-0.11/include/linux/sched.h	/^	long	ds;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+dummy	oslab/linux-0.11/init/main.c	/^struct drive_info { char dummy[32]; } drive_info;$/;"	m	struct:drive_info	typeref:typename:char[32]	file:
+dup.o	oslab/linux-0.11/lib/Makefile	/^dup.s dup.o : dup.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+dup.s	oslab/linux-0.11/lib/Makefile	/^dup.s dup.o : dup.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+dupfd	oslab/linux-0.11/fs/fcntl.c	/^static int dupfd(unsigned int fd, unsigned int arg)$/;"	f	typeref:typename:int	file:
+eax	oslab/linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+ebp	oslab/linux-0.11/include/linux/sched.h	/^	long	ebp;$/;"	m	struct:tss_struct	typeref:typename:long
+ebx	oslab/linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+ecx	oslab/linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+edi	oslab/linux-0.11/include/linux/sched.h	/^	long	edi;$/;"	m	struct:tss_struct	typeref:typename:long
+edx	oslab/linux-0.11/include/linux/sched.h	/^	long	eax,ecx,edx,ebx;$/;"	m	struct:tss_struct	typeref:typename:long
+eflags	oslab/linux-0.11/include/linux/sched.h	/^	long	eflags;$/;"	m	struct:tss_struct	typeref:typename:long
+egid	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short gid,egid,sgid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+eip	oslab/linux-0.11/include/linux/sched.h	/^	long	eip;$/;"	m	struct:tss_struct	typeref:typename:long
+empty	oslab/pc.c	/^sem_t *metux, *full, *empty;                    \/* 3个信号量 *\/$/;"	v	typeref:typename:sem_t ***
+empty_dir	oslab/linux-0.11/fs/namei.c	/^static int empty_dir(struct m_inode * inode)$/;"	f	typeref:typename:int	file:
+end_code	oslab/linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+end_cyl	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char end_cyl;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+end_data	oslab/linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+end_head	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char end_head;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+end_request	oslab/linux-0.11/kernel/blk_drv/blk.h	/^static inline void end_request(int uptodate)$/;"	f	typeref:typename:void
+end_sector	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char end_sector;	\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+envp	oslab/linux-0.11/init/main.c	/^static char * envp[] = { "HOME=\/usr\/root", NULL };$/;"	v	typeref:typename:char * []	file:
+envp_rc	oslab/linux-0.11/init/main.c	/^static char * envp_rc[] = { "HOME=\/", NULL };$/;"	v	typeref:typename:char * []	file:
+errno	oslab/linux-0.11/lib/errno.c	/^int errno;$/;"	v	typeref:typename:int
+errno.o	oslab/linux-0.11/lib/Makefile	/^errno.s errno.o : errno.c $/;"	t
+errno.s	oslab/linux-0.11/lib/Makefile	/^errno.s errno.o : errno.c $/;"	t
+errors	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	int errors;$/;"	m	struct:request	typeref:typename:int
+es	oslab/linux-0.11/include/linux/sched.h	/^	long	es;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+esi	oslab/linux-0.11/include/linux/sched.h	/^	long	esi;$/;"	m	struct:tss_struct	typeref:typename:long
+esp	oslab/linux-0.11/include/linux/sched.h	/^	long	esp;$/;"	m	struct:tss_struct	typeref:typename:long
+esp0	oslab/linux-0.11/include/linux/sched.h	/^	long	esp0;$/;"	m	struct:tss_struct	typeref:typename:long
+esp1	oslab/linux-0.11/include/linux/sched.h	/^	long	esp1;$/;"	m	struct:tss_struct	typeref:typename:long
+esp2	oslab/linux-0.11/include/linux/sched.h	/^	long	esp2;$/;"	m	struct:tss_struct	typeref:typename:long
+euid	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short uid,euid,suid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+exec	oslab/linux-0.11/include/a.out.h	/^struct exec {$/;"	s
+exec.o	oslab/linux-0.11/fs/Makefile	/^exec.o: exec.c ..\/include\/errno.h ..\/include\/string.h \\$/;"	t
+executable	oslab/linux-0.11/include/linux/sched.h	/^	struct m_inode * executable;$/;"	m	struct:task_struct	typeref:struct:m_inode *
+execve.o	oslab/linux-0.11/lib/Makefile	/^execve.s execve.o : execve.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+execve.s	oslab/linux-0.11/lib/Makefile	/^execve.s execve.o : execve.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+exit.o	oslab/linux-0.11/kernel/Makefile	/^exit.s exit.o: exit.c ..\/include\/errno.h ..\/include\/signal.h \\$/;"	t
+exit.s	oslab/linux-0.11/kernel/Makefile	/^exit.s exit.o: exit.c ..\/include\/errno.h ..\/include\/signal.h \\$/;"	t
+exit_code	oslab/linux-0.11/include/linux/sched.h	/^	int exit_code;$/;"	m	struct:task_struct	typeref:typename:int
+extern	oslab/linux-0.11/lib/string.c	/^#define extern$/;"	d	file:
+f_count	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short f_count;$/;"	m	struct:file	typeref:typename:unsigned short
+f_flags	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short f_flags;$/;"	m	struct:file	typeref:typename:unsigned short
+f_fname	oslab/linux-0.11/include/sys/types.h	/^	char f_fname[6];$/;"	m	struct:ustat	typeref:typename:char[6]
+f_fpack	oslab/linux-0.11/include/sys/types.h	/^	char f_fpack[6];$/;"	m	struct:ustat	typeref:typename:char[6]
+f_inode	oslab/linux-0.11/include/linux/fs.h	/^	struct m_inode * f_inode;$/;"	m	struct:file	typeref:struct:m_inode *
+f_mode	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short f_mode;$/;"	m	struct:file	typeref:typename:unsigned short
+f_pos	oslab/linux-0.11/include/linux/fs.h	/^	off_t f_pos;$/;"	m	struct:file	typeref:typename:off_t
+f_tfree	oslab/linux-0.11/include/sys/types.h	/^	daddr_t f_tfree;$/;"	m	struct:ustat	typeref:typename:daddr_t
+f_tinode	oslab/linux-0.11/include/sys/types.h	/^	ino_t f_tinode;$/;"	m	struct:ustat	typeref:typename:ino_t
+father	oslab/linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+fcntl.o	oslab/linux-0.11/fs/Makefile	/^fcntl.o: fcntl.c ..\/include\/string.h ..\/include\/errno.h \\$/;"	t
+fcs	oslab/linux-0.11/include/linux/sched.h	/^	long	fcs;$/;"	m	struct:i387_struct	typeref:typename:long
+fi	oslab/pc.c	/^int fi, fo;                                        \/* 供生产者写入或消费者读取的缓/;"	v	typeref:typename:int
+file	oslab/linux-0.11/include/linux/fs.h	/^struct file {$/;"	s
+file_dev.o	oslab/linux-0.11/fs/Makefile	/^file_dev.o: file_dev.c ..\/include\/errno.h ..\/include\/fcntl.h \\$/;"	t
+file_read	oslab/linux-0.11/fs/file_dev.c	/^int file_read(struct m_inode * inode, struct file * filp, char * buf, int count)$/;"	f	typeref:typename:int
+file_table	oslab/linux-0.11/fs/file_table.c	/^struct file file_table[NR_FILE];$/;"	v	typeref:struct:file[]
+file_table.o	oslab/linux-0.11/fs/Makefile	/^file_table.o: file_table.c ..\/include\/linux\/fs.h ..\/include\/sys\/types.h$/;"	t
+file_write	oslab/linux-0.11/fs/file_dev.c	/^int file_write(struct m_inode * inode, struct file * filp, char * buf, int count)$/;"	f	typeref:typename:int
+filp	oslab/linux-0.11/include/linux/sched.h	/^	struct file * filp[NR_OPEN];$/;"	m	struct:task_struct	typeref:struct:file * []
+find_buffer	oslab/linux-0.11/fs/buffer.c	/^static struct buffer_head * find_buffer(int dev, int block)$/;"	f	typeref:struct:buffer_head *	file:
+find_empty_process	oslab/linux-0.11/kernel/fork.c	/^int find_empty_process(void)$/;"	f	typeref:typename:int
+find_entry	oslab/linux-0.11/fs/namei.c	/^static struct buffer_head * find_entry(struct m_inode ** dir,$/;"	f	typeref:struct:buffer_head *	file:
+find_first_zero	oslab/linux-0.11/fs/bitmap.c	/^#define find_first_zero(/;"	d	file:
+fip	oslab/linux-0.11/include/linux/sched.h	/^	long	fip;$/;"	m	struct:i387_struct	typeref:typename:long
+flock	oslab/linux-0.11/include/fcntl.h	/^struct flock {$/;"	s
+floppy	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static struct floppy_struct * floppy = floppy_type;$/;"	v	typeref:struct:floppy_struct *	file:
+floppy.o	oslab/linux-0.11/kernel/blk_drv/Makefile	/^floppy.s floppy.o: floppy.c ..\/..\/include\/linux\/sched.h ..\/..\/include\/linux\/head.h \\$/;"	t
+floppy.s	oslab/linux-0.11/kernel/blk_drv/Makefile	/^floppy.s floppy.o: floppy.c ..\/..\/include\/linux\/sched.h ..\/..\/include\/linux\/head.h \\$/;"	t
+floppy_change	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^int floppy_change(unsigned int nr)$/;"	f	typeref:typename:int
+floppy_deselect	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^void floppy_deselect(unsigned int nr)$/;"	f	typeref:typename:void
+floppy_init	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^void floppy_init(void)$/;"	f	typeref:typename:void
+floppy_off	oslab/linux-0.11/kernel/sched.c	/^void floppy_off(unsigned int nr)$/;"	f	typeref:typename:void
+floppy_on	oslab/linux-0.11/kernel/sched.c	/^void floppy_on(unsigned int nr)$/;"	f	typeref:typename:void
+floppy_on_interrupt	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void floppy_on_interrupt(void)$/;"	f	typeref:typename:void	file:
+floppy_struct	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static struct floppy_struct {$/;"	s	file:
+floppy_type	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^} floppy_type[] = {$/;"	v	typeref:struct:floppy_struct[]
+flush	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void flush(struct tty_queue * queue)$/;"	f	typeref:typename:void	file:
+fn	oslab/linux-0.11/kernel/sched.c	/^	void (*fn)();$/;"	m	struct:timer_list	typeref:typename:void (*)()	file:
+fn_ptr	oslab/linux-0.11/include/linux/sched.h	/^typedef int (*fn_ptr)();$/;"	t	typeref:typename:int (*)()
+fo	oslab/pc.c	/^int fi, fo;                                        \/* 供生产者写入或消费者读取的缓/;"	v	typeref:typename:int
+foo	oslab/linux-0.11/include/linux/sched.h	/^	long	foo;$/;"	m	struct:i387_struct	typeref:typename:long
+fork.o	oslab/linux-0.11/kernel/Makefile	/^fork.s fork.o: fork.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+fork.s	oslab/linux-0.11/kernel/Makefile	/^fork.s fork.o: fork.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+fos	oslab/linux-0.11/include/linux/sched.h	/^	long	fos;$/;"	m	struct:i387_struct	typeref:typename:long
+free	oslab/linux-0.11/include/linux/kernel.h	/^#define free(/;"	d
+free_block	oslab/linux-0.11/fs/bitmap.c	/^void free_block(int dev, int block)$/;"	f	typeref:typename:void
+free_bucket_desc	oslab/linux-0.11/lib/malloc.c	/^struct bucket_desc *free_bucket_desc = (struct bucket_desc *) 0;$/;"	v	typeref:struct:bucket_desc *
+free_dind	oslab/linux-0.11/fs/truncate.c	/^static void free_dind(int dev,int block)$/;"	f	typeref:typename:void	file:
+free_ind	oslab/linux-0.11/fs/truncate.c	/^static void free_ind(int dev,int block)$/;"	f	typeref:typename:void	file:
+free_inode	oslab/linux-0.11/fs/bitmap.c	/^void free_inode(struct m_inode * inode)$/;"	f	typeref:typename:void
+free_list	oslab/linux-0.11/fs/buffer.c	/^static struct buffer_head * free_list;$/;"	v	typeref:struct:buffer_head *	file:
+free_page	oslab/linux-0.11/mm/memory.c	/^void free_page(unsigned long addr)$/;"	f	typeref:typename:void
+free_page_tables	oslab/linux-0.11/mm/memory.c	/^int free_page_tables(unsigned long from,unsigned long size)$/;"	f	typeref:typename:int
+free_s	oslab/linux-0.11/lib/malloc.c	/^void free_s(void *obj, int size)$/;"	f	typeref:typename:void
+free_super	oslab/linux-0.11/fs/super.c	/^static void free_super(struct super_block * sb)$/;"	f	typeref:typename:void	file:
+freeptr	oslab/linux-0.11/lib/malloc.c	/^	void			*freeptr;$/;"	m	struct:bucket_desc	typeref:typename:void *	file:
+fs	oslab/linux-0.11/include/linux/sched.h	/^	long	fs;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+fs.o	oslab/linux-0.11/fs/Makefile	/^fs.o: $(OBJS)$/;"	t
+fs/fs.o	oslab/linux-0.11/Makefile	/^fs\/fs.o: FORCE$/;"	t
+full	oslab/pc.c	/^sem_t *metux, *full, *empty;                    \/* 3个信号量 *\/$/;"	v	typeref:typename:sem_t **
+gap	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned char gap,rate,spec1;$/;"	m	struct:floppy_struct	typeref:typename:unsigned char	file:
+get_base	oslab/linux-0.11/include/linux/sched.h	/^#define get_base(/;"	d
+get_dir	oslab/linux-0.11/fs/namei.c	/^static struct m_inode * get_dir(const char * pathname)$/;"	f	typeref:struct:m_inode *	file:
+get_ds	oslab/linux-0.11/include/asm/segment.h	/^static inline unsigned long get_ds() $/;"	f	typeref:typename:unsigned long
+get_empty_inode	oslab/linux-0.11/fs/inode.c	/^struct m_inode * get_empty_inode(void)$/;"	f	typeref:struct:m_inode *
+get_empty_page	oslab/linux-0.11/mm/memory.c	/^void get_empty_page(unsigned long address)$/;"	f	typeref:typename:void
+get_free_page	oslab/linux-0.11/mm/memory.c	/^unsigned long get_free_page(void)$/;"	f	typeref:typename:unsigned long
+get_fs	oslab/linux-0.11/include/asm/segment.h	/^static inline unsigned long get_fs() $/;"	f	typeref:typename:unsigned long
+get_fs_byte	oslab/linux-0.11/include/asm/segment.h	/^static inline unsigned char get_fs_byte(const char * addr)$/;"	f	typeref:typename:unsigned char
+get_fs_long	oslab/linux-0.11/include/asm/segment.h	/^static inline unsigned long get_fs_long(const unsigned long *addr)$/;"	f	typeref:typename:unsigned long
+get_fs_word	oslab/linux-0.11/include/asm/segment.h	/^static inline unsigned short get_fs_word(const unsigned short *addr)$/;"	f	typeref:typename:unsigned short
+get_hash_table	oslab/linux-0.11/fs/buffer.c	/^struct buffer_head * get_hash_table(int dev, int block)$/;"	f	typeref:struct:buffer_head *
+get_limit	oslab/linux-0.11/include/linux/sched.h	/^#define get_limit(/;"	d
+get_new	oslab/linux-0.11/kernel/signal.c	/^static inline void get_new(char * from,char * to)$/;"	f	typeref:typename:void	file:
+get_pipe_inode	oslab/linux-0.11/fs/inode.c	/^struct m_inode * get_pipe_inode(void)$/;"	f	typeref:struct:m_inode *
+get_seg_byte	oslab/linux-0.11/kernel/traps.c	/^#define get_seg_byte(/;"	d	file:
+get_seg_long	oslab/linux-0.11/kernel/traps.c	/^#define get_seg_long(/;"	d	file:
+get_super	oslab/linux-0.11/fs/super.c	/^struct super_block * get_super(int dev)$/;"	f	typeref:struct:super_block *
+get_termio	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int get_termio(struct tty_struct * tty, struct termio * termio)$/;"	f	typeref:typename:int	file:
+get_termios	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int get_termios(struct tty_struct * tty, struct termios * termios)$/;"	f	typeref:typename:int	file:
+getblk	oslab/linux-0.11/fs/buffer.c	/^struct buffer_head * getblk(int dev,int block)$/;"	f	typeref:struct:buffer_head *
+gid	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short gid,egid,sgid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+gid_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned char gid_t;$/;"	t	typeref:typename:unsigned char
+gotoxy	oslab/linux-0.11/kernel/chr_drv/console.c	/^static inline void gotoxy(unsigned int new_x,unsigned int new_y)$/;"	f	typeref:typename:void	file:
+gs	oslab/linux-0.11/include/linux/sched.h	/^	long	gs;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+hash	oslab/linux-0.11/fs/buffer.c	/^#define hash(/;"	d	file:
+hash_table	oslab/linux-0.11/fs/buffer.c	/^struct buffer_head * hash_table[NR_HASH];$/;"	v	typeref:struct:buffer_head * []
+hd	oslab/linux-0.11/kernel/blk_drv/hd.c	/^} hd[5*MAX_HD]={{0,0},};$/;"	v	typeref:struct:hd_struct[]
+hd.o	oslab/linux-0.11/kernel/blk_drv/Makefile	/^hd.s hd.o: hd.c ..\/..\/include\/linux\/config.h ..\/..\/include\/linux\/sched.h \\$/;"	t
+hd.s	oslab/linux-0.11/kernel/blk_drv/Makefile	/^hd.s hd.o: hd.c ..\/..\/include\/linux\/config.h ..\/..\/include\/linux\/sched.h \\$/;"	t
+hd_i_struct	oslab/linux-0.11/kernel/blk_drv/hd.c	/^struct hd_i_struct {$/;"	s	file:
+hd_info	oslab/linux-0.11/kernel/blk_drv/hd.c	/^struct hd_i_struct hd_info[] = { HD_TYPE };$/;"	v	typeref:struct:hd_i_struct[]
+hd_info	oslab/linux-0.11/kernel/blk_drv/hd.c	/^struct hd_i_struct hd_info[] = { {0,0,0,0,0,0},{0,0,0,0,0,0} };$/;"	v	typeref:struct:hd_i_struct[]
+hd_init	oslab/linux-0.11/kernel/blk_drv/hd.c	/^void hd_init(void)$/;"	f	typeref:typename:void
+hd_out	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static void hd_out(unsigned int drive,unsigned int nsect,unsigned int sect,$/;"	f	typeref:typename:void	file:
+hd_struct	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static struct hd_struct {$/;"	s	file:
+head	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char head;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+head	oslab/linux-0.11/include/linux/tty.h	/^	unsigned long head;$/;"	m	struct:tty_queue	typeref:typename:unsigned long
+head	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+head	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char head = 0;$/;"	v	typeref:typename:unsigned char	file:
+head	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+i387	oslab/linux-0.11/include/linux/sched.h	/^	struct i387_struct i387;$/;"	m	struct:tss_struct	typeref:struct:i387_struct
+i387_struct	oslab/linux-0.11/include/linux/sched.h	/^struct i387_struct {$/;"	s
+i_atime	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long i_atime;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_count	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_count;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_ctime	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long i_ctime;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_dev	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_dev;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_dirt	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_dirt;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_gid	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_gid;$/;"	m	struct:d_inode	typeref:typename:unsigned char
+i_gid	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_gid;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_lock	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_lock;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_mode	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_mode;$/;"	m	struct:d_inode	typeref:typename:unsigned short
+i_mode	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_mode;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_mount	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_mount;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_mtime	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long i_mtime;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_nlinks	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_nlinks;$/;"	m	struct:d_inode	typeref:typename:unsigned char
+i_nlinks	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_nlinks;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_num	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_num;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_pipe	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_pipe;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_seek	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_seek;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_size	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long i_size;$/;"	m	struct:d_inode	typeref:typename:unsigned long
+i_size	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long i_size;$/;"	m	struct:m_inode	typeref:typename:unsigned long
+i_time	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long i_time;$/;"	m	struct:d_inode	typeref:typename:unsigned long
+i_uid	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_uid;$/;"	m	struct:d_inode	typeref:typename:unsigned short
+i_uid	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_uid;$/;"	m	struct:m_inode	typeref:typename:unsigned short
+i_update	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char i_update;$/;"	m	struct:m_inode	typeref:typename:unsigned char
+i_wait	oslab/linux-0.11/include/linux/fs.h	/^	struct task_struct * i_wait;$/;"	m	struct:m_inode	typeref:struct:task_struct *
+i_zone	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_zone[9];$/;"	m	struct:d_inode	typeref:typename:unsigned short[9]
+i_zone	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short i_zone[9];$/;"	m	struct:m_inode	typeref:typename:unsigned short[9]
+iget	oslab/linux-0.11/fs/inode.c	/^struct m_inode * iget(int dev,int nr)$/;"	f	typeref:struct:m_inode *
+immoutb_p	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^#define immoutb_p(/;"	d	file:
+inb	oslab/linux-0.11/include/asm/io.h	/^#define inb(/;"	d
+inb_p	oslab/linux-0.11/include/asm/io.h	/^#define inb_p(/;"	d
+init	oslab/linux-0.11/init/main.c	/^void init(void)$/;"	f	typeref:typename:void
+init	oslab/linux-0.11/kernel/chr_drv/serial.c	/^static void init(int port)$/;"	f	typeref:typename:void	file:
+init/main.o	oslab/linux-0.11/Makefile	/^init\/main.o: init\/main.c include\/unistd.h include\/sys\/stat.h \\$/;"	t
+init_bucket_desc	oslab/linux-0.11/lib/malloc.c	/^static inline void init_bucket_desc()$/;"	f	typeref:typename:void	file:
+init_task	oslab/linux-0.11/kernel/sched.c	/^static union task_union init_task = {INIT_TASK,};$/;"	v	typeref:union:task_union	file:
+inline	oslab/linux-0.11/lib/string.c	/^#define inline$/;"	d	file:
+ino_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned short ino_t;$/;"	t	typeref:typename:unsigned short
+inode	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short inode;$/;"	m	struct:dir_entry	typeref:typename:unsigned short
+inode.o	oslab/linux-0.11/fs/Makefile	/^inode.o: inode.c ..\/include\/string.h ..\/include\/sys\/stat.h \\$/;"	t
+inode_table	oslab/linux-0.11/fs/inode.c	/^struct m_inode inode_table[NR_INODE]={{0,},};$/;"	v	typeref:struct:m_inode[]
+insert_char	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void insert_char(void)$/;"	f	typeref:typename:void	file:
+insert_into_queues	oslab/linux-0.11/fs/buffer.c	/^static inline void insert_into_queues(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+insert_line	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void insert_line(void)$/;"	f	typeref:typename:void	file:
+interruptible_sleep_on	oslab/linux-0.11/kernel/sched.c	/^void interruptible_sleep_on(struct task_struct **p)$/;"	f	typeref:typename:void
+invalidate	oslab/linux-0.11/mm/memory.c	/^#define invalidate(/;"	d	file:
+invalidate_buffers	oslab/linux-0.11/fs/buffer.c	/^void inline invalidate_buffers(int dev)$/;"	f	typeref:typename:void
+invalidate_inodes	oslab/linux-0.11/fs/inode.c	/^void invalidate_inodes(int dev)$/;"	f	typeref:typename:void
+ioctl.o	oslab/linux-0.11/fs/Makefile	/^ioctl.o: ioctl.c ..\/include\/string.h ..\/include\/errno.h \\$/;"	t
+ioctl_ptr	oslab/linux-0.11/fs/ioctl.c	/^typedef int (*ioctl_ptr)(int dev,int cmd,int arg);$/;"	t	typeref:typename:int (*)(int dev,int cmd,int arg)	file:
+ioctl_table	oslab/linux-0.11/fs/ioctl.c	/^static ioctl_ptr ioctl_table[]={$/;"	v	typeref:typename:ioctl_ptr[]	file:
+iput	oslab/linux-0.11/fs/inode.c	/^void iput(struct m_inode * inode)$/;"	f	typeref:typename:void
+iret	oslab/linux-0.11/include/asm/system.h	/^#define iret(/;"	d
+is_digit	oslab/linux-0.11/kernel/vsprintf.c	/^#define is_digit(/;"	d	file:
+isalnum	oslab/linux-0.11/include/ctype.h	/^#define isalnum(/;"	d
+isalpha	oslab/linux-0.11/include/ctype.h	/^#define isalpha(/;"	d
+isascii	oslab/linux-0.11/include/ctype.h	/^#define isascii(/;"	d
+iscntrl	oslab/linux-0.11/include/ctype.h	/^#define iscntrl(/;"	d
+isdigit	oslab/linux-0.11/include/ctype.h	/^#define isdigit(/;"	d
+isgraph	oslab/linux-0.11/include/ctype.h	/^#define isgraph(/;"	d
+islower	oslab/linux-0.11/include/ctype.h	/^#define islower(/;"	d
+isprint	oslab/linux-0.11/include/ctype.h	/^#define isprint(/;"	d
+ispunct	oslab/linux-0.11/include/ctype.h	/^#define ispunct(/;"	d
+isspace	oslab/linux-0.11/include/ctype.h	/^#define isspace(/;"	d
+isupper	oslab/linux-0.11/include/ctype.h	/^#define isupper(/;"	d
+isxdigit	oslab/linux-0.11/include/ctype.h	/^#define isxdigit(/;"	d
+item_pro	oslab/pc.c	/^unsigned int item_pro, item_used;                \/* 刚生产的产品号；刚消费的产品号/;"	v	typeref:typename:unsigned int
+item_used	oslab/pc.c	/^unsigned int item_pro, item_used;                \/* 刚生产的产品号；刚消费的产品号/;"	v	typeref:typename:unsigned int
+jiffies	oslab/linux-0.11/kernel/sched.c	/^	long jiffies;$/;"	m	struct:timer_list	typeref:typename:long	file:
+jiffies	oslab/linux-0.11/kernel/sched.c	/^long volatile jiffies=0;$/;"	v	typeref:typename:long volatile
+kernel.o	oslab/linux-0.11/kernel/Makefile	/^kernel.o: $(OBJS)$/;"	t
+kernel/blk_drv/blk_drv.a	oslab/linux-0.11/Makefile	/^kernel\/blk_drv\/blk_drv.a: FORCE$/;"	t
+kernel/chr_drv/chr_drv.a	oslab/linux-0.11/Makefile	/^kernel\/chr_drv\/chr_drv.a: FORCE$/;"	t
+kernel/kernel.o	oslab/linux-0.11/Makefile	/^kernel\/kernel.o: FORCE$/;"	t
+kernel/math/math.a	oslab/linux-0.11/Makefile	/^kernel\/math\/math.a: FORCE$/;"	t
+kernel_mktime	oslab/linux-0.11/kernel/mktime.c	/^long kernel_mktime(struct tm * tm)$/;"	f	typeref:typename:long
+keyboard.s	oslab/linux-0.11/kernel/chr_drv/Makefile	/^keyboard.s: keyboard.S ..\/..\/include\/linux\/config.h$/;"	t
+kill_session	oslab/linux-0.11/kernel/exit.c	/^static void kill_session(void)$/;"	f	typeref:typename:void	file:
+l_len	oslab/linux-0.11/include/fcntl.h	/^	off_t l_len;$/;"	m	struct:flock	typeref:typename:off_t
+l_pid	oslab/linux-0.11/include/fcntl.h	/^	pid_t l_pid;$/;"	m	struct:flock	typeref:typename:pid_t
+l_start	oslab/linux-0.11/include/fcntl.h	/^	off_t l_start;$/;"	m	struct:flock	typeref:typename:off_t
+l_type	oslab/linux-0.11/include/fcntl.h	/^	short l_type;$/;"	m	struct:flock	typeref:typename:short
+l_whence	oslab/linux-0.11/include/fcntl.h	/^	short l_whence;$/;"	m	struct:flock	typeref:typename:short
+last_pid	oslab/linux-0.11/kernel/fork.c	/^long last_pid=0;$/;"	v	typeref:typename:long
+last_task_used_math	oslab/linux-0.11/kernel/sched.c	/^struct task_struct *last_task_used_math = NULL;$/;"	v	typeref:struct:task_struct *
+ldiv_t	oslab/linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	t	typeref:struct:__anondfecc8fd0208
+ldt	oslab/linux-0.11/include/linux/sched.h	/^	long	ldt;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ldt	oslab/linux-0.11/include/linux/sched.h	/^	struct desc_struct ldt[3];$/;"	m	struct:task_struct	typeref:struct:desc_struct[3]
+leader	oslab/linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+lf	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void lf(void)$/;"	f	typeref:typename:void	file:
+lib.a	oslab/linux-0.11/lib/Makefile	/^lib.a: $(OBJS)$/;"	t
+lib/lib.a	oslab/linux-0.11/Makefile	/^lib\/lib.a: FORCE$/;"	t
+ll_rw_blk.o	oslab/linux-0.11/kernel/blk_drv/Makefile	/^ll_rw_blk.s ll_rw_blk.o: ll_rw_blk.c ..\/..\/include\/errno.h \\$/;"	t
+ll_rw_blk.s	oslab/linux-0.11/kernel/blk_drv/Makefile	/^ll_rw_blk.s ll_rw_blk.o: ll_rw_blk.c ..\/..\/include\/errno.h \\$/;"	t
+ll_rw_block	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^void ll_rw_block(int rw, struct buffer_head * bh)$/;"	f	typeref:typename:void
+lldt	oslab/linux-0.11/include/linux/sched.h	/^#define lldt(/;"	d
+lock_buffer	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static inline void lock_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+lock_inode	oslab/linux-0.11/fs/inode.c	/^static inline void lock_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+lock_super	oslab/linux-0.11/fs/super.c	/^static void lock_super(struct super_block * sb)$/;"	f	typeref:typename:void	file:
+ltr	oslab/linux-0.11/include/linux/sched.h	/^#define ltr(/;"	d
+lzone	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+m_inode	oslab/linux-0.11/include/linux/fs.h	/^struct m_inode {$/;"	s
+machine	oslab/linux-0.11/include/sys/utsname.h	/^	char machine[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+main	oslab/iam.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	oslab/linux-0.11/init/main.c	/^void main(void)		\/* This really IS void, no error here. *\/$/;"	f	typeref:typename:void
+main	oslab/linux-0.11/tools/build.c	/^int main(int argc, char ** argv)$/;"	f	typeref:typename:int
+main	oslab/pc.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	oslab/process.c	/^int main(int argc, char * argv[])$/;"	f	typeref:typename:int
+main	oslab/whoami.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main_memory_start	oslab/linux-0.11/init/main.c	/^static long main_memory_start = 0;$/;"	v	typeref:typename:long	file:
+make_request	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static void make_request(int major,int rw, struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+malloc	oslab/linux-0.11/lib/malloc.c	/^void *malloc(unsigned int len)$/;"	f	typeref:typename:void *
+malloc.o	oslab/linux-0.11/lib/Makefile	/^malloc.s malloc.o : malloc.c ..\/include\/linux\/kernel.h ..\/include\/linux\/mm.h \\$/;"	t
+malloc.s	oslab/linux-0.11/lib/Makefile	/^malloc.s malloc.o : malloc.c ..\/include\/linux\/kernel.h ..\/include\/linux\/mm.h \\$/;"	t
+match	oslab/linux-0.11/fs/namei.c	/^static int match(int len,const char * name,struct dir_entry * de)$/;"	f	typeref:typename:int	file:
+math.a	oslab/linux-0.11/kernel/math/Makefile	/^math.a: $(OBJS)$/;"	t
+math_emulate	oslab/linux-0.11/kernel/math/math_emulate.c	/^void math_emulate(long edi, long esi, long ebp, long sys_call_ret,$/;"	f	typeref:typename:void
+math_error	oslab/linux-0.11/kernel/math/math_emulate.c	/^void math_error(void)$/;"	f	typeref:typename:void
+math_state_restore	oslab/linux-0.11/kernel/sched.c	/^void math_state_restore()$/;"	f	typeref:typename:void
+mem_init	oslab/linux-0.11/mm/memory.c	/^void mem_init(long start_mem, long end_mem)$/;"	f	typeref:typename:void
+mem_map	oslab/linux-0.11/mm/memory.c	/^static unsigned char mem_map [ PAGING_PAGES ] = {0,};$/;"	v	typeref:typename:unsigned char[]	file:
+memchr	oslab/linux-0.11/include/string.h	/^extern inline void * memchr(const void * cs,char c,int count)$/;"	f	typeref:typename:void *
+memcmp	oslab/linux-0.11/include/string.h	/^static inline int memcmp(const void * cs,const void * ct,int count)$/;"	f	typeref:typename:int
+memcpy	oslab/linux-0.11/include/asm/memory.h	/^#define memcpy(/;"	d
+memcpy	oslab/linux-0.11/include/string.h	/^extern inline void * memcpy(void * dest,const void * src, int n)$/;"	f	typeref:typename:void *
+memmove	oslab/linux-0.11/include/string.h	/^extern inline void * memmove(void * dest,const void * src, int n)$/;"	f	typeref:typename:void *
+memory.o	oslab/linux-0.11/mm/Makefile	/^memory.o: memory.c ..\/include\/signal.h ..\/include\/sys\/types.h \\$/;"	t
+memory_end	oslab/linux-0.11/init/main.c	/^static long memory_end = 0;$/;"	v	typeref:typename:long	file:
+memset	oslab/linux-0.11/include/string.h	/^static inline void * memset(void * s,char c,int count)$/;"	f	typeref:typename:void *
+metux	oslab/pc.c	/^sem_t *metux, *full, *empty;                    \/* 3个信号量 *\/$/;"	v	typeref:typename:sem_t *
+mktime.o	oslab/linux-0.11/kernel/Makefile	/^mktime.s mktime.o: mktime.c ..\/include\/time.h$/;"	t
+mktime.s	oslab/linux-0.11/kernel/Makefile	/^mktime.s mktime.o: mktime.c ..\/include\/time.h$/;"	t
+mm.o	oslab/linux-0.11/mm/Makefile	/^mm.o: $(OBJS)$/;"	t
+mm/mm.o	oslab/linux-0.11/Makefile	/^mm\/mm.o: FORCE$/;"	t
+mode_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned short mode_t;$/;"	t	typeref:typename:unsigned short
+modtime	oslab/linux-0.11/include/utime.h	/^	time_t modtime;$/;"	m	struct:utimbuf	typeref:typename:time_t
+moff_timer	oslab/linux-0.11/kernel/sched.c	/^static int moff_timer[4]={0,0,0,0};$/;"	v	typeref:typename:int[4]	file:
+mon_timer	oslab/linux-0.11/kernel/sched.c	/^static int  mon_timer[4]={0,0,0,0};$/;"	v	typeref:typename:int[4]	file:
+month	oslab/linux-0.11/kernel/mktime.c	/^static int month[12] = {$/;"	v	typeref:typename:int[12]	file:
+mount_root	oslab/linux-0.11/fs/super.c	/^void mount_root(void)$/;"	f	typeref:typename:void
+move_to_user_mode	oslab/linux-0.11/include/asm/system.h	/^#define move_to_user_mode(/;"	d
+n_desc	oslab/linux-0.11/include/a.out.h	/^  short n_desc;$/;"	m	struct:nlist	typeref:typename:short
+n_name	oslab/linux-0.11/include/a.out.h	/^    char *n_name;$/;"	m	union:nlist::__anon76e401c1010a	typeref:typename:char *
+n_next	oslab/linux-0.11/include/a.out.h	/^    struct nlist *n_next;$/;"	m	union:nlist::__anon76e401c1010a	typeref:struct:nlist *
+n_other	oslab/linux-0.11/include/a.out.h	/^  char n_other;$/;"	m	struct:nlist	typeref:typename:char
+n_strx	oslab/linux-0.11/include/a.out.h	/^    long n_strx;$/;"	m	union:nlist::__anon76e401c1010a	typeref:typename:long
+n_type	oslab/linux-0.11/include/a.out.h	/^  unsigned char n_type;$/;"	m	struct:nlist	typeref:typename:unsigned char
+n_un	oslab/linux-0.11/include/a.out.h	/^  } n_un;$/;"	m	struct:nlist	typeref:union:nlist::__anon76e401c1010a
+n_value	oslab/linux-0.11/include/a.out.h	/^  unsigned long n_value;$/;"	m	struct:nlist	typeref:typename:unsigned long
+name	oslab/linux-0.11/include/linux/fs.h	/^	char name[NAME_LEN];$/;"	m	struct:dir_entry	typeref:typename:char[]
+name	oslab/linux-0.11/include/linux/sem.h	/^    char name[20];$/;"	m	struct:semaphore_t	typeref:typename:char[20]
+namei	oslab/linux-0.11/fs/namei.c	/^struct m_inode * namei(const char * pathname)$/;"	f	typeref:struct:m_inode *
+namei.o	oslab/linux-0.11/fs/Makefile	/^namei.o: namei.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+new_block	oslab/linux-0.11/fs/bitmap.c	/^int new_block(int dev)$/;"	f	typeref:typename:int
+new_inode	oslab/linux-0.11/fs/bitmap.c	/^struct m_inode * new_inode(int dev)$/;"	f	typeref:struct:m_inode *
+next	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	struct request * next;$/;"	m	struct:request	typeref:struct:request *
+next	oslab/linux-0.11/kernel/sched.c	/^	struct timer_list * next;$/;"	m	struct:timer_list	typeref:struct:timer_list *	file:
+next	oslab/linux-0.11/lib/malloc.c	/^	struct bucket_desc	*next;$/;"	m	struct:bucket_desc	typeref:struct:bucket_desc *	file:
+next_timer	oslab/linux-0.11/kernel/sched.c	/^} timer_list[TIME_REQUESTS], * next_timer = NULL;$/;"	v	typeref:struct:timer_list[]*
+nlink_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned char nlink_t;$/;"	t	typeref:typename:unsigned char
+nlist	oslab/linux-0.11/include/a.out.h	/^struct nlist {$/;"	s
+nodename	oslab/linux-0.11/include/sys/utsname.h	/^	char nodename[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+nop	oslab/linux-0.11/include/asm/system.h	/^#define nop(/;"	d
+npar	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	npar,par[NPAR];$/;"	v	typeref:typename:unsigned long	file:
+nr_sectors	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	unsigned long nr_sectors;$/;"	m	struct:request	typeref:typename:unsigned long
+nr_sects	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned int nr_sects;		\/* nr of sectors in partition *\/$/;"	m	struct:partition	typeref:typename:unsigned int
+nr_sects	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	long nr_sects;$/;"	m	struct:hd_struct	typeref:typename:long	file:
+number	oslab/linux-0.11/kernel/vsprintf.c	/^static char * number(char * str, int num, int base, int size, int precision$/;"	f	typeref:typename:char *	file:
+off_t	oslab/linux-0.11/include/sys/types.h	/^typedef long off_t;$/;"	t	typeref:typename:long
+offsetof	oslab/linux-0.11/include/stddef.h	/^#define offsetof(/;"	d
+oom	oslab/linux-0.11/mm/memory.c	/^static inline volatile void oom(void)$/;"	f	typeref:typename:volatile void	file:
+open	oslab/linux-0.11/lib/open.c	/^int open(const char * filename, int flag, ...)$/;"	f	typeref:typename:int
+open.o	oslab/linux-0.11/fs/Makefile	/^open.o: open.c ..\/include\/string.h ..\/include\/errno.h ..\/include\/fcntl.h \\$/;"	t
+open.o	oslab/linux-0.11/lib/Makefile	/^open.s open.o : open.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+open.s	oslab/linux-0.11/lib/Makefile	/^open.s open.o : open.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+open_namei	oslab/linux-0.11/fs/namei.c	/^int open_namei(const char * pathname, int flag, int mode,$/;"	f	typeref:typename:int
+origin	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	origin;		\/* Used for EGA\/VGA fast scroll	*\/$/;"	v	typeref:typename:unsigned long	file:
+outb	oslab/linux-0.11/include/asm/io.h	/^#define outb(/;"	d
+outb_p	oslab/linux-0.11/include/asm/io.h	/^#define outb_p(/;"	d
+output_byte	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void output_byte(char byte)$/;"	f	typeref:typename:void	file:
+page	oslab/linux-0.11/lib/malloc.c	/^	void			*page;$/;"	m	struct:bucket_desc	typeref:typename:void *	file:
+panic	oslab/linux-0.11/kernel/panic.c	/^volatile void panic(const char * s)$/;"	f	typeref:typename:volatile void
+panic.o	oslab/linux-0.11/kernel/Makefile	/^panic.s panic.o: panic.c ..\/include\/linux\/kernel.h ..\/include\/linux\/sched.h \\$/;"	t
+panic.s	oslab/linux-0.11/kernel/Makefile	/^panic.s panic.o: panic.c ..\/include\/linux\/kernel.h ..\/include\/linux\/sched.h \\$/;"	t
+par	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	npar,par[NPAR];$/;"	v	typeref:typename:unsigned long[]	file:
+partition	oslab/linux-0.11/include/linux/hdreg.h	/^struct partition {$/;"	s
+permission	oslab/linux-0.11/fs/namei.c	/^static int permission(struct m_inode * inode,int mask)$/;"	f	typeref:typename:int	file:
+pgrp	oslab/linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+pgrp	oslab/linux-0.11/include/linux/tty.h	/^	int pgrp;$/;"	m	struct:tty_struct	typeref:typename:int
+pid	oslab/linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+pid_t	oslab/linux-0.11/include/sys/types.h	/^typedef int pid_t;$/;"	t	typeref:typename:int
+pipe.o	oslab/linux-0.11/fs/Makefile	/^pipe.o: pipe.c ..\/include\/signal.h ..\/include\/sys\/types.h \\$/;"	t
+port_read	oslab/linux-0.11/kernel/blk_drv/hd.c	/^#define port_read(/;"	d	file:
+port_write	oslab/linux-0.11/kernel/blk_drv/hd.c	/^#define port_write(/;"	d	file:
+pos	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	pos;$/;"	v	typeref:typename:unsigned long	file:
+printf	oslab/linux-0.11/init/main.c	/^static int printf(const char *fmt, ...)$/;"	f	typeref:typename:int	file:
+printk	oslab/linux-0.11/kernel/printk.c	/^int printk(const char *fmt, ...)$/;"	f	typeref:typename:int
+printk.o	oslab/linux-0.11/kernel/Makefile	/^printk.s printk.o: printk.c ..\/include\/stdarg.h ..\/include\/stddef.h \\$/;"	t
+printk.s	oslab/linux-0.11/kernel/Makefile	/^printk.s printk.o: printk.c ..\/include\/stdarg.h ..\/include\/stddef.h \\$/;"	t
+priority	oslab/linux-0.11/include/linux/sched.h	/^	long priority;$/;"	m	struct:task_struct	typeref:typename:long
+proc_list	oslab/linux-0.11/include/linux/tty.h	/^	struct task_struct * proc_list;$/;"	m	struct:tty_queue	typeref:struct:task_struct *
+ptrdiff_t	oslab/linux-0.11/include/stddef.h	/^typedef long ptrdiff_t;$/;"	t	typeref:typename:long
+ptrdiff_t	oslab/linux-0.11/include/sys/types.h	/^typedef long ptrdiff_t;$/;"	t	typeref:typename:long
+put_fs_byte	oslab/linux-0.11/include/asm/segment.h	/^static inline void put_fs_byte(char val,char *addr)$/;"	f	typeref:typename:void
+put_fs_long	oslab/linux-0.11/include/asm/segment.h	/^static inline void put_fs_long(unsigned long val,unsigned long * addr)$/;"	f	typeref:typename:void
+put_fs_word	oslab/linux-0.11/include/asm/segment.h	/^static inline void put_fs_word(short val,short * addr)$/;"	f	typeref:typename:void
+put_page	oslab/linux-0.11/mm/memory.c	/^unsigned long put_page(unsigned long page,unsigned long address)$/;"	f	typeref:typename:unsigned long
+put_super	oslab/linux-0.11/fs/super.c	/^void put_super(int dev)$/;"	f	typeref:typename:void
+pwd	oslab/linux-0.11/include/linux/sched.h	/^	struct m_inode * pwd;$/;"	m	struct:task_struct	typeref:struct:m_inode *
+ques	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	ques=0;$/;"	v	typeref:typename:unsigned long	file:
+queue	oslab/linux-0.11/include/linux/sem.h	/^    struct task_struct *queue;$/;"	m	struct:semaphore_t	typeref:struct:task_struct *
+quot	oslab/linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	m	struct:__anondfecc8fd0108	typeref:typename:int
+quot	oslab/linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	m	struct:__anondfecc8fd0208	typeref:typename:long
+quotient	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static unsigned short quotient[] = {$/;"	v	typeref:typename:unsigned short[]	file:
+r_address	oslab/linux-0.11/include/a.out.h	/^  int r_address;$/;"	m	struct:relocation_info	typeref:typename:int
+r_extern	oslab/linux-0.11/include/a.out.h	/^  unsigned int r_extern:1;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:1
+r_length	oslab/linux-0.11/include/a.out.h	/^  unsigned int r_length:2;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:2
+r_pad	oslab/linux-0.11/include/a.out.h	/^  unsigned int r_pad:4;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:4
+r_pcrel	oslab/linux-0.11/include/a.out.h	/^  unsigned int r_pcrel:1;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:1
+r_symbolnum	oslab/linux-0.11/include/a.out.h	/^  unsigned int r_symbolnum:24;$/;"	m	struct:relocation_info	typeref:typename:unsigned int:24
+ramdisk.o	oslab/linux-0.11/kernel/blk_drv/Makefile	/^ramdisk.s ramdisk.o: ramdisk.c ..\/..\/include\/string.h ..\/..\/include\/linux\/config.h \\$/;"	t
+ramdisk.s	oslab/linux-0.11/kernel/blk_drv/Makefile	/^ramdisk.s ramdisk.o: ramdisk.c ..\/..\/include\/string.h ..\/..\/include\/linux\/config.h \\$/;"	t
+rate	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned char gap,rate,spec1;$/;"	m	struct:floppy_struct	typeref:typename:unsigned char	file:
+rd_init	oslab/linux-0.11/kernel/blk_drv/ramdisk.c	/^long rd_init(long mem_start, int length)$/;"	f	typeref:typename:long
+rd_length	oslab/linux-0.11/kernel/blk_drv/ramdisk.c	/^int	rd_length = 0;$/;"	v	typeref:typename:int
+rd_load	oslab/linux-0.11/kernel/blk_drv/ramdisk.c	/^void rd_load(void)$/;"	f	typeref:typename:void
+rd_start	oslab/linux-0.11/kernel/blk_drv/ramdisk.c	/^char	*rd_start;$/;"	v	typeref:typename:char *
+read_inode	oslab/linux-0.11/fs/inode.c	/^static void read_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+read_intr	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static void read_intr(void)$/;"	f	typeref:typename:void	file:
+read_pipe	oslab/linux-0.11/fs/pipe.c	/^int read_pipe(struct m_inode * inode, char * buf, int count)$/;"	f	typeref:typename:int
+read_q	oslab/linux-0.11/include/linux/tty.h	/^	struct tty_queue read_q;$/;"	m	struct:tty_struct	typeref:struct:tty_queue
+read_super	oslab/linux-0.11/fs/super.c	/^static struct super_block * read_super(int dev)$/;"	f	typeref:struct:super_block *	file:
+read_write.o	oslab/linux-0.11/fs/Makefile	/^read_write.o: read_write.c ..\/include\/sys\/stat.h ..\/include\/sys\/types.h \\$/;"	t
+recal_interrupt	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void recal_interrupt(void)$/;"	f	typeref:typename:void	file:
+recal_intr	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static void recal_intr(void)$/;"	f	typeref:typename:void	file:
+recalibrate	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static int recalibrate = 0;$/;"	v	typeref:typename:int	file:
+recalibrate	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static int recalibrate = 1;$/;"	v	typeref:typename:int	file:
+recalibrate_floppy	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void recalibrate_floppy(void)$/;"	f	typeref:typename:void	file:
+refcnt	oslab/linux-0.11/lib/malloc.c	/^	unsigned short		refcnt;$/;"	m	struct:bucket_desc	typeref:typename:unsigned short	file:
+release	oslab/linux-0.11/include/sys/utsname.h	/^	char release[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+release	oslab/linux-0.11/kernel/exit.c	/^void release(struct task_struct * p)$/;"	f	typeref:typename:void
+relocation_info	oslab/linux-0.11/include/a.out.h	/^struct relocation_info$/;"	s
+rem	oslab/linux-0.11/include/sys/types.h	/^typedef struct { int quot,rem; } div_t;$/;"	m	struct:__anondfecc8fd0108	typeref:typename:int
+rem	oslab/linux-0.11/include/sys/types.h	/^typedef struct { long quot,rem; } ldiv_t;$/;"	m	struct:__anondfecc8fd0208	typeref:typename:long
+remove_from_queues	oslab/linux-0.11/fs/buffer.c	/^static inline void remove_from_queues(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+reply_buffer	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char reply_buffer[MAX_REPLIES];$/;"	v	typeref:typename:unsigned char[]	file:
+request	oslab/linux-0.11/kernel/blk_drv/blk.h	/^struct request {$/;"	s
+request	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^struct request request[NR_REQUEST];$/;"	v	typeref:struct:request[]
+request_fn	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	void (*request_fn)(void);$/;"	m	struct:blk_dev_struct	typeref:typename:void (*)(void)
+reset	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static int reset = 0;$/;"	v	typeref:typename:int	file:
+reset	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static int reset = 1;$/;"	v	typeref:typename:int	file:
+reset_controller	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static void reset_controller(void)$/;"	f	typeref:typename:void	file:
+reset_floppy	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void reset_floppy(void)$/;"	f	typeref:typename:void	file:
+reset_hd	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static void reset_hd(int nr)$/;"	f	typeref:typename:void	file:
+reset_interrupt	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void reset_interrupt(void)$/;"	f	typeref:typename:void	file:
+respond	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void respond(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+restore_cur	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void restore_cur(void)$/;"	f	typeref:typename:void	file:
+result	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static int result(void)$/;"	f	typeref:typename:int	file:
+ri	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void ri(void)$/;"	f	typeref:typename:void	file:
+root	oslab/linux-0.11/include/linux/sched.h	/^	struct m_inode * root;$/;"	m	struct:task_struct	typeref:struct:m_inode *
+rs_init	oslab/linux-0.11/kernel/chr_drv/serial.c	/^void rs_init(void)$/;"	f	typeref:typename:void
+rs_write	oslab/linux-0.11/kernel/chr_drv/serial.c	/^void rs_write(struct tty_struct * tty)$/;"	f	typeref:typename:void
+rw_char	oslab/linux-0.11/fs/char_dev.c	/^int rw_char(int rw,int dev, char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int
+rw_interrupt	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void rw_interrupt(void)$/;"	f	typeref:typename:void	file:
+rw_kmem	oslab/linux-0.11/fs/char_dev.c	/^static int rw_kmem(int rw,char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_mem	oslab/linux-0.11/fs/char_dev.c	/^static int rw_mem(int rw,char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_memory	oslab/linux-0.11/fs/char_dev.c	/^static int rw_memory(int rw, unsigned minor, char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_port	oslab/linux-0.11/fs/char_dev.c	/^static int rw_port(int rw,char * buf, int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_ram	oslab/linux-0.11/fs/char_dev.c	/^static int rw_ram(int rw,char * buf, int count, off_t *pos)$/;"	f	typeref:typename:int	file:
+rw_tty	oslab/linux-0.11/fs/char_dev.c	/^static int rw_tty(int rw,unsigned minor,char * buf,int count, off_t * pos)$/;"	f	typeref:typename:int	file:
+rw_ttyx	oslab/linux-0.11/fs/char_dev.c	/^static int rw_ttyx(int rw,unsigned minor,char * buf,int count,off_t * pos)$/;"	f	typeref:typename:int	file:
+s_dev	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_dev;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_dirt	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char s_dirt;$/;"	m	struct:super_block	typeref:typename:unsigned char
+s_firstdatazone	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_firstdatazone;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_firstdatazone	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_firstdatazone;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_imap	oslab/linux-0.11/include/linux/fs.h	/^	struct buffer_head * s_imap[8];$/;"	m	struct:super_block	typeref:struct:buffer_head * [8]
+s_imap_blocks	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_imap_blocks;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_imap_blocks	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_imap_blocks;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_imount	oslab/linux-0.11/include/linux/fs.h	/^	struct m_inode * s_imount;$/;"	m	struct:super_block	typeref:struct:m_inode *
+s_isup	oslab/linux-0.11/include/linux/fs.h	/^	struct m_inode * s_isup;$/;"	m	struct:super_block	typeref:struct:m_inode *
+s_lock	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char s_lock;$/;"	m	struct:super_block	typeref:typename:unsigned char
+s_log_zone_size	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_log_zone_size;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_log_zone_size	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_log_zone_size;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_magic	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_magic;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_magic	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_magic;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_max_size	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long s_max_size;$/;"	m	struct:d_super_block	typeref:typename:unsigned long
+s_max_size	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long s_max_size;$/;"	m	struct:super_block	typeref:typename:unsigned long
+s_ninodes	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_ninodes;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_ninodes	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_ninodes;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_nzones	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_nzones;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_nzones	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_nzones;$/;"	m	struct:super_block	typeref:typename:unsigned short
+s_rd_only	oslab/linux-0.11/include/linux/fs.h	/^	unsigned char s_rd_only;$/;"	m	struct:super_block	typeref:typename:unsigned char
+s_time	oslab/linux-0.11/include/linux/fs.h	/^	unsigned long s_time;$/;"	m	struct:super_block	typeref:typename:unsigned long
+s_wait	oslab/linux-0.11/include/linux/fs.h	/^	struct task_struct * s_wait;$/;"	m	struct:super_block	typeref:struct:task_struct *
+s_zmap	oslab/linux-0.11/include/linux/fs.h	/^	struct buffer_head * s_zmap[8];$/;"	m	struct:super_block	typeref:struct:buffer_head * [8]
+s_zmap_blocks	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_zmap_blocks;$/;"	m	struct:d_super_block	typeref:typename:unsigned short
+s_zmap_blocks	oslab/linux-0.11/include/linux/fs.h	/^	unsigned short s_zmap_blocks;$/;"	m	struct:super_block	typeref:typename:unsigned short
+sa_flags	oslab/linux-0.11/include/signal.h	/^	int sa_flags;$/;"	m	struct:sigaction	typeref:typename:int
+sa_handler	oslab/linux-0.11/include/signal.h	/^	void (*sa_handler)(int);$/;"	m	struct:sigaction	typeref:typename:void (*)(int)
+sa_mask	oslab/linux-0.11/include/signal.h	/^	sigset_t sa_mask;$/;"	m	struct:sigaction	typeref:typename:sigset_t
+sa_restorer	oslab/linux-0.11/include/signal.h	/^	void (*sa_restorer)(void);$/;"	m	struct:sigaction	typeref:typename:void (*)(void)
+save_cur	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void save_cur(void)$/;"	f	typeref:typename:void	file:
+save_old	oslab/linux-0.11/kernel/signal.c	/^static inline void save_old(char * from,char * to)$/;"	f	typeref:typename:void	file:
+saved_x	oslab/linux-0.11/kernel/chr_drv/console.c	/^static int saved_x=0;$/;"	v	typeref:typename:int	file:
+saved_y	oslab/linux-0.11/kernel/chr_drv/console.c	/^static int saved_y=0;$/;"	v	typeref:typename:int	file:
+sched.o	oslab/linux-0.11/kernel/Makefile	/^sched.s sched.o: sched.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+sched.s	oslab/linux-0.11/kernel/Makefile	/^sched.s sched.o: sched.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+sched_init	oslab/linux-0.11/kernel/sched.c	/^void sched_init(void)$/;"	f	typeref:typename:void
+schedule	oslab/linux-0.11/kernel/sched.c	/^void schedule(void)$/;"	f	typeref:typename:void
+scr_end	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	scr_end;	\/* Used for EGA\/VGA fast scroll	*\/$/;"	v	typeref:typename:unsigned long	file:
+scrdown	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void scrdown(void)$/;"	f	typeref:typename:void	file:
+scrup	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void scrup(void)$/;"	f	typeref:typename:void	file:
+secondary	oslab/linux-0.11/include/linux/tty.h	/^	struct tty_queue secondary;$/;"	m	struct:tty_struct	typeref:struct:tty_queue
+sect	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+sect	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+sector	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char sector;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+sector	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	unsigned long sector;$/;"	m	struct:request	typeref:typename:unsigned long
+sector	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char sector = 0;$/;"	v	typeref:typename:unsigned char	file:
+seek	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static int seek = 0;$/;"	v	typeref:typename:int	file:
+seek_interrupt	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void seek_interrupt(void)$/;"	f	typeref:typename:void	file:
+seek_track	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char seek_track = 0;$/;"	v	typeref:typename:unsigned char	file:
+selected	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^unsigned char selected = 0;$/;"	v	typeref:typename:unsigned char
+sem.o	oslab/linux-0.11/kernel/Makefile	/^sem.s sem.o: sem.c ..\/include\/linux\/sem.h ..\/include\/linux\/kernel.h \\$/;"	t
+sem.s	oslab/linux-0.11/kernel/Makefile	/^sem.s sem.o: sem.c ..\/include\/linux\/sem.h ..\/include\/linux\/kernel.h \\$/;"	t
+sem_list	oslab/linux-0.11/kernel/sem.c	/^sem_t sem_list[SEM_LIST_LENGTH] = {$/;"	v	typeref:typename:sem_t[]
+sem_t	oslab/linux-0.11/include/linux/sem.h	/^}sem_t;$/;"	t	typeref:struct:semaphore_t
+semaphore_t	oslab/linux-0.11/include/linux/sem.h	/^typedef struct semaphore_t{$/;"	s
+send_break	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void send_break(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+send_sig	oslab/linux-0.11/kernel/exit.c	/^static inline int send_sig(long sig,struct task_struct * p,int priv)$/;"	f	typeref:typename:int	file:
+serial.o	oslab/linux-0.11/kernel/chr_drv/Makefile	/^serial.s serial.o: serial.c ..\/..\/include\/linux\/tty.h ..\/..\/include\/termios.h \\$/;"	t
+serial.s	oslab/linux-0.11/kernel/chr_drv/Makefile	/^serial.s serial.o: serial.c ..\/..\/include\/linux\/tty.h ..\/..\/include\/termios.h \\$/;"	t
+session	oslab/linux-0.11/include/linux/sched.h	/^	long pid,father,pgrp,session,leader;$/;"	m	struct:task_struct	typeref:typename:long
+set_base	oslab/linux-0.11/include/linux/sched.h	/^#define set_base(/;"	d
+set_bit	oslab/linux-0.11/fs/bitmap.c	/^#define set_bit(/;"	d	file:
+set_bit	oslab/linux-0.11/fs/super.c	/^#define set_bit(/;"	d	file:
+set_cursor	oslab/linux-0.11/kernel/chr_drv/console.c	/^static inline void set_cursor(void)$/;"	f	typeref:typename:void	file:
+set_fs	oslab/linux-0.11/include/asm/segment.h	/^static inline void set_fs(unsigned long val)$/;"	f	typeref:typename:void
+set_intr_gate	oslab/linux-0.11/include/asm/system.h	/^#define set_intr_gate(/;"	d
+set_ldt_desc	oslab/linux-0.11/include/asm/system.h	/^#define set_ldt_desc(/;"	d
+set_limit	oslab/linux-0.11/include/linux/sched.h	/^#define set_limit(/;"	d
+set_origin	oslab/linux-0.11/kernel/chr_drv/console.c	/^static inline void set_origin(void)$/;"	f	typeref:typename:void	file:
+set_system_gate	oslab/linux-0.11/include/asm/system.h	/^#define set_system_gate(/;"	d
+set_termio	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int set_termio(struct tty_struct * tty, struct termio * termio)$/;"	f	typeref:typename:int	file:
+set_termios	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static int set_termios(struct tty_struct * tty, struct termios * termios)$/;"	f	typeref:typename:int	file:
+set_trap_gate	oslab/linux-0.11/include/asm/system.h	/^#define set_trap_gate(/;"	d
+set_tss_desc	oslab/linux-0.11/include/asm/system.h	/^#define set_tss_desc(/;"	d
+setsid.o	oslab/linux-0.11/lib/Makefile	/^setsid.s setsid.o : setsid.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+setsid.s	oslab/linux-0.11/lib/Makefile	/^setsid.s setsid.o : setsid.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+setup_DMA	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void setup_DMA(void)$/;"	f	typeref:typename:void	file:
+setup_rw_floppy	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^inline void setup_rw_floppy(void)$/;"	f	typeref:typename:void
+sgid	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short gid,egid,sgid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+share_page	oslab/linux-0.11/mm/memory.c	/^static int share_page(unsigned long address)$/;"	f	typeref:typename:int	file:
+show_stat	oslab/linux-0.11/kernel/sched.c	/^void show_stat(void)$/;"	f	typeref:typename:void
+show_task	oslab/linux-0.11/kernel/sched.c	/^void show_task(int nr,struct task_struct * p)$/;"	f	typeref:typename:void
+sig_atomic_t	oslab/linux-0.11/include/signal.h	/^typedef int sig_atomic_t;$/;"	t	typeref:typename:int
+sigaction	oslab/linux-0.11/include/linux/sched.h	/^	struct sigaction sigaction[32];$/;"	m	struct:task_struct	typeref:struct:sigaction[32]
+sigaction	oslab/linux-0.11/include/signal.h	/^struct sigaction {$/;"	s
+signal	oslab/linux-0.11/include/linux/sched.h	/^	long signal;$/;"	m	struct:task_struct	typeref:typename:long
+signal.o	oslab/linux-0.11/kernel/Makefile	/^signal.s signal.o: signal.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+signal.s	oslab/linux-0.11/kernel/Makefile	/^signal.s signal.o: signal.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+sigset_t	oslab/linux-0.11/include/signal.h	/^typedef unsigned int sigset_t;		\/* 32 bits *\/$/;"	t	typeref:typename:unsigned int
+size	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+size	oslab/linux-0.11/lib/malloc.c	/^	int			size;$/;"	m	struct:_bucket_dir	typeref:typename:int	file:
+size_t	oslab/linux-0.11/include/stddef.h	/^typedef unsigned long size_t;$/;"	t	typeref:typename:unsigned long
+size_t	oslab/linux-0.11/include/string.h	/^typedef unsigned int size_t;$/;"	t	typeref:typename:unsigned int
+size_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned int size_t;$/;"	t	typeref:typename:unsigned int
+size_t	oslab/linux-0.11/include/time.h	/^typedef unsigned int size_t;$/;"	t	typeref:typename:unsigned int
+skip_atoi	oslab/linux-0.11/kernel/vsprintf.c	/^static int skip_atoi(const char **s)$/;"	f	typeref:typename:int	file:
+sleep_if_empty	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^static void sleep_if_empty(struct tty_queue * queue)$/;"	f	typeref:typename:void	file:
+sleep_if_full	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^static void sleep_if_full(struct tty_queue * queue)$/;"	f	typeref:typename:void	file:
+sleep_on	oslab/linux-0.11/kernel/sched.c	/^void sleep_on(struct task_struct **p)$/;"	f	typeref:typename:void
+spec1	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned char gap,rate,spec1;$/;"	m	struct:floppy_struct	typeref:typename:unsigned char	file:
+speed_t	oslab/linux-0.11/include/termios.h	/^typedef int speed_t;$/;"	t	typeref:typename:int
+ss	oslab/linux-0.11/include/linux/sched.h	/^	long	ss;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ss0	oslab/linux-0.11/include/linux/sched.h	/^	long	ss0;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ss1	oslab/linux-0.11/include/linux/sched.h	/^	long	ss1;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+ss2	oslab/linux-0.11/include/linux/sched.h	/^	long	ss2;		\/* 16 high bits zero *\/$/;"	m	struct:tss_struct	typeref:typename:long
+st_atime	oslab/linux-0.11/include/sys/stat.h	/^	time_t	st_atime;$/;"	m	struct:stat	typeref:typename:time_t
+st_ctime	oslab/linux-0.11/include/sys/stat.h	/^	time_t	st_ctime;$/;"	m	struct:stat	typeref:typename:time_t
+st_dev	oslab/linux-0.11/include/sys/stat.h	/^	dev_t	st_dev;$/;"	m	struct:stat	typeref:typename:dev_t
+st_gid	oslab/linux-0.11/include/sys/stat.h	/^	gid_t	st_gid;$/;"	m	struct:stat	typeref:typename:gid_t
+st_ino	oslab/linux-0.11/include/sys/stat.h	/^	ino_t	st_ino;$/;"	m	struct:stat	typeref:typename:ino_t
+st_mode	oslab/linux-0.11/include/sys/stat.h	/^	umode_t	st_mode;$/;"	m	struct:stat	typeref:typename:umode_t
+st_mtime	oslab/linux-0.11/include/sys/stat.h	/^	time_t	st_mtime;$/;"	m	struct:stat	typeref:typename:time_t
+st_nlink	oslab/linux-0.11/include/sys/stat.h	/^	nlink_t	st_nlink;$/;"	m	struct:stat	typeref:typename:nlink_t
+st_rdev	oslab/linux-0.11/include/sys/stat.h	/^	dev_t	st_rdev;$/;"	m	struct:stat	typeref:typename:dev_t
+st_size	oslab/linux-0.11/include/sys/stat.h	/^	off_t	st_size;$/;"	m	struct:stat	typeref:typename:off_t
+st_space	oslab/linux-0.11/include/linux/sched.h	/^	long	st_space[20];	\/* 8*10 bytes for each FP-reg = 80 bytes *\/$/;"	m	struct:i387_struct	typeref:typename:long[20]
+st_uid	oslab/linux-0.11/include/sys/stat.h	/^	uid_t	st_uid;$/;"	m	struct:stat	typeref:typename:uid_t
+stack	oslab/linux-0.11/kernel/sched.c	/^	char stack[PAGE_SIZE];$/;"	m	union:task_union	typeref:typename:char[]	file:
+stack_start	oslab/linux-0.11/kernel/sched.c	/^	} stack_start = { & user_stack [PAGE_SIZE>>2] , 0x10 };$/;"	v	typeref:struct:__anon6aff7e790108
+start_buffer	oslab/linux-0.11/fs/buffer.c	/^struct buffer_head * start_buffer = (struct buffer_head *) &end;$/;"	v	typeref:struct:buffer_head *
+start_code	oslab/linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+start_sect	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned int start_sect;	\/* starting sector counting from 0 *\/$/;"	m	struct:partition	typeref:typename:unsigned int
+start_sect	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	long start_sect;$/;"	m	struct:hd_struct	typeref:typename:long	file:
+start_stack	oslab/linux-0.11/include/linux/sched.h	/^	unsigned long start_code,end_code,end_data,brk,start_stack;$/;"	m	struct:task_struct	typeref:typename:unsigned long
+start_time	oslab/linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+startup_time	oslab/linux-0.11/kernel/sched.c	/^long startup_time=0;$/;"	v	typeref:typename:long
+stat	oslab/linux-0.11/include/sys/stat.h	/^struct stat {$/;"	s
+stat.o	oslab/linux-0.11/fs/Makefile	/^stat.o: stat.c ..\/include\/errno.h ..\/include\/sys\/stat.h \\$/;"	t
+state	oslab/linux-0.11/include/linux/sched.h	/^	long state;	\/* -1 unrunnable, 0 runnable, >0 stopped *\/$/;"	m	struct:task_struct	typeref:typename:long
+state	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	state=0;$/;"	v	typeref:typename:unsigned long	file:
+sti	oslab/linux-0.11/include/asm/system.h	/^#define sti(/;"	d
+stime	oslab/linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+stopped	oslab/linux-0.11/include/linux/tty.h	/^	int stopped;$/;"	m	struct:tty_struct	typeref:typename:int
+str	oslab/linux-0.11/include/linux/sched.h	/^#define str(/;"	d
+strcat	oslab/linux-0.11/include/string.h	/^extern inline char * strcat(char * dest,const char * src)$/;"	f	typeref:typename:char *
+strchr	oslab/linux-0.11/include/string.h	/^static inline char * strchr(const char * s,char c)$/;"	f	typeref:typename:char *
+strcmp	oslab/linux-0.11/include/string.h	/^extern inline int strcmp(const char * cs,const char * ct)$/;"	f	typeref:typename:int
+strcpy	oslab/linux-0.11/include/string.h	/^extern inline char * strcpy(char * dest,const char *src)$/;"	f	typeref:typename:char *
+strcspn	oslab/linux-0.11/include/string.h	/^extern inline int strcspn(const char * cs, const char * ct)$/;"	f	typeref:typename:int
+stretch	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+string.o	oslab/linux-0.11/lib/Makefile	/^string.s string.o : string.c ..\/include\/string.h $/;"	t
+string.s	oslab/linux-0.11/lib/Makefile	/^string.s string.o : string.c ..\/include\/string.h $/;"	t
+strlen	oslab/linux-0.11/include/string.h	/^extern inline int strlen(const char * s)$/;"	f	typeref:typename:int
+strncat	oslab/linux-0.11/include/string.h	/^static inline char * strncat(char * dest,const char * src,int count)$/;"	f	typeref:typename:char *
+strncmp	oslab/linux-0.11/include/string.h	/^static inline int strncmp(const char * cs,const char * ct,int count)$/;"	f	typeref:typename:int
+strncpy	oslab/linux-0.11/include/string.h	/^static inline char * strncpy(char * dest,const char *src,int count)$/;"	f	typeref:typename:char *
+strpbrk	oslab/linux-0.11/include/string.h	/^extern inline char * strpbrk(const char * cs,const char * ct)$/;"	f	typeref:typename:char *
+strrchr	oslab/linux-0.11/include/string.h	/^static inline char * strrchr(const char * s,char c)$/;"	f	typeref:typename:char *
+strspn	oslab/linux-0.11/include/string.h	/^extern inline int strspn(const char * cs, const char * ct)$/;"	f	typeref:typename:int
+strstr	oslab/linux-0.11/include/string.h	/^extern inline char * strstr(const char * cs,const char * ct)$/;"	f	typeref:typename:char *
+strtok	oslab/linux-0.11/include/string.h	/^extern inline char * strtok(char * s,const char * ct)$/;"	f	typeref:typename:char *
+suid	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short uid,euid,suid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+super.o	oslab/linux-0.11/fs/Makefile	/^super.o: super.c ..\/include\/linux\/config.h ..\/include\/linux\/sched.h \\$/;"	t
+super_block	oslab/linux-0.11/fs/super.c	/^struct super_block super_block[NR_SUPER];$/;"	v	typeref:struct:super_block[]
+super_block	oslab/linux-0.11/include/linux/fs.h	/^struct super_block {$/;"	s
+suser	oslab/linux-0.11/include/linux/kernel.h	/^#define suser(/;"	d
+swd	oslab/linux-0.11/include/linux/sched.h	/^	long	swd;$/;"	m	struct:i387_struct	typeref:typename:long
+switch_to	oslab/linux-0.11/include/linux/sched.h	/^#define switch_to(/;"	d
+sync_dev	oslab/linux-0.11/fs/buffer.c	/^int sync_dev(int dev)$/;"	f	typeref:typename:int
+sync_inodes	oslab/linux-0.11/fs/inode.c	/^void sync_inodes(void)$/;"	f	typeref:typename:void
+sys.o	oslab/linux-0.11/kernel/Makefile	/^sys.s sys.o: sys.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+sys.s	oslab/linux-0.11/kernel/Makefile	/^sys.s sys.o: sys.c ..\/include\/errno.h ..\/include\/linux\/sched.h \\$/;"	t
+sys_access	oslab/linux-0.11/fs/open.c	/^int sys_access(const char * filename,int mode)$/;"	f	typeref:typename:int
+sys_acct	oslab/linux-0.11/kernel/sys.c	/^int sys_acct()$/;"	f	typeref:typename:int
+sys_alarm	oslab/linux-0.11/kernel/sched.c	/^int sys_alarm(long seconds)$/;"	f	typeref:typename:int
+sys_break	oslab/linux-0.11/kernel/sys.c	/^int sys_break()$/;"	f	typeref:typename:int
+sys_brk	oslab/linux-0.11/kernel/sys.c	/^int sys_brk(unsigned long end_data_seg)$/;"	f	typeref:typename:int
+sys_call_table	oslab/linux-0.11/include/linux/sys.h	/^fn_ptr sys_call_table[] = { sys_setup, sys_exit, sys_fork, sys_read,$/;"	v	typeref:typename:fn_ptr[]
+sys_chdir	oslab/linux-0.11/fs/open.c	/^int sys_chdir(const char * filename)$/;"	f	typeref:typename:int
+sys_chmod	oslab/linux-0.11/fs/open.c	/^int sys_chmod(const char * filename,int mode)$/;"	f	typeref:typename:int
+sys_chown	oslab/linux-0.11/fs/open.c	/^int sys_chown(const char * filename,int uid,int gid)$/;"	f	typeref:typename:int
+sys_chroot	oslab/linux-0.11/fs/open.c	/^int sys_chroot(const char * filename)$/;"	f	typeref:typename:int
+sys_close	oslab/linux-0.11/fs/open.c	/^int sys_close(unsigned int fd)$/;"	f	typeref:typename:int
+sys_creat	oslab/linux-0.11/fs/open.c	/^int sys_creat(const char * pathname, int mode)$/;"	f	typeref:typename:int
+sys_dup	oslab/linux-0.11/fs/fcntl.c	/^int sys_dup(unsigned int fildes)$/;"	f	typeref:typename:int
+sys_dup2	oslab/linux-0.11/fs/fcntl.c	/^int sys_dup2(unsigned int oldfd, unsigned int newfd)$/;"	f	typeref:typename:int
+sys_exit	oslab/linux-0.11/kernel/exit.c	/^int sys_exit(int error_code)$/;"	f	typeref:typename:int
+sys_fcntl	oslab/linux-0.11/fs/fcntl.c	/^int sys_fcntl(unsigned int fd, unsigned int cmd, unsigned long arg)$/;"	f	typeref:typename:int
+sys_fstat	oslab/linux-0.11/fs/stat.c	/^int sys_fstat(unsigned int fd, struct stat * statbuf)$/;"	f	typeref:typename:int
+sys_ftime	oslab/linux-0.11/kernel/sys.c	/^int sys_ftime()$/;"	f	typeref:typename:int
+sys_getegid	oslab/linux-0.11/kernel/sched.c	/^int sys_getegid(void)$/;"	f	typeref:typename:int
+sys_geteuid	oslab/linux-0.11/kernel/sched.c	/^int sys_geteuid(void)$/;"	f	typeref:typename:int
+sys_getgid	oslab/linux-0.11/kernel/sched.c	/^int sys_getgid(void)$/;"	f	typeref:typename:int
+sys_getpgrp	oslab/linux-0.11/kernel/sys.c	/^int sys_getpgrp(void)$/;"	f	typeref:typename:int
+sys_getpid	oslab/linux-0.11/kernel/sched.c	/^int sys_getpid(void)$/;"	f	typeref:typename:int
+sys_getppid	oslab/linux-0.11/kernel/sched.c	/^int sys_getppid(void)$/;"	f	typeref:typename:int
+sys_getuid	oslab/linux-0.11/kernel/sched.c	/^int sys_getuid(void)$/;"	f	typeref:typename:int
+sys_gtty	oslab/linux-0.11/kernel/sys.c	/^int sys_gtty()$/;"	f	typeref:typename:int
+sys_ind	oslab/linux-0.11/include/linux/hdreg.h	/^	unsigned char sys_ind;		\/* ? *\/$/;"	m	struct:partition	typeref:typename:unsigned char
+sys_ioctl	oslab/linux-0.11/fs/ioctl.c	/^int sys_ioctl(unsigned int fd, unsigned int cmd, unsigned long arg)$/;"	f	typeref:typename:int
+sys_kill	oslab/linux-0.11/kernel/exit.c	/^int sys_kill(int pid,int sig)$/;"	f	typeref:typename:int
+sys_link	oslab/linux-0.11/fs/namei.c	/^int sys_link(const char * oldname, const char * newname)$/;"	f	typeref:typename:int
+sys_lock	oslab/linux-0.11/kernel/sys.c	/^int sys_lock()$/;"	f	typeref:typename:int
+sys_lseek	oslab/linux-0.11/fs/read_write.c	/^int sys_lseek(unsigned int fd,off_t offset, int origin)$/;"	f	typeref:typename:int
+sys_mkdir	oslab/linux-0.11/fs/namei.c	/^int sys_mkdir(const char * pathname, int mode)$/;"	f	typeref:typename:int
+sys_mknod	oslab/linux-0.11/fs/namei.c	/^int sys_mknod(const char * filename, int mode, int dev)$/;"	f	typeref:typename:int
+sys_mount	oslab/linux-0.11/fs/super.c	/^int sys_mount(char * dev_name, char * dir_name, int rw_flag)$/;"	f	typeref:typename:int
+sys_mpx	oslab/linux-0.11/kernel/sys.c	/^int sys_mpx()$/;"	f	typeref:typename:int
+sys_nice	oslab/linux-0.11/kernel/sched.c	/^int sys_nice(long increment)$/;"	f	typeref:typename:int
+sys_open	oslab/linux-0.11/fs/open.c	/^int sys_open(const char * filename,int flag,int mode)$/;"	f	typeref:typename:int
+sys_pause	oslab/linux-0.11/kernel/sched.c	/^int sys_pause(void)$/;"	f	typeref:typename:int
+sys_phys	oslab/linux-0.11/kernel/sys.c	/^int sys_phys()$/;"	f	typeref:typename:int
+sys_pipe	oslab/linux-0.11/fs/pipe.c	/^int sys_pipe(unsigned long * fildes)$/;"	f	typeref:typename:int
+sys_prof	oslab/linux-0.11/kernel/sys.c	/^int sys_prof()$/;"	f	typeref:typename:int
+sys_ptrace	oslab/linux-0.11/kernel/sys.c	/^int sys_ptrace()$/;"	f	typeref:typename:int
+sys_read	oslab/linux-0.11/fs/read_write.c	/^int sys_read(unsigned int fd,char * buf,int count)$/;"	f	typeref:typename:int
+sys_rename	oslab/linux-0.11/kernel/sys.c	/^int sys_rename()$/;"	f	typeref:typename:int
+sys_rmdir	oslab/linux-0.11/fs/namei.c	/^int sys_rmdir(const char * name)$/;"	f	typeref:typename:int
+sys_sem_open	oslab/linux-0.11/kernel/sem.c	/^sem_t *sys_sem_open(const char *name, unsigned int value){$/;"	f	typeref:typename:sem_t *
+sys_sem_post	oslab/linux-0.11/kernel/sem.c	/^int sys_sem_post(sem_t *sem){$/;"	f	typeref:typename:int
+sys_sem_unlink	oslab/linux-0.11/kernel/sem.c	/^int sys_sem_unlink(const char *name){$/;"	f	typeref:typename:int
+sys_sem_wait	oslab/linux-0.11/kernel/sem.c	/^int sys_sem_wait(sem_t *sem){$/;"	f	typeref:typename:int
+sys_setgid	oslab/linux-0.11/kernel/sys.c	/^int sys_setgid(int gid)$/;"	f	typeref:typename:int
+sys_setpgid	oslab/linux-0.11/kernel/sys.c	/^int sys_setpgid(int pid, int pgid)$/;"	f	typeref:typename:int
+sys_setregid	oslab/linux-0.11/kernel/sys.c	/^int sys_setregid(int rgid, int egid)$/;"	f	typeref:typename:int
+sys_setreuid	oslab/linux-0.11/kernel/sys.c	/^int sys_setreuid(int ruid, int euid)$/;"	f	typeref:typename:int
+sys_setsid	oslab/linux-0.11/kernel/sys.c	/^int sys_setsid(void)$/;"	f	typeref:typename:int
+sys_setuid	oslab/linux-0.11/kernel/sys.c	/^int sys_setuid(int uid)$/;"	f	typeref:typename:int
+sys_setup	oslab/linux-0.11/kernel/blk_drv/hd.c	/^int sys_setup(void * BIOS)$/;"	f	typeref:typename:int
+sys_sgetmask	oslab/linux-0.11/kernel/signal.c	/^int sys_sgetmask()$/;"	f	typeref:typename:int
+sys_sigaction	oslab/linux-0.11/kernel/signal.c	/^int sys_sigaction(int signum, const struct sigaction * action,$/;"	f	typeref:typename:int
+sys_signal	oslab/linux-0.11/kernel/signal.c	/^int sys_signal(int signum, long handler, long restorer)$/;"	f	typeref:typename:int
+sys_ssetmask	oslab/linux-0.11/kernel/signal.c	/^int sys_ssetmask(int newmask)$/;"	f	typeref:typename:int
+sys_stat	oslab/linux-0.11/fs/stat.c	/^int sys_stat(char * filename, struct stat * statbuf)$/;"	f	typeref:typename:int
+sys_stime	oslab/linux-0.11/kernel/sys.c	/^int sys_stime(long * tptr)$/;"	f	typeref:typename:int
+sys_stty	oslab/linux-0.11/kernel/sys.c	/^int sys_stty()$/;"	f	typeref:typename:int
+sys_sync	oslab/linux-0.11/fs/buffer.c	/^int sys_sync(void)$/;"	f	typeref:typename:int
+sys_time	oslab/linux-0.11/kernel/sys.c	/^int sys_time(long * tloc)$/;"	f	typeref:typename:int
+sys_times	oslab/linux-0.11/kernel/sys.c	/^int sys_times(struct tms * tbuf)$/;"	f	typeref:typename:int
+sys_ulimit	oslab/linux-0.11/kernel/sys.c	/^int sys_ulimit()$/;"	f	typeref:typename:int
+sys_umask	oslab/linux-0.11/kernel/sys.c	/^int sys_umask(int mask)$/;"	f	typeref:typename:int
+sys_umount	oslab/linux-0.11/fs/super.c	/^int sys_umount(char * dev_name)$/;"	f	typeref:typename:int
+sys_uname	oslab/linux-0.11/kernel/sys.c	/^int sys_uname(struct utsname * name)$/;"	f	typeref:typename:int
+sys_unlink	oslab/linux-0.11/fs/namei.c	/^int sys_unlink(const char * name)$/;"	f	typeref:typename:int
+sys_ustat	oslab/linux-0.11/fs/open.c	/^int sys_ustat(int dev, struct ustat * ubuf)$/;"	f	typeref:typename:int
+sys_utime	oslab/linux-0.11/fs/open.c	/^int sys_utime(char * filename, struct utimbuf * times)$/;"	f	typeref:typename:int
+sys_waitpid	oslab/linux-0.11/kernel/exit.c	/^int sys_waitpid(pid_t pid,unsigned long * stat_addr, int options)$/;"	f	typeref:typename:int
+sys_write	oslab/linux-0.11/fs/read_write.c	/^int sys_write(unsigned int fd,char * buf,int count)$/;"	f	typeref:typename:int
+sysbeep	oslab/linux-0.11/kernel/chr_drv/console.c	/^static void sysbeep(void)$/;"	f	typeref:typename:void	file:
+sysbeepstop	oslab/linux-0.11/kernel/chr_drv/console.c	/^void sysbeepstop(void)$/;"	f	typeref:typename:void
+sysname	oslab/linux-0.11/include/sys/utsname.h	/^	char sysname[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+table_list	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^struct tty_queue * table_list[]={$/;"	v	typeref:struct:tty_queue * []
+tail	oslab/linux-0.11/include/linux/tty.h	/^	unsigned long tail;$/;"	m	struct:tty_queue	typeref:typename:unsigned long
+task	oslab/linux-0.11/kernel/sched.c	/^	struct task_struct task;$/;"	m	union:task_union	typeref:struct:task_struct	file:
+task	oslab/linux-0.11/kernel/sched.c	/^struct task_struct * task[NR_TASKS] = {&(init_task.task), };$/;"	v	typeref:struct:task_struct * []
+task_struct	oslab/linux-0.11/include/linux/sched.h	/^struct task_struct {$/;"	s
+task_union	oslab/linux-0.11/kernel/sched.c	/^union task_union {$/;"	u	file:
+tell_father	oslab/linux-0.11/kernel/exit.c	/^static void tell_father(int pid)$/;"	f	typeref:typename:void	file:
+termio	oslab/linux-0.11/include/termios.h	/^struct termio {$/;"	s
+termios	oslab/linux-0.11/include/linux/tty.h	/^	struct termios termios;$/;"	m	struct:tty_struct	typeref:struct:termios
+termios	oslab/linux-0.11/include/termios.h	/^struct termios {$/;"	s
+ticks_to_floppy_on	oslab/linux-0.11/kernel/sched.c	/^int ticks_to_floppy_on(unsigned int nr)$/;"	f	typeref:typename:int
+time_init	oslab/linux-0.11/init/main.c	/^static void time_init(void)$/;"	f	typeref:typename:void	file:
+time_t	oslab/linux-0.11/include/sys/types.h	/^typedef long time_t;$/;"	t	typeref:typename:long
+time_t	oslab/linux-0.11/include/time.h	/^typedef long time_t;$/;"	t	typeref:typename:long
+timer_list	oslab/linux-0.11/kernel/sched.c	/^static struct timer_list {$/;"	s	file:
+timer_list	oslab/linux-0.11/kernel/sched.c	/^} timer_list[TIME_REQUESTS], * next_timer = NULL;$/;"	v	typeref:struct:timer_list[]
+tm	oslab/linux-0.11/include/time.h	/^struct tm {$/;"	s
+tm_hour	oslab/linux-0.11/include/time.h	/^	int tm_hour;$/;"	m	struct:tm	typeref:typename:int
+tm_isdst	oslab/linux-0.11/include/time.h	/^	int tm_isdst;$/;"	m	struct:tm	typeref:typename:int
+tm_mday	oslab/linux-0.11/include/time.h	/^	int tm_mday;$/;"	m	struct:tm	typeref:typename:int
+tm_min	oslab/linux-0.11/include/time.h	/^	int tm_min;$/;"	m	struct:tm	typeref:typename:int
+tm_mon	oslab/linux-0.11/include/time.h	/^	int tm_mon;$/;"	m	struct:tm	typeref:typename:int
+tm_sec	oslab/linux-0.11/include/time.h	/^	int tm_sec;$/;"	m	struct:tm	typeref:typename:int
+tm_wday	oslab/linux-0.11/include/time.h	/^	int tm_wday;$/;"	m	struct:tm	typeref:typename:int
+tm_yday	oslab/linux-0.11/include/time.h	/^	int tm_yday;$/;"	m	struct:tm	typeref:typename:int
+tm_year	oslab/linux-0.11/include/time.h	/^	int tm_year;$/;"	m	struct:tm	typeref:typename:int
+tmp.s	oslab/linux-0.11/Makefile	/^tmp.s:	boot\/bootsect.s tools\/system$/;"	t
+tms	oslab/linux-0.11/include/sys/times.h	/^struct tms {$/;"	s
+tms_cstime	oslab/linux-0.11/include/sys/times.h	/^	time_t tms_cstime;$/;"	m	struct:tms	typeref:typename:time_t
+tms_cutime	oslab/linux-0.11/include/sys/times.h	/^	time_t tms_cutime;$/;"	m	struct:tms	typeref:typename:time_t
+tms_stime	oslab/linux-0.11/include/sys/times.h	/^	time_t tms_stime;$/;"	m	struct:tms	typeref:typename:time_t
+tms_utime	oslab/linux-0.11/include/sys/times.h	/^	time_t tms_utime;$/;"	m	struct:tms	typeref:typename:time_t
+toascii	oslab/linux-0.11/include/ctype.h	/^#define toascii(/;"	d
+tolower	oslab/linux-0.11/include/ctype.h	/^#define tolower(/;"	d
+tools/build	oslab/linux-0.11/Makefile	/^tools\/build: tools\/build.c$/;"	t
+tools/system	oslab/linux-0.11/Makefile	/^tools\/system:	boot\/head.o init\/main.o \\$/;"	t
+top	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	top,bottom;$/;"	v	typeref:typename:unsigned long	file:
+toupper	oslab/linux-0.11/include/ctype.h	/^#define toupper(/;"	d
+trace_bitmap	oslab/linux-0.11/include/linux/sched.h	/^	long	trace_bitmap;	\/* bits: trace 0, bitmap 16-31 *\/$/;"	m	struct:tss_struct	typeref:typename:long
+track	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^	unsigned int size, sect, head, track, stretch;$/;"	m	struct:floppy_struct	typeref:typename:unsigned int	file:
+track	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static unsigned char track = 0;$/;"	v	typeref:typename:unsigned char	file:
+transfer	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^static void transfer(void)$/;"	f	typeref:typename:void	file:
+trap_init	oslab/linux-0.11/kernel/traps.c	/^void trap_init(void)$/;"	f	typeref:typename:void
+traps.o	oslab/linux-0.11/kernel/Makefile	/^traps.s traps.o: traps.c ..\/include\/string.h ..\/include\/linux\/head.h \\$/;"	t
+traps.s	oslab/linux-0.11/kernel/Makefile	/^traps.s traps.o: traps.c ..\/include\/string.h ..\/include\/linux\/head.h \\$/;"	t
+truncate	oslab/linux-0.11/fs/truncate.c	/^void truncate(struct m_inode * inode)$/;"	f	typeref:typename:void
+truncate.o	oslab/linux-0.11/fs/Makefile	/^truncate.o: truncate.c ..\/include\/linux\/sched.h ..\/include\/linux\/head.h \\$/;"	t
+try_to_share	oslab/linux-0.11/mm/memory.c	/^static int try_to_share(unsigned long address, struct task_struct * p)$/;"	f	typeref:typename:int	file:
+tss	oslab/linux-0.11/include/linux/sched.h	/^	struct tss_struct tss;$/;"	m	struct:task_struct	typeref:struct:tss_struct
+tss_struct	oslab/linux-0.11/include/linux/sched.h	/^struct tss_struct {$/;"	s
+tty	oslab/linux-0.11/include/linux/sched.h	/^	int tty;		\/* -1 if no tty, so it must be signed *\/$/;"	m	struct:task_struct	typeref:typename:int
+tty_init	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^void tty_init(void)$/;"	f	typeref:typename:void
+tty_intr	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^void tty_intr(struct tty_struct * tty, int mask)$/;"	f	typeref:typename:void
+tty_io.o	oslab/linux-0.11/kernel/chr_drv/Makefile	/^tty_io.s tty_io.o: tty_io.c ..\/..\/include\/ctype.h ..\/..\/include\/errno.h \\$/;"	t
+tty_io.s	oslab/linux-0.11/kernel/chr_drv/Makefile	/^tty_io.s tty_io.o: tty_io.c ..\/..\/include\/ctype.h ..\/..\/include\/errno.h \\$/;"	t
+tty_ioctl	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^int tty_ioctl(int dev, int cmd, int arg)$/;"	f	typeref:typename:int
+tty_ioctl.o	oslab/linux-0.11/kernel/chr_drv/Makefile	/^tty_ioctl.s tty_ioctl.o: tty_ioctl.c ..\/..\/include\/errno.h ..\/..\/include\/termios.h \\$/;"	t
+tty_ioctl.s	oslab/linux-0.11/kernel/chr_drv/Makefile	/^tty_ioctl.s tty_ioctl.o: tty_ioctl.c ..\/..\/include\/errno.h ..\/..\/include\/termios.h \\$/;"	t
+tty_queue	oslab/linux-0.11/include/linux/tty.h	/^struct tty_queue {$/;"	s
+tty_read	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^int tty_read(unsigned channel, char * buf, int nr)$/;"	f	typeref:typename:int
+tty_struct	oslab/linux-0.11/include/linux/tty.h	/^struct tty_struct {$/;"	s
+tty_table	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^struct tty_struct tty_table[] = {$/;"	v	typeref:struct:tty_struct[]
+tty_write	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^int tty_write(unsigned channel, char * buf, int nr)$/;"	f	typeref:typename:int
+twd	oslab/linux-0.11/include/linux/sched.h	/^	long	twd;$/;"	m	struct:i387_struct	typeref:typename:long
+u_char	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned char u_char;$/;"	t	typeref:typename:unsigned char
+uid	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short uid,euid,suid;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+uid_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned short uid_t;$/;"	t	typeref:typename:unsigned short
+umask	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short umask;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+umode_t	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned short umode_t;$/;"	t	typeref:typename:unsigned short
+un_wp_page	oslab/linux-0.11/mm/memory.c	/^void un_wp_page(unsigned long * table_entry)$/;"	f	typeref:typename:void
+unexpected_floppy_interrupt	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^void unexpected_floppy_interrupt(void)$/;"	f	typeref:typename:void
+unexpected_hd_interrupt	oslab/linux-0.11/kernel/blk_drv/hd.c	/^void unexpected_hd_interrupt(void)$/;"	f	typeref:typename:void
+unlock_buffer	oslab/linux-0.11/kernel/blk_drv/blk.h	/^static inline void unlock_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void
+unlock_buffer	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^static inline void unlock_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+unlock_inode	oslab/linux-0.11/fs/inode.c	/^static inline void unlock_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+usage	oslab/linux-0.11/tools/build.c	/^void usage(void)$/;"	f	typeref:typename:void
+used_math	oslab/linux-0.11/include/linux/sched.h	/^	unsigned short used_math;$/;"	m	struct:task_struct	typeref:typename:unsigned short
+user_stack	oslab/linux-0.11/kernel/sched.c	/^long user_stack [ PAGE_SIZE>>2 ] ;$/;"	v	typeref:typename:long[]
+ushort	oslab/linux-0.11/include/sys/types.h	/^typedef unsigned short ushort;$/;"	t	typeref:typename:unsigned short
+ustat	oslab/linux-0.11/include/sys/types.h	/^struct ustat {$/;"	s
+utimbuf	oslab/linux-0.11/include/utime.h	/^struct utimbuf {$/;"	s
+utime	oslab/linux-0.11/include/linux/sched.h	/^	long utime,stime,cutime,cstime,start_time;$/;"	m	struct:task_struct	typeref:typename:long
+utsname	oslab/linux-0.11/include/sys/utsname.h	/^struct utsname {$/;"	s
+va_arg	oslab/linux-0.11/include/stdarg.h	/^#define va_arg(/;"	d
+va_end	oslab/linux-0.11/include/stdarg.h	/^#define va_end(/;"	d
+va_list	oslab/linux-0.11/include/stdarg.h	/^typedef char *va_list;$/;"	t	typeref:typename:char *
+va_start	oslab/linux-0.11/include/stdarg.h	/^#define va_start(/;"	d
+value	oslab/linux-0.11/include/linux/sem.h	/^    int value;$/;"	m	struct:semaphore_t	typeref:typename:int
+verify_area	oslab/linux-0.11/kernel/fork.c	/^void verify_area(void * addr,int size)$/;"	f	typeref:typename:void
+version	oslab/linux-0.11/include/sys/utsname.h	/^	char version[9];$/;"	m	struct:utsname	typeref:typename:char[9]
+video_erase_char	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned short	video_erase_char;	\/* Char+Attrib to erase with	*\/$/;"	v	typeref:typename:unsigned short	file:
+video_mem_end	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_mem_end;		\/* End of video RAM (sort of)	*\/$/;"	v	typeref:typename:unsigned long	file:
+video_mem_start	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_mem_start;	\/* Start of video RAM		*\/$/;"	v	typeref:typename:unsigned long	file:
+video_num_columns	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_num_columns;	\/* Number of text columns	*\/$/;"	v	typeref:typename:unsigned long	file:
+video_num_lines	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_num_lines;	\/* Number of test lines		*\/$/;"	v	typeref:typename:unsigned long	file:
+video_page	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned char	video_page;		\/* Initial video page		*\/$/;"	v	typeref:typename:unsigned char	file:
+video_port_reg	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned short	video_port_reg;		\/* Video register select port	*\/$/;"	v	typeref:typename:unsigned short	file:
+video_port_val	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned short	video_port_val;		\/* Video register value port	*\/$/;"	v	typeref:typename:unsigned short	file:
+video_size_row	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	video_size_row;		\/* Bytes per row		*\/$/;"	v	typeref:typename:unsigned long	file:
+video_type	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned char	video_type;		\/* Type of display being used	*\/$/;"	v	typeref:typename:unsigned char	file:
+vsprintf	oslab/linux-0.11/kernel/vsprintf.c	/^int vsprintf(char *buf, const char *fmt, va_list args)$/;"	f	typeref:typename:int
+vsprintf.o	oslab/linux-0.11/kernel/Makefile	/^vsprintf.s vsprintf.o: vsprintf.c ..\/include\/stdarg.h ..\/include\/string.h$/;"	t
+vsprintf.s	oslab/linux-0.11/kernel/Makefile	/^vsprintf.s vsprintf.o: vsprintf.c ..\/include\/stdarg.h ..\/include\/string.h$/;"	t
+wait.o	oslab/linux-0.11/lib/Makefile	/^wait.s wait.o : wait.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+wait.s	oslab/linux-0.11/lib/Makefile	/^wait.s wait.o : wait.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+wait_for_keypress	oslab/linux-0.11/kernel/chr_drv/tty_io.c	/^void wait_for_keypress(void)$/;"	f	typeref:typename:void
+wait_for_request	oslab/linux-0.11/kernel/blk_drv/ll_rw_blk.c	/^struct task_struct * wait_for_request = NULL;$/;"	v	typeref:struct:task_struct *
+wait_motor	oslab/linux-0.11/kernel/sched.c	/^static struct task_struct * wait_motor[4] = {NULL,NULL,NULL,NULL};$/;"	v	typeref:struct:task_struct * [4]	file:
+wait_on_buffer	oslab/linux-0.11/fs/buffer.c	/^static inline void wait_on_buffer(struct buffer_head * bh)$/;"	f	typeref:typename:void	file:
+wait_on_floppy_select	oslab/linux-0.11/kernel/blk_drv/floppy.c	/^struct task_struct * wait_on_floppy_select = NULL;$/;"	v	typeref:struct:task_struct *
+wait_on_inode	oslab/linux-0.11/fs/inode.c	/^static inline void wait_on_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+wait_on_super	oslab/linux-0.11/fs/super.c	/^static void wait_on_super(struct super_block * sb)$/;"	f	typeref:typename:void	file:
+wait_until_sent	oslab/linux-0.11/kernel/chr_drv/tty_ioctl.c	/^static void wait_until_sent(struct tty_struct * tty)$/;"	f	typeref:typename:void	file:
+waiting	oslab/linux-0.11/kernel/blk_drv/blk.h	/^	struct task_struct * waiting;$/;"	m	struct:request	typeref:struct:task_struct *
+wake_up	oslab/linux-0.11/kernel/sched.c	/^void wake_up(struct task_struct **p)$/;"	f	typeref:typename:void
+win_result	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static int win_result(void)$/;"	f	typeref:typename:int	file:
+winsize	oslab/linux-0.11/include/termios.h	/^struct winsize {$/;"	s
+wpcom	oslab/linux-0.11/kernel/blk_drv/hd.c	/^	int head,sect,cyl,wpcom,lzone,ctl;$/;"	m	struct:hd_i_struct	typeref:typename:int	file:
+write	oslab/linux-0.11/include/linux/tty.h	/^	void (*write)(struct tty_struct * tty);$/;"	m	struct:tty_struct	typeref:typename:void (*)(struct tty_struct * tty)
+write.o	oslab/linux-0.11/lib/Makefile	/^write.s write.o : write.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+write.s	oslab/linux-0.11/lib/Makefile	/^write.s write.o : write.c ..\/include\/unistd.h ..\/include\/sys\/stat.h \\$/;"	t
+write_inode	oslab/linux-0.11/fs/inode.c	/^static void write_inode(struct m_inode * inode)$/;"	f	typeref:typename:void	file:
+write_intr	oslab/linux-0.11/kernel/blk_drv/hd.c	/^static void write_intr(void)$/;"	f	typeref:typename:void	file:
+write_pipe	oslab/linux-0.11/fs/pipe.c	/^int write_pipe(struct m_inode * inode, char * buf, int count)$/;"	f	typeref:typename:int
+write_q	oslab/linux-0.11/include/linux/tty.h	/^	struct tty_queue write_q;$/;"	m	struct:tty_struct	typeref:struct:tty_queue
+write_verify	oslab/linux-0.11/mm/memory.c	/^void write_verify(unsigned long address)$/;"	f	typeref:typename:void
+ws_col	oslab/linux-0.11/include/termios.h	/^	unsigned short ws_col;$/;"	m	struct:winsize	typeref:typename:unsigned short
+ws_row	oslab/linux-0.11/include/termios.h	/^	unsigned short ws_row;$/;"	m	struct:winsize	typeref:typename:unsigned short
+ws_xpixel	oslab/linux-0.11/include/termios.h	/^	unsigned short ws_xpixel;$/;"	m	struct:winsize	typeref:typename:unsigned short
+ws_ypixel	oslab/linux-0.11/include/termios.h	/^	unsigned short ws_ypixel;$/;"	m	struct:winsize	typeref:typename:unsigned short
+x	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	x,y;$/;"	v	typeref:typename:unsigned long	file:
+y	oslab/linux-0.11/kernel/chr_drv/console.c	/^static unsigned long	x,y;$/;"	v	typeref:typename:unsigned long	file:
